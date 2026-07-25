@@ -1,0 +1,10 @@
+{
+  "_comment": "Nigeria In Transit Index - 在途库存数据",
+  "_format": "物料编码 -> { 仓库名: 在途数量 }",
+  "_example": {
+    "10046012": {
+      "Nigeria-MWH": 32,
+      "Advance-E-Lagos-Ikeja": 3
+    }
+  }
+}

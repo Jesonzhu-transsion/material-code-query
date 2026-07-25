@@ -1,0 +1,12 @@
+{
+  "_comment": "Nigeria Inventory Index - 物料库存数据",
+  "_format": "物料编码 -> { 仓库名: { Good: 数量 }, _desc: 物料描述 }",
+  "_example": {
+    "12116666": {
+      "Nigeria-MWH": { "Good": 100 },
+      "NG-Lagos-Main": { "Good": 50 },
+      "Carlcare-Lagos-Ikeja": { "Good": 10 },
+      "_desc": "Mi hsg X6725 TWILIGHT GOLD V0 XG GK N"
+    }
+  }
+}
