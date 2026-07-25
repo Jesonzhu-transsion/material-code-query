@@ -1,10 +1,1 @@
-{
-  "_comment": "Nigeria Substitute Map - 物料替代关系",
-  "_format": "主物料编码 -> [{ code: 替代物料编码, desc: 描述, scenario: 场景 }]",
-  "_example": {
-    "25002155": [
-      { "code": "25002329", "desc": "25002329-AL Bat BL-38CI 3850mAh CB", "scenario": "Real logistics" },
-      { "code": "25001854", "desc": "25001854-Bat itel BL 38CI 3850mAh FH NTC BIS", "scenario": "Real logistics" }
-    ]
-  }
-}
+{}
