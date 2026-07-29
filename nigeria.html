@@ -415,9 +415,50 @@
                     throw new Error('Failed to load data');
                 }
                 
-                inventoryData = await invRes.json();
+                const rawInventory = await invRes.json();
                 substituteData = await subRes.json();
-                inTransitData = await transitRes.json();
+                const rawTransit = await transitRes.json();
+                
+                // Convert inventory data: new format is array of records per material
+                // Old format expected by search: {code: {warehouse: {Good: qty}, _desc: "..."}}
+                // New format: {code: [{warehouseName, status, quantity, materialDesc, ...}]}
+                const convertedInventory = {};
+                for (const [code, records] of Object.entries(rawInventory)) {
+                    if (!Array.isArray(records)) {
+                        convertedInventory[code] = records;
+                        continue;
+                    }
+                    const warehouses = {};
+                    let desc = '';
+                    for (const r of records) {
+                        if (!desc && r.materialDesc) desc = r.materialDesc;
+                        const wh = r.warehouseName;
+                        if (!warehouses[wh]) warehouses[wh] = {};
+                        const status = r.status || 'Good';
+                        warehouses[wh][status] = (warehouses[wh][status] || 0) + (r.quantity || 0);
+                    }
+                    if (desc) warehouses._desc = desc;
+                    convertedInventory[code] = warehouses;
+                }
+                inventoryData = convertedInventory;
+                
+                // Convert in-transit data: new format is array of records per material
+                // Old format expected: {code: {warehouse: qty}}
+                // New format: {code: [{warehouseName, quantity, ...}]}
+                const convertedTransit = {};
+                for (const [code, records] of Object.entries(rawTransit)) {
+                    if (!Array.isArray(records)) {
+                        convertedTransit[code] = records;
+                        continue;
+                    }
+                    const warehouses = {};
+                    for (const r of records) {
+                        const wh = r.warehouseName;
+                        warehouses[wh] = (warehouses[wh] || 0) + (r.quantity || 0);
+                    }
+                    convertedTransit[code] = warehouses;
+                }
+                inTransitData = convertedTransit;
                 
                 // Nigeria warehouse list
                 const fixedWarehouses = [
