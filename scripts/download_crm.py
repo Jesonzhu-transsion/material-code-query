@@ -219,13 +219,28 @@ async def main():
         await ctx.add_cookies(cookie_list)
         page = await ctx.new_page()
         
-        # Capture downloads
+        # Capture downloads with rename logic
+        # CRM server names both files with "In_Transit_" prefix,
+        # so we rename the first download to InventoryOverview
         downloads = []
+        download_count = [0]  # mutable counter
+        
         async def on_download(d):
-            path = os.path.join(DOWNLOAD_DIR, d.suggested_filename)
-            await d.save_as(path)
-            downloads.append(path)
-            print(f"  [download event] {path}")
+            download_count[0] += 1
+            raw_path = os.path.join(DOWNLOAD_DIR, d.suggested_filename)
+            await d.save_as(raw_path)
+            
+            # Rename: first download = Inventory Overview, second = In Transit
+            if download_count[0] == 1:
+                new_name = "InventoryOverview_" + d.suggested_filename
+            else:
+                new_name = "In_Transit_" + d.suggested_filename
+            
+            new_path = os.path.join(DOWNLOAD_DIR, new_name)
+            os.rename(raw_path, new_path)
+            downloads.append(new_path)
+            print(f"  [download event] {new_path}")
+        
         page.on("download", lambda d: asyncio.ensure_future(on_download(d)))
         
         # === Inventory Overview ===
