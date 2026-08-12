@@ -675,7 +675,25 @@
             const mainResults = [];
             
             // Get material description from index
-            const materialDesc = inventoryData[materialCode]?._desc || 'Main Material';
+            // Priority: inventory _desc > substitute data > in-transit context > default
+            let materialDesc = inventoryData[materialCode]?._desc || '';
+            if (!materialDesc && substituteData) {
+                // Try forward lookup in substitute data
+                if (substituteData[materialCode]) {
+                    materialDesc = substituteData[materialCode][0]?.desc || '';
+                }
+                // Try reverse lookup in substitute data
+                if (!materialDesc) {
+                    for (const [parentCode, subs] of Object.entries(substituteData)) {
+                        const revEntry = subs.find(s => s.code === materialCode);
+                        if (revEntry && revEntry.desc) {
+                            materialDesc = revEntry.desc;
+                            break;
+                        }
+                    }
+                }
+            }
+            if (!materialDesc) materialDesc = materialCode;
             
             // Helper: check if warehouse has in-transit for this material
             function hasInTransit(code, whName) {
@@ -869,7 +887,16 @@
             const totalInTransitEl = document.getElementById('totalInTransitValue');
             if (totalInTransitEl) totalInTransitEl.textContent = totalInTransit;
             
-            if (dedupedResults.length === 0) {
+            // Sort results: searched material code first, then substitutes, then sub-rev
+            const searchCode = materialCode;
+            dedupedResults.sort((a, b) => {
+                // Searched code always first
+                if (a.code === searchCode && b.code !== searchCode) return -1;
+                if (b.code === searchCode && a.code !== searchCode) return 1;
+                // Then main types before sub types
+                const typeOrder = { 'main': 0, 'sub': 1, 'sub-rev': 2 };
+                return (typeOrder[a.type] || 3) - (typeOrder[b.type] || 3);
+            });
                 resultBody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:#999;">No stock records found</td></tr>';
             } else {
                 resultBody.innerHTML = dedupedResults.map(r => {
