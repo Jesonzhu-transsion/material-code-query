@@ -901,6 +901,8 @@
                 const typeOrder = { 'main': 0, 'sub': 1, 'sub-rev': 2 };
                 return (typeOrder[a.type] || 3) - (typeOrder[b.type] || 3);
             });
+
+            if (dedupedResults.length === 0) {
                 resultBody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:#999;">No stock records found</td></tr>';
             } else {
                 resultBody.innerHTML = dedupedResults.map(r => {
