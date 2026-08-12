@@ -694,6 +694,10 @@
                 }
             }
             if (!materialDesc) materialDesc = materialCode;
+            // Strip material code prefix from description if present (e.g. "10306089-Power Bank..." -> "Power Bank...")
+            if (materialDesc.startsWith(materialCode + '-')) {
+                materialDesc = materialDesc.substring(materialCode.length + 1);
+            }
             
             // Helper: check if warehouse has in-transit for this material
             function hasInTransit(code, whName) {
