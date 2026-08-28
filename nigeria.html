@@ -678,18 +678,12 @@
             // Priority: inventory _desc > substitute data > in-transit context > default
             let materialDesc = inventoryData[materialCode]?._desc || '';
             if (!materialDesc && substituteData) {
-                // Try forward lookup in substitute data
-                if (substituteData[materialCode]) {
-                    materialDesc = substituteData[materialCode][0]?.desc || '';
-                }
-                // Try reverse lookup in substitute data
-                if (!materialDesc) {
-                    for (const [parentCode, subs] of Object.entries(substituteData)) {
-                        const revEntry = subs.find(s => s.code === materialCode);
-                        if (revEntry && revEntry.desc) {
-                            materialDesc = revEntry.desc;
-                            break;
-                        }
+                // substitute 已精简为纯 code 数组（无 desc），描述统一从库存索引取
+                // 反向兜底：若本物料被其他物料作为替代，取父物料描述
+                for (const [parentCode, subs] of Object.entries(substituteData)) {
+                    if (subs.includes(materialCode)) {
+                        materialDesc = inventoryData[parentCode]?._desc || parentCode;
+                        break;
                     }
                 }
             }
@@ -747,9 +741,8 @@
             
             // Forward lookup: substituteData[materialCode]
             if (substituteData[materialCode]) {
-                for (const sub of substituteData[materialCode]) {
-                    const subCode = sub.code;
-                    const subDesc = sub.desc || '';
+                for (const subCode of substituteData[materialCode]) {
+                    const subDesc = inventoryData[subCode]?._desc || subCode;
                     seenSubCodes.add(subCode);
                     
                     if (inventoryData[subCode]) {
@@ -791,9 +784,8 @@
             // Reverse lookup: find materials that have this as a substitute
             for (const [parentCode, subs] of Object.entries(substituteData)) {
                 if (parentCode === materialCode || seenSubCodes.has(parentCode)) continue;
-                const revEntry = subs.find(s => s.code === materialCode);
-                if (!revEntry) continue;
-                const revDesc = revEntry.desc || '';
+                if (!subs.includes(materialCode)) continue;
+                const revDesc = inventoryData[parentCode]?._desc || parentCode;
                 
                 if (inventoryData[parentCode]) {
                     if (selectedWarehouses.length > 0) {
