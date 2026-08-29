@@ -68,7 +68,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 4
+      "Good": 3
     },
     "ASRP-KD distribution & service": {
       "Good": 2
@@ -155,7 +155,7 @@
       "Good": 16
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 12
+      "Good": 11
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 5
@@ -184,6 +184,9 @@
     "ASC-M-Beecasual Ventures": {
       "Good": 2
     },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 1
+    },
     "Carlcare-Benin": {
       "Good": 1
     },
@@ -203,7 +206,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
+      "Good": 1
     },
     "Niger-MWH": {
       "Good": 2
@@ -224,7 +227,7 @@
       "Good": 2
     },
     "Carlcare-Abuja": {
-      "Good": 21
+      "Good": 20
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 7
@@ -263,22 +266,22 @@
       "Good": 4
     },
     "Nigeria-MWH": {
-      "Good": 730
+      "Good": 719
     },
     "ASC-M-Matga Service": {
-      "Good": 67
+      "Good": 66
     },
     "Carlcare-Warri": {
       "Good": 8
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 15
+      "Good": 7
     },
     "Carlcare-Onitsha": {
-      "Good": 97
+      "Good": 95
     },
     "ASRP-Mosie Solid Hub": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Femtech Offa": {
       "Good": 34
@@ -287,7 +290,7 @@
       "Good": 283
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 65
+      "Good": 59
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 7
@@ -365,7 +368,7 @@
       "Good": 32
     },
     "Carlcare-Port-harcourt": {
-      "Good": 163
+      "Good": 161
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 2
@@ -383,7 +386,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 363
+      "Good": 365
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -452,9 +455,6 @@
       "Good": 17
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 1
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
@@ -866,7 +866,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 3010
+      "Good": 3006
     },
     "ASC-M-Matga Service": {
       "Good": 26
@@ -884,16 +884,16 @@
       "Good": 3
     },
     "ASC-M-Don-Yellow Tech": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Femtech Offa": {
-      "Good": 15
+      "Good": 20
     },
     "Carlcare-Kano": {
       "Good": 238
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 216
+      "Good": 213
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 5
@@ -925,11 +925,8 @@
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 12
     },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 2
-    },
     "ASC-M-Beecasual Ventures": {
-      "Good": 9
+      "Good": 0
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 10
@@ -956,7 +953,7 @@
       "Good": 5
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 53
+      "Good": 52
     },
     "ASC-M-Switrat Limited": {
       "Good": 15
@@ -974,7 +971,7 @@
       "Good": 6
     },
     "ASRP-Mecca Media Ltd": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 524
@@ -986,7 +983,7 @@
       "Good": 1
     },
     "Carlcare-Abuja": {
-      "Good": 109
+      "Good": 104
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 21
@@ -1015,9 +1012,6 @@
     "ASC-M-Matga Service Oye": {
       "Good": 3
     },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
-    },
     "ASRP-SmartPhone Global": {
       "Good": 6
     },
@@ -1037,7 +1031,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 10
+      "Good": 12
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -1064,16 +1058,16 @@
       "Good": 13
     },
     "Carlcare-Onitsha": {
-      "Good": 61
+      "Good": 60
     },
     "ASC-M-Femtech Offa": {
       "Good": 43
     },
     "Carlcare-Kano": {
-      "Good": 41
+      "Good": 36
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 143
+      "Good": 142
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -1133,7 +1127,7 @@
       "Good": 2
     },
     "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 3
+      "Good": 1
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 156
@@ -1145,7 +1139,7 @@
       "Good": 7
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Gifted hands Tech": {
       "Good": 1
@@ -1253,7 +1247,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 3
@@ -1295,151 +1289,13 @@
       "Good": 3
     }
   },
-  "12207231": {
-    "_desc": "PF 3in1 A6611L BLACK YX+YXGD",
-    "NGSI03781-Gadgets Place Ng Ltd": {
-      "Good": 1
-    },
-    "Nigeria-MWH": {
-      "Good": 29
-    },
-    "ASC-M-Matga Service": {
-      "Good": 5
-    },
-    "NGSI03851- ASC-M-Topnotch Tech Hub": {
-      "Good": 1
-    },
-    "Carlcare-Warri": {
-      "Good": 8
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
-    },
-    "ASC-M-Jenzabar Limited": {
-      "Good": 1
-    },
-    "ASC-M-Kraaft Technology & services": {
-      "Good": 4
-    },
-    "ASC-M-Femtech Offa": {
-      "Good": 3
-    },
-    "Carlcare-Kano": {
-      "Good": 10
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 20
-    },
-    "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 5
-    },
-    "ASC-M-Zikniks Suleja": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 3
-    },
-    "L4 Device Repair": {
-      "Good": 2
-    },
-    "ASC-M-Intaj Dynamic": {
-      "Good": 5
-    },
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": {
-      "Good": 25
-    },
-    "ASC-M-Midas Touch Sokoto": {
-      "Good": 1
-    },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Lagos": {
-      "Good": 9
-    },
-    "ASC-M-Haslida Concept": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 12
-    },
-    "ASC-Ets Technology World": {
-      "Good": 4
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 2
-    },
-    "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 9
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 10
-    },
-    "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 1
-    },
-    "ASRP-KD distribution & service": {
-      "Good": 1
-    },
-    "ASC-M-Adehero Service": {
-      "Good": 1
-    },
-    "ASRP-Mecca Media Ltd": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 5
-    },
-    "ASC-M-Midas touch Jos": {
-      "Good": 2
-    },
-    "Carlcare-Abuja": {
-      "Good": 14
-    },
-    "ASC-M-Midas Touch Kaduna": {
-      "Good": 6
-    },
-    "NGSI03761-D'Care Concept Limited(Amukoko)": {
-      "Good": 1
-    },
-    "ASC-M-Neyo Multi Global Concept": {
-      "Good": 1
-    },
-    "ASC-M-Reedlim Global Enterprise Bauchi": {
-      "Good": 2
-    },
-    "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 2
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 5
-    },
-    "NGSI03772-Klanyjay Services Brand(Giwa)": {
-      "Good": 1
-    },
-    "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 4
-    },
-    "ASC-M-Sulit Hub": {
-      "Good": 1
-    },
-    "ASC-M-New Moon Unique Link": {
-      "Good": 1
-    },
-    "ASC-M-Tonijam Nig.Ltd": {
-      "Good": 6
-    }
-  },
   "10313937": {
     "_desc": "Power Bank OPB-7400Q 4W SpeedBlack Bysea",
     "NGSI03781-Gadgets Place Ng Ltd": {
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 353
+      "Good": 352
     },
     "ASC-M-Matga Service": {
       "Good": 31
@@ -1497,9 +1353,6 @@
     },
     "Carlcare-Benin": {
       "Good": 60
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 1
     },
     "ASC-M-Device Hub Limited": {
       "Good": 1
@@ -1610,7 +1463,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 5
     },
     "ASC-M-Matga Service": {
       "Good": 9
@@ -1632,6 +1485,9 @@
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 7
+    },
+    "ASC-M-Greenfield Gadgets Solution Enugu": {
+      "Good": 1
     },
     "L4 Device Repair": {
       "Good": 4
@@ -1817,7 +1673,7 @@
       "Good": 17
     },
     "L4 PCBA Repair": {
-      "Good": 8
+      "Good": 16
     },
     "ASC-M-Techwitch Ltd.": {
       "Good": 1
@@ -1856,7 +1712,7 @@
       "Good": 3
     },
     "ASC-M-Matga Service": {
-      "Good": 24
+      "Good": 23
     },
     "Carlcare-Warri": {
       "Good": 18
@@ -1871,6 +1727,9 @@
       "Good": 3
     },
     "Carlcare-Kano": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
     "ASC-M-Ju'Mike Global Ifo": {
@@ -1915,6 +1774,9 @@
     "ASC-M-Switrat Limited": {
       "Good": 1
     },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
     "ASRP-KD distribution & service": {
       "Good": 2
     },
@@ -1952,9 +1814,12 @@
       "Good": 1
     },
     "ASC-M-Neyo Multi Global Concept": {
-      "Good": 3
+      "Good": 1
     },
     "ASC-M-Ifix Repair Hub": {
+      "Good": 1
+    },
+    "ASRP-Kal care Service": {
       "Good": 1
     },
     "ASC-M-Femtech Information Technology Ltd": {
@@ -2141,7 +2006,7 @@
       "Good": 1
     },
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 12
@@ -2150,7 +2015,7 @@
       "Good": 2
     },
     "Carlcare-Warri": {
-      "Good": 6
+      "Good": 5
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 4
@@ -2206,8 +2071,11 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 5
     },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 1
+    },
     "ASC-M-Beecasual Ventures": {
-      "Good": 5
+      "Good": 2
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 15
@@ -2237,10 +2105,10 @@
       "Good": 1
     },
     "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 15
+      "Good": 16
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 10
+      "Good": 13
     },
     "ASC-M-Switrat Limited": {
       "Good": 1
@@ -2387,7 +2255,7 @@
       "Good": 24
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 5
+      "Good": 9
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 14
@@ -2555,7 +2423,7 @@
       "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 5
+      "Good": 4
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -2747,7 +2615,7 @@
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 1
@@ -3030,9 +2898,6 @@
     },
     "Carlcare-Benin": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -3635,10 +3500,10 @@
   "12709141": {
     "_desc": "121B PCBA MB F151 X2 128G+3G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "L4 PCBA Repair": {
-      "Good": 1
+      "Good": 12
     },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 2
@@ -3809,7 +3674,7 @@
   "19401159": {
     "_desc": "SPK 1115 SPR H2.5 1.0W DS",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 3
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -4065,6 +3930,9 @@
     "_desc": "PCBA SUB H832 1 A1 V1.3",
     "Nigeria-MWH": {
       "Good": 11
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 2
@@ -4535,7 +4403,7 @@
   "19401350": {
     "_desc": "BOX speaker 52.6*40.5*6.45 φ30 Wires T528Pro",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 3
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -4673,6 +4541,63 @@
       "Good": 30
     }
   },
+  "10311192": {
+    "_desc": "Hair Clipper itel IHC-35 Silver AFR",
+    "Nigeria-MWH": {
+      "Good": 1
+    },
+    "ASC-M-Matga Service": {
+      "Good": 1
+    },
+    "ASC-M-Jenzabar Limited": {
+      "Good": 1
+    },
+    "Carlcare-Onitsha": {
+      "Good": 1
+    },
+    "ASC-M-Kraaft Technology & services": {
+      "Good": 1
+    },
+    "Carlcare-Kano": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 4
+    },
+    "ASC-M-Innive Technologies Ikotun": {
+      "Good": 1
+    },
+    "ASRP-Snappy Fix": {
+      "Good": 1
+    },
+    "ASC-M-Intaj Dynamic": {
+      "Good": 2
+    },
+    "ASC-M-Midas Touch Sokoto": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Lagos": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 3
+    },
+    "ASC-M-Midas touch Jos": {
+      "Good": 1
+    },
+    "ASC-M-Smartphone Global Dutse": {
+      "Good": 1
+    },
+    "Carlcare-Abuja": {
+      "Good": 2
+    },
+    "ASC-M-Midas Touch Kaduna": {
+      "Good": 1
+    },
+    "ASC-M-Innive Technologies (Itel Homes)": {
+      "Good": 1
+    }
+  },
   "12207502": {
     "_desc": "Homemade PF 3in1 X6878 MOCHA BROWN",
     "Nigeria-MWH": {
@@ -4706,7 +4631,7 @@
       "Good": 8
     },
     "Carlcare-Kano": {
-      "Good": 4
+      "Good": 3
     },
     "ASRP-T.Comm": {
       "Good": 1
@@ -4739,7 +4664,7 @@
       "Good": 2
     },
     "ASC-M-Femtech Information Technology Ltd": {
-      "Good": 15
+      "Good": 13
     },
     "ASC-M-Innive Technologies Alaba": {
       "Good": 1
@@ -5618,7 +5543,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 7
+      "Good": 6
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 2
@@ -5640,6 +5565,9 @@
     },
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 11
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 11
@@ -5876,7 +5804,7 @@
   "12709618": {
     "_desc": "121B PCBA MB H8921 Y1 256G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -6692,7 +6620,7 @@
       "Good": 2
     },
     "Carlcare-Kano": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 11
@@ -6716,7 +6644,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Benin": {
       "Good": 5
@@ -7013,7 +6941,7 @@
       "Good": 4
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 2
+      "Good": 5
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -7265,7 +7193,7 @@
       "Good": 2
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
@@ -7604,7 +7532,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 0
     },
     "Carlcare-Benin": {
       "Good": 4
@@ -7791,93 +7719,6 @@
     "_desc": "R hsg asm it5082 ELEGANT BLACK V0 WR",
     "Nigeria-MWH": {
       "Good": 50
-    }
-  },
-  "12207102": {
-    "_desc": "PF 3in1 A673L BLACK YH+TXD",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Matga Service": {
-      "Good": 3
-    },
-    "ASC-M-Great Mind Telecom Service": {
-      "Good": 4
-    },
-    "Carlcare-Warri": {
-      "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
-    },
-    "Carlcare-Onitsha": {
-      "Good": 2
-    },
-    "Carlcare-Kano": {
-      "Good": 6
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
-    "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 2
-    },
-    "ASC-M-Innive Technologies Ikotun": {
-      "Good": 2
-    },
-    "L4 Device Repair": {
-      "Good": 3
-    },
-    "ASC-M-Midas Touch Sokoto": {
-      "Good": 1
-    },
-    "Carlcare-Benin": {
-      "Good": 1
-    },
-    "ASC-M-Delink Matrix Lakowe": {
-      "Good": 2
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 1
-    },
-    "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 4
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 4
-    },
-    "ASRP-KD distribution & service": {
-      "Good": 1
-    },
-    "ASC-M-Adehero Service": {
-      "Good": 2
-    },
-    "ASC-M-Breva Enterprises Limited Ilorin": {
-      "Good": 1
-    },
-    "ASC-M-Midas touch Jos": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
-      "Good": 11
-    },
-    "ASC-M-Bluegate Bamboo Mushin-TypeB": {
-      "Good": 1
-    },
-    "ASC-M-MIDAS TOUCH KANO": {
-      "Good": 2
-    },
-    "ASC-M-Ifix Repair Hub": {
-      "Good": 1
-    },
-    "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 2
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 10
-    },
-    "ASC-M-Sulit Hub": {
-      "Good": 1
     }
   },
   "23202551": {
@@ -8420,7 +8261,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 0
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -8537,7 +8378,7 @@
   "38102118": {
     "_desc": "Middle housing X6850 LIGHT GOLD V0 GZ GK N",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 1
@@ -8745,6 +8586,9 @@
     },
     "Carlcare-Kano": {
       "Good": 5
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
     }
   },
   "12206518": {
@@ -9243,6 +9087,9 @@
     },
     "Carlcare-Ibadan": {
       "Good": 1
+    },
+    "ASRP-SmartPhone Global": {
+      "Good": 2
     }
   },
   "12204061": {
@@ -9281,12 +9128,6 @@
       "Good": 2
     }
   },
-  "37200090": {
-    "_desc": "G b-cov asm X678B VARIABLGOLD V0 DT GK N",
-    "Nigeria-MWH": {
-      "Good": 0
-    }
-  },
   "23504685": {
     "_desc": "Card Holder X689F Polar Black",
     "Nigeria-MWH": {
@@ -9317,7 +9158,7 @@
   "10310006": {
     "_desc": "Neck Earphone oraimo OEB-E80D Black",
     "Nigeria-MWH": {
-      "Good": 1123
+      "Good": 1130
     },
     "Carlcare-Warri": {
       "Good": 2
@@ -9587,7 +9428,7 @@
   "12206046": {
     "_desc": "PF Bat cov asm CM5 GALAXY BLACK",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 0
     },
     "Carlcare-Kano": {
       "Good": 2
@@ -9926,7 +9767,7 @@
       "Good": 72
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 2
+      "Good": 4
     },
     "ASC-M-Reedlim Global Enterprise Gombe": {
       "Good": 1
@@ -10019,6 +9860,9 @@
       "Good": 5
     },
     "ASC-M-Matga Service": {
+      "Good": 1
+    },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 1
     },
     "Carlcare-Warri": {
@@ -10160,7 +10004,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
@@ -10232,7 +10076,7 @@
   "12709216": {
     "_desc": "121B PF MB+Label C671L SM382 C1 128+4",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 0
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 1
@@ -10287,6 +10131,9 @@
     },
     "Carlcare-Kano": {
       "Good": 6
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
@@ -10541,7 +10388,7 @@
   "10310299": {
     "_desc": "Power Bank OPB-P7101 10AH Grey By sea",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     }
   },
   "37200635": {
@@ -10589,7 +10436,7 @@
   "10320011": {
     "_desc": "TWS oraimo OTW-324 SPEED BLACK P1",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 5
@@ -10652,7 +10499,7 @@
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
@@ -10673,7 +10520,7 @@
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
-      "Good": 6
+      "Good": 5
     },
     "ASC-M-Innive Technologies Alaba": {
       "Good": 3
@@ -10880,7 +10727,7 @@
   "17601048": {
     "_desc": "CAP FP ICNF7319AL 13 OCEAN BLUE",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -11329,6 +11176,9 @@
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
     },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 1
+    },
     "Carlcare-Benin": {
       "Good": 1
     },
@@ -11567,7 +11417,7 @@
   "12206587": {
     "_desc": "PF PCBA SUB+Label X6728 V633A 1 A1",
     "Nigeria-MWH": {
-      "Good": 52
+      "Good": 53
     },
     "Carlcare-Warri": {
       "Good": 3
@@ -11714,7 +11564,7 @@
   "12040460": {
     "_desc": "itel P08003L A1 STEEL GREY DZ 64+4",
     "Nigeria-MWH": {
-      "Good": 6
+      "Good": 5
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -11754,6 +11604,9 @@
     },
     "Carlcare-Onitsha": {
       "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 6
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 3
@@ -12023,18 +11876,6 @@
       "Good": 1
     }
   },
-  "17401964": {
-    "_desc": "Incell 6.745 HD+ D CSOT a-Si BLACK",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
-    },
-    "ASC-M-Neyo Multi Global Concept": {
-      "Good": 1
-    }
-  },
   "14201276": {
     "_desc": "IC:eMMC+LPDDR3,8GB+8Gb,1mm,HY",
     "Nigeria-MWH": {
@@ -12301,9 +12142,6 @@
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 1
     },
-    "ASC-M-Adehero Service": {
-      "Good": 1
-    },
     "Carlcare-Ibadan": {
       "Good": 23
     },
@@ -12431,13 +12269,10 @@
   "10316661": {
     "_desc": "Neck Earphone oraimo OPN-672 GGrey BRMAX",
     "Nigeria-MWH": {
-      "Good": 128
+      "Good": 134
     },
     "Carlcare-Warri": {
       "Good": 4
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
@@ -12461,7 +12296,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 1
@@ -13190,7 +13025,7 @@
   "17401798": {
     "_desc": "Incell 6.56 HD+ INX D a-Si BLACK",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Matga Service": {
       "Good": 10
@@ -13199,7 +13034,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 4
@@ -13208,7 +13043,7 @@
       "Good": 1
     },
     "ASC-M-Intaj Dynamic": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -13466,7 +13301,7 @@
       "Good": 1
     },
     "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 1
+      "Good": 2
     }
   },
   "15301480": {
@@ -13643,7 +13478,7 @@
   "12110302": {
     "_desc": "PCBA SUB H894 3 A1 V1.1",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     },
     "L4 Device Repair": {
       "Good": 1
@@ -13865,7 +13700,7 @@
       "Good": 15
     },
     "L4 Device Repair": {
-      "Good": 3
+      "Good": 2
     }
   },
   "12704526": {
@@ -13992,9 +13827,6 @@
     "_desc": "Polymer battery BL-11FT 1165mAh BIS ATL",
     "Nigeria-MWH": {
       "Good": 2
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -14605,9 +14437,6 @@
     "Nigeria-MWH": {
       "Good": 13
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
     "ASC-M-7village": {
       "Good": 1
     }
@@ -14681,7 +14510,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 3
     },
     "L4 Device Repair": {
       "Good": 4
@@ -14837,7 +14666,7 @@
       "Good": 4
     },
     "L4 Device Repair": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -14969,7 +14798,7 @@
   "12705144": {
     "_desc": "174A FL(CTP+LCM) 6.56HD+ KG5K Black UHB",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 2
@@ -15068,7 +14897,7 @@
       "Good": 1
     },
     "Carlcare-Warri": {
-      "Good": 14
+      "Good": 13
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 3
@@ -15085,11 +14914,8 @@
     "ASC-M-Yisab Communication Nigeria": {
       "Good": 2
     },
-    "Carlcare-Kano": {
-      "Good": 1
-    },
     "Carlcare-CV(Computer Village)": {
-      "Good": 106
+      "Good": 105
     },
     "ASC-M-Reedlim Global Enterprise Gombe": {
       "Good": 2
@@ -15121,14 +14947,11 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 20
     },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 7
-    },
     "ASC-M-Midas Touch Lagos": {
       "Good": 9
     },
     "Carlcare-Benin": {
-      "Good": 13
+      "Good": 12
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 4
@@ -15158,7 +14981,7 @@
       "Good": 3
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
@@ -15302,15 +15125,12 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 3
     },
     "Carlcare-Abuja": {
       "Good": 2
     },
     "ASC-M-Midas Touch Kaduna": {
-      "Good": 1
-    },
-    "ASRP-Kal care Service": {
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
@@ -15644,7 +15464,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 20
+      "Good": 16
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
@@ -15761,7 +15581,7 @@
   "12206584": {
     "_desc": "PF 3in1 X6728 BLACK YX+TM",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 5
@@ -15839,7 +15659,7 @@
       "Good": 3
     },
     "ASC-M-Delink Matrix Lakowe": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 21
@@ -16154,7 +15974,7 @@
   "10316617": {
     "_desc": "Smart watch oraimo OSW-820 Black",
     "Nigeria-MWH": {
-      "Good": 26
+      "Good": 27
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 2
@@ -16238,7 +16058,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 4
@@ -16388,6 +16208,15 @@
       "Good": 7
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
+      "Good": 1
+    }
+  },
+  "10315835": {
+    "_desc": "TWS Earphone TECNO BD04 Black",
+    "Nigeria-MWH": {
+      "Good": 0
+    },
+    "Carlcare-Onitsha": {
       "Good": 1
     }
   },
@@ -17011,6 +16840,9 @@
     "ASC-M-Femtech Offa": {
       "Good": 1
     },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 1
+    },
     "ASC-Ets Technology World": {
       "Good": 2
     },
@@ -17235,6 +17067,9 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
+    },
+    "ASC-M-Crescita Global Resources Ltd": {
+      "Good": 1
     }
   },
   "19401381": {
@@ -17513,7 +17348,7 @@
       "Good": 14
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 43
+      "Good": 58
     },
     "L4 Device Repair": {
       "Good": 6
@@ -17592,18 +17427,6 @@
     "_desc": "TECNO LG7n A1 CRYOLITE BLUE TR 128+8",
     "Nigeria-MWH": {
       "Good": 3
-    }
-  },
-  "10069753": {
-    "_desc": "TECNO T455 A1 PEARL BLACK AFR 8+8 EU",
-    "Nigeria-MWH": {
-      "Good": 3
-    },
-    "Carlcare-Kano": {
-      "Good": 2
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "19101400": {
@@ -17789,7 +17612,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 1
@@ -18086,7 +17909,7 @@
   "12206485": {
     "_desc": "PF 3in1 KM5 BLACK XG+DPT",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASRP-Klanyjay Services Brand": {
       "Good": 2
@@ -18205,9 +18028,6 @@
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 4
     },
-    "ASC-M-Sulit Hub Ota": {
-      "Good": 2
-    },
     "ASC-M-Tonijam Nig.Ltd": {
       "Good": 2
     },
@@ -18257,9 +18077,6 @@
   "12705746": {
     "_desc": "174B FL(CTP+LCM)6.78FHD+H CI6BlackTMV1.0",
     "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-Ets Technology World": {
       "Good": 0
     },
     "ASC-M-TELEPHONE STORE": {
@@ -18926,7 +18743,7 @@
   "23001682": {
     "_desc": "FPC Side key CD7 LT",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     }
   },
   "17600831": {
@@ -19907,7 +19724,7 @@
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Johnwhite Signal Tech": {
       "Good": 2
@@ -20036,7 +19853,7 @@
       "Good": 255
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Onitsha": {
       "Good": 19
@@ -20255,7 +20072,7 @@
       "Good": 5
     },
     "ASC-M-Femtech Offa": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Kano": {
       "Good": 13
@@ -20693,7 +20510,7 @@
   "10319057": {
     "_desc": "TWSH oraimo OHP-317 LIGHT GOLD SA",
     "Nigeria-MWH": {
-      "Good": 28
+      "Good": 29
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -21693,9 +21510,6 @@
     },
     "Carlcare-Onitsha": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "12207607": {
@@ -21824,7 +21638,7 @@
   "12206390": {
     "_desc": "PF MB+Label C671L SM382 G1 128+6",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 2
@@ -21897,9 +21711,6 @@
     },
     "Carlcare-Ibadan": {
       "Good": 0
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "25201208": {
@@ -21909,9 +21720,6 @@
     },
     "Carlcare-Warri": {
       "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 5
@@ -22107,51 +21915,6 @@
     "_desc": "Front housing assembly it2165 INTERSTELLAR BLUE V0 YJ N",
     "Nigeria-MWH": {
       "Good": 5
-    }
-  },
-  "12707998": {
-    "_desc": "174B FL(CTP+LCM) 6.82HD+ LG7N X6817",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Matga Service": {
-      "Good": 8
-    },
-    "NGSI03851- ASC-M-Topnotch Tech Hub": {
-      "Good": 1
-    },
-    "Carlcare-Onitsha": {
-      "Good": 2
-    },
-    "Carlcare-Kano": {
-      "Good": 1
-    },
-    "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 1
-    },
-    "ASC-M-Intaj Dynamic": {
-      "Good": 2
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 2
-    },
-    "ASC-M-Device Hub Limited": {
-      "Good": 1
-    },
-    "L4 PCBA Repair": {
-      "Good": 4
-    },
-    "ASC-M-TELEPHONE STORE": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
-    },
-    "ASC-M-Innive Technologies Alaba": {
-      "Good": 1
     }
   },
   "38101992": {
@@ -22963,6 +22726,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 12
     },
+    "Carlcare-Benin": {
+      "Good": 12
+    },
     "Carlcare-Ibadan": {
       "Good": 12
     },
@@ -23669,7 +23435,7 @@
   "12206625": {
     "_desc": "PF 3in1 KM4k BLACK TXD",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -23774,10 +23540,10 @@
   "12207297": {
     "_desc": "PF 3in1 KN3 BLACK XG+DJ",
     "Nigeria-MWH": {
-      "Good": 5
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 11
+      "Good": 9
     }
   },
   "38203044": {
@@ -23956,6 +23722,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 2
     },
+    "Carlcare-Benin": {
+      "Good": 2
+    },
     "Carlcare-Ibadan": {
       "Good": 2
     },
@@ -24068,7 +23837,7 @@
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 1
@@ -24221,7 +23990,7 @@
   "12115165": {
     "_desc": "PCBA SUB H8921 1 A2 V1.2 2in1",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Yisab Communication Nigeria": {
       "Good": 1
@@ -24233,6 +24002,9 @@
       "Good": 2
     },
     "ASC-M-Carosammy Concept Ltd": {
+      "Good": 1
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 1
     },
     "ASC-M-Smartphone Global Dutse": {
@@ -24299,10 +24071,10 @@
       "Good": 18
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 12
+      "Good": 11
     },
     "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 5
+      "Good": 3
     },
     "ASC-M-Zikniks Suleja": {
       "Good": 2
@@ -24337,14 +24109,14 @@
     "ASC-M-Midas Touch Akure": {
       "Good": 1
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 2
-    },
     "ASC-M-Maxwell Telecoms Nig Ents.": {
       "Good": 3
     },
     "ASC-M-Switrat Limited": {
       "Good": 3
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
     },
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 1
@@ -24689,7 +24461,7 @@
   "17401880": {
     "_desc": "Incell_10.1_HD_NA_DJ_LTPS_BLACK",
     "Nigeria-MWH": {
-      "Good": 70
+      "Good": 65
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
@@ -24937,9 +24709,6 @@
     "Carlcare-Warri": {
       "Good": 7
     },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
     "Carlcare-Onitsha": {
       "Good": 11
     },
@@ -25010,7 +24779,7 @@
       "Good": 4
     },
     "Carlcare-Port-harcourt": {
-      "Good": 20
+      "Good": 18
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 2
@@ -25247,7 +25016,7 @@
   "17401997": {
     "_desc": "Incell 6.56 HD+ D DZX a-Si 2.5D",
     "Nigeria-MWH": {
-      "Good": 22
+      "Good": 12
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -25298,7 +25067,7 @@
   "12110989": {
     "_desc": "Sensor SUB H895 1 A1 V1.0",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Matga Service": {
       "Good": 2
@@ -25369,6 +25138,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
       "Good": 1
     },
@@ -25433,7 +25205,7 @@
   "12706103": {
     "_desc": "176B FM(GSL6157) 11 21Black",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -25704,6 +25476,9 @@
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
     }
   },
   "37200520": {
@@ -26087,7 +25862,7 @@
   "12705589": {
     "_desc": "174B FL(CTP+LCM) 6.55 CG6 Black",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 5
@@ -26096,16 +25871,13 @@
       "Good": 2
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 2
+      "Good": 1
     },
     "L4 PCBA Repair": {
       "Good": 1
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 2
-    },
-    "ASC-M-Gifted hands Tech": {
-      "Good": 3
     }
   },
   "CEQ10154": {
@@ -26438,7 +26210,7 @@
   "12205401": {
     "_desc": "PF 3in1 A669W BLACK COE",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 6
     },
     "ASRP-Klanyjay Services Brand": {
       "Good": 2
@@ -26773,6 +26545,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
       "Good": 1
     },
@@ -26876,7 +26651,7 @@
       "Good": 1
     },
     "L4 Device Repair": {
-      "Good": 0
+      "Good": 8
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 1
@@ -27185,7 +26960,7 @@
       "Good": 3
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 3
@@ -27563,7 +27338,7 @@
   "10306990": {
     "_desc": "TWS Earphone TECNO SC01 White",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -27778,6 +27553,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 46
     },
+    "Carlcare-Benin": {
+      "Good": 18
+    },
     "Carlcare-Ibadan": {
       "Good": 18
     },
@@ -27950,7 +27728,7 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Benin": {
       "Good": 10
@@ -28066,6 +27844,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
       "Good": 1
     },
@@ -28152,9 +27933,6 @@
     },
     "Benin-MWH": {
       "Good": 2
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
     },
     "L4 Device Repair": {
       "Good": 2
@@ -28609,6 +28387,9 @@
     "Carlcare-Kano": {
       "Good": 1
     },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 2
+    },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 2
     },
@@ -28823,7 +28604,7 @@
   "12115191": {
     "_desc": "Homemade PCBA MB H8921 K1 128G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -29423,16 +29204,13 @@
   "12206628": {
     "_desc": "PF 3in1 CM5 SANDY TITANIUM",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Don-Yellow Tech": {
       "Good": 1
     },
     "ASC-M-Femtech Offa": {
       "Good": 2
-    },
-    "ASC-M-Zikniks Enterprises Limited": {
-      "Good": 1
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 1
@@ -29501,7 +29279,7 @@
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 8
+      "Good": 7
     },
     "ASC-M-Visco communication ltd": {
       "Good": 1
@@ -29564,7 +29342,7 @@
   "12709671": {
     "_desc": "121B PF MB+Label A669W SA375 B1 64+2",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 3
@@ -29624,7 +29402,7 @@
   "12205557": {
     "_desc": "PF MB+Label KL5 XK678 B1 128+6",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -29642,7 +29420,7 @@
   "12207530": {
     "_desc": "PF 3in1 X6840 BLACK XG",
     "Nigeria-MWH": {
-      "Good": 17
+      "Good": 19
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -29680,9 +29458,6 @@
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 5
     },
-    "ASC-Ets Technology World": {
-      "Good": 1
-    },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 1
     },
@@ -29694,9 +29469,6 @@
     },
     "ASC-M-Adehero Service": {
       "Good": 3
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
@@ -29747,13 +29519,13 @@
       "Good": 1
     },
     "ASRP-Mosie Solid Hub": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Kano": {
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
@@ -29798,7 +29570,7 @@
   "12205403": {
     "_desc": "PF MB+Label A669W SA375 A1 32+2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
@@ -29963,15 +29735,6 @@
       "Good": 3
     }
   },
-  "21205590": {
-    "_desc": "Bat cover asm X670 SapphireBlue COMboard",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Intaj Dynamic": {
-      "Good": 1
-    }
-  },
   "37300972": {
     "_desc": "Cp b-cov asm A6610L STARBLACK V0 JX GK N",
     "Nigeria-MWH": {
@@ -30104,7 +29867,7 @@
       "Good": 10
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 4
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -30325,9 +30088,6 @@
     "ASC-Ets Technology World": {
       "Good": 1
     },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
-    },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 2
     },
@@ -30348,6 +30108,9 @@
     },
     "ASC-M-Tonijam Nig.Ltd": {
       "Good": 2
+    },
+    "ASC-M-Monday Mega Enterprise": {
+      "Good": 0
     }
   },
   "37200146": {
@@ -30391,6 +30154,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 2
     },
+    "Carlcare-Benin": {
+      "Good": 2
+    },
     "Carlcare-Ibadan": {
       "Good": 2
     },
@@ -30413,6 +30179,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
@@ -30506,7 +30275,7 @@
   "21204562": {
     "_desc": "Bat cover asm AC8 Iceland Blue",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "25100031": {
@@ -30564,9 +30333,6 @@
     },
     "L4 Device Repair": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "L4 PCBA Repair": {
       "Good": 1
@@ -30641,7 +30407,7 @@
   "17001447": {
     "_desc": "Feature Phone screen 2.4 QVGA a-Si CTC ST7789PV3A-2.9",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 9
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -30782,12 +30548,6 @@
       "Good": 17
     }
   },
-  "CEQ10018": {
-    "_desc": "CC mouse",
-    "Nigeria-MWH": {
-      "Good": 0
-    }
-  },
   "95413688": {
     "_desc": "Bat Foam Ads 160.63*74.05*0.3 KM7",
     "Nigeria-MWH": {
@@ -30836,7 +30596,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     }
   },
   "14201377": {
@@ -30891,21 +30651,6 @@
     },
     "L4 PCBA Repair": {
       "Good": 2
-    }
-  },
-  "12206069": {
-    "_desc": "PF Bat cov asm X6858 MOUNTAIN SHADE",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Matga Service": {
-      "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
     }
   },
   "35200001": {
@@ -31061,7 +30806,7 @@
   "12207190": {
     "_desc": "PF 3in1 CN5c MOONSHADOW BLACK XG",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -31085,7 +30830,7 @@
       "Good": 8
     },
     "L4 Device Repair": {
-      "Good": 10
+      "Good": 9
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 2
@@ -31187,7 +30932,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 6
+      "Good": 4
     },
     "Carlcare-Benin": {
       "Good": 4
@@ -31217,7 +30962,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 6
+      "Good": 5
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 1
@@ -31385,7 +31130,7 @@
       "Good": 13
     },
     "ASC-M-Matga Service": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -31403,7 +31148,7 @@
       "Good": 6
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 0
     },
     "ASC-M-Zedglobal Services": {
       "Good": 1
@@ -31478,7 +31223,7 @@
       "Good": 1
     },
     "Carlcare-Warri": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 4
@@ -32030,7 +31775,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -32072,7 +31817,7 @@
   "10310290": {
     "_desc": "Power Bank OPB-P5271 27AH Black By sea B",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 8
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -32081,10 +31826,10 @@
       "Good": 1
     },
     "ASC-M-Intaj Dynamic": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 3
@@ -32819,7 +32564,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
@@ -32993,7 +32738,7 @@
       "Good": 3
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 2
@@ -33038,7 +32783,7 @@
       "Good": 10
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 6
+      "Good": 5
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -33754,6 +33499,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 10
     },
+    "Carlcare-Benin": {
+      "Good": 10
+    },
     "Carlcare-Ibadan": {
       "Good": 10
     },
@@ -33777,9 +33525,6 @@
     "_desc": "121B PCBA SUB F062 1 A V1.0",
     "Nigeria-MWH": {
       "Good": 7
-    },
-    "ASC-M-Matga Service": {
-      "Good": 0
     }
   },
   "12206664": {
@@ -33993,6 +33738,9 @@
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 7
+    },
+    "ASRP-Kal care Service": {
+      "Good": 1
     },
     "ASC-M-Triple Sea Integrated Services Ltd": {
       "Good": 1
@@ -34298,7 +34046,7 @@
   "12205946": {
     "_desc": "PF 3in1 X6880 BLOSSOM PINK",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -34343,6 +34091,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 9
+    },
+    "Carlcare-Benin": {
       "Good": 9
     },
     "Carlcare-Ibadan": {
@@ -34475,16 +34226,13 @@
   "10321023": {
     "_desc": "TWS itel IEW-64 CREAMY WHITE OP",
     "Nigeria-MWH": {
-      "Good": 862
+      "Good": 873
     },
     "ASC-M-Great Mind Telecom Service": {
       "Good": 2
     },
     "Carlcare-Warri": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
     },
     "Carlcare-Onitsha": {
       "Good": 18
@@ -34514,6 +34262,9 @@
       "Good": 13
     },
     "ASC-M-Midas Touch Akure": {
+      "Good": 1
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 1
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
@@ -34655,9 +34406,6 @@
       "Good": 2
     },
     "ASC-M-Adehero Service": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
       "Good": 1
     },
     "ASC-M-Midas Touch Kaduna": {
@@ -34823,7 +34571,7 @@
       "Good": 82
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 8
+      "Good": 4
     },
     "Benin-MWH": {
       "Good": 2
@@ -35423,7 +35171,7 @@
   "17001357": {
     "_desc": "LCM 3.5H TN CTC+ST7796 H2.18mm V1.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 3
     },
     "ASC-M-Matga Service": {
       "Good": 4
@@ -35555,7 +35303,7 @@
   "12112155": {
     "_desc": "Homemade PCBA MB MA3001 B1 8M+8M V3.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 3
     },
     "ASC-M-Matga Service": {
       "Good": 5
@@ -35618,7 +35366,7 @@
   "12708519": {
     "_desc": "121B MB+Label A671L SQ378 C1 128+3 RP",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
@@ -35786,7 +35534,7 @@
   "12111785": {
     "_desc": "PCBA SUB H895 1 B2 V1.2 2in1",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
@@ -36037,6 +35785,9 @@
     "ASC-M-Jenzabar Limited": {
       "Good": 1
     },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 2
+    },
     "ASC-Ets Technology World": {
       "Good": 2
     },
@@ -36056,7 +35807,7 @@
   "10313405": {
     "_desc": "Smart watch itel ISW-N8P Copper Gold ME",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     }
   },
   "37000039": {
@@ -36262,9 +36013,6 @@
     "L4 Device Repair": {
       "Good": 3
     },
-    "ASC-M-Greenfield Gadgets Solution Nsukka": {
-      "Good": 0
-    },
     "Carlcare-Ibadan": {
       "Good": 3
     }
@@ -36440,7 +36188,7 @@
   "10317648": {
     "_desc": "POBA itel P1150 BLACK AFR 4k mAH By air",
     "Nigeria-MWH": {
-      "Good": 73
+      "Good": 74
     },
     "Carlcare-Port-harcourt": {
       "Good": 1
@@ -37052,7 +36800,7 @@
   "23002383": {
     "_desc": "FPCA SIDEKEY 1L A669L",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 8
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -37205,7 +36953,7 @@
   "12705160": {
     "_desc": "174C Incell 6.56 HD+ BOE D a-Si Black",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
@@ -37214,7 +36962,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-MIDAS TOUCH KANO": {
       "Good": 1
@@ -37277,7 +37025,7 @@
   "25002290": {
     "_desc": "PL Bat U30100103P 4000mAh UN",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "Benin-MWH": {
       "Good": 1
@@ -37909,9 +37657,6 @@
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
     },
-    "ASC-Ets Technology World": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 4
     },
@@ -37919,9 +37664,6 @@
       "Good": 0
     },
     "Carlcare-Abuja": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
       "Good": 1
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
@@ -38066,7 +37808,7 @@
   "12708357": {
     "_desc": "121B PCBA MB H8916 O1 256G+8G V1.1 RP",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 2
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -38352,9 +38094,6 @@
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 5
@@ -39010,9 +38749,6 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
-    },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
     }
@@ -39212,7 +38948,7 @@
   "12709154": {
     "_desc": "121B PCBA MB F151 Ar1 64G+4G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "L4 PCBA Repair": {
       "Good": 1
@@ -39641,7 +39377,7 @@
   "12206871": {
     "_desc": "PF MB+Label C671L SM382 Cc1 128+4",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -39656,7 +39392,7 @@
   "12107705": {
     "_desc": "PCBA MB UL281 A3 16MB+8MB V1.0B",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -39665,7 +39401,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 4
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
@@ -39683,7 +39419,7 @@
       "Good": 1
     },
     "ASC-M-Switrat Limited": {
-      "Good": 1
+      "Good": 0
     },
     "Niger-MWH": {
       "Good": 2
@@ -39737,9 +39473,6 @@
       "Good": 3
     },
     "Carlcare-Warri": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 1
     },
     "ASC-M-Femtech Offa": {
@@ -39875,7 +39608,7 @@
       "Good": 10
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 3
@@ -40151,7 +39884,7 @@
   "38500977": {
     "_desc": "Advertising film KL4 All Coated SSA",
     "Nigeria-MWH": {
-      "Good": 193
+      "Good": 192
     },
     "Carlcare-Warri": {
       "Good": 4
@@ -40392,9 +40125,6 @@
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 5
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "10304368": {
@@ -40846,6 +40576,9 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 2
     },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 1
+    },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
     },
@@ -40946,7 +40679,7 @@
   "23503372": {
     "_desc": "DOWN frame asm CD7 Black",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     },
     "Benin-MWH": {
       "Good": 3
@@ -41153,7 +40886,7 @@
   "12709320": {
     "_desc": "121B PCBA MB XK67J V1 128G+4G V1.0",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 1
@@ -41579,7 +41312,7 @@
   "12115781": {
     "_desc": "PCBA MB EY2820 B1 4M+4M V2.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASRP-Vinchino Global Ventures": {
       "Good": 1
@@ -41753,7 +41486,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 4
@@ -41816,7 +41549,7 @@
       "Good": 53
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 11
+      "Good": 10
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
@@ -42107,7 +41840,7 @@
   "17201891": {
     "_desc": "COB AF 50M Hi-5022Q A 6P BG B",
     "Nigeria-MWH": {
-      "Good": 6
+      "Good": 5
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -42117,9 +41850,6 @@
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 3
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "L4 PCBA Repair": {
       "Good": 1
@@ -42158,7 +41888,7 @@
   "37300914": {
     "_desc": "Cp b-cov asm CM6 EMERALDGREEN V0 JR GK N",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -42182,6 +41912,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 9
+    },
+    "Carlcare-Benin": {
       "Good": 9
     },
     "Carlcare-Ibadan": {
@@ -42264,9 +41997,6 @@
     },
     "L4 Device Repair": {
       "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 1
@@ -42460,6 +42190,9 @@
     "ASC-M-Zikniks Suleja": {
       "Good": 5
     },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 1
+    },
     "Carlcare-Abuja": {
       "Good": 2
     }
@@ -42515,7 +42248,7 @@
   "12113341": {
     "_desc": "PCBA MB DL194 D5 4M+4M V01",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 2
@@ -42602,7 +42335,7 @@
   "10315728": {
     "_desc": "TWS Earphone OTW-625 Obsidian Black MA",
     "Nigeria-MWH": {
-      "Good": 15
+      "Good": 17
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -42642,9 +42375,6 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 5
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
     }
   },
   "38501212": {
@@ -43514,7 +43244,7 @@
   "12113445": {
     "_desc": "PCBA MB ET2436 A1 4M+4M V1.0 AFR",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Great Mind Telecom Service": {
       "Good": 1
@@ -43535,9 +43265,6 @@
       "Good": 2
     },
     "ASC-Ets Technology World": {
-      "Good": 1
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
       "Good": 1
     },
     "ASC-M-Ustaz Exclusive Stores": {
@@ -43604,7 +43331,7 @@
   "12116444": {
     "_desc": "PCBA MB H8924 I1 128G+8G V1.3",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -43926,27 +43653,6 @@
     },
     "Benin-MWH": {
       "Good": 5
-    }
-  },
-  "17402007": {
-    "_desc": "Incell 8.68 HD H HKC a-Si 2D",
-    "Nigeria-MWH": {
-      "Good": 5
-    },
-    "ASC-M-Great Mind Telecom Service": {
-      "Good": 1
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 3
-    },
-    "L4 Device Repair": {
-      "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
-    "Carlcare-Ibadan": {
-      "Good": 2
     }
   },
   "38202064": {
@@ -44584,14 +44290,8 @@
     "Carlcare-Abuja": {
       "Good": 0
     },
-    "ASC-M-MIDAS TOUCH KANO": {
-      "Good": 1
-    },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 3
-    },
     "Carlcare-Port-harcourt": {
-      "Good": 18
+      "Good": 17
     }
   },
   "37600268": {
@@ -45482,7 +45182,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 0
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
@@ -45640,9 +45340,6 @@
     "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 2
     },
-    "ASC-M-New Moon Unique Link": {
-      "Good": 1
-    },
     "ASC-M-Innive Technologies (Itel Homes)": {
       "Good": 2
     },
@@ -45734,7 +45431,7 @@
   "17601281": {
     "_desc": "Capacitive Fingerprint GF3986 17 LIGHT CHROME",
     "Nigeria-MWH": {
-      "Good": 10
+      "Good": 5
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -45892,6 +45589,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 46
     },
+    "Carlcare-Benin": {
+      "Good": 18
+    },
     "Carlcare-Ibadan": {
       "Good": 18
     },
@@ -45995,7 +45695,7 @@
   "10315910": {
     "_desc": "Wireless Speaker OBS-382 Space Grey P1",
     "Nigeria-MWH": {
-      "Good": 13
+      "Good": 12
     },
     "Carlcare-Kano": {
       "Good": 2
@@ -46181,7 +45881,7 @@
   "21205762": {
     "_desc": "Bat COV asm X670 ForceBlack COMboardV2.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -46221,9 +45921,6 @@
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-M-Sgv Ict Ltd": {
       "Good": 2
@@ -46316,7 +46013,7 @@
       "Good": 5
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
+      "Good": 0
     },
     "ASC-M-Midas touch Jos": {
       "Good": 5
@@ -46631,7 +46328,7 @@
   "12207801": {
     "_desc": "PF 3in1 KN3 BLACK XG+TXD",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 0
     }
   },
   "19001247": {
@@ -46667,7 +46364,7 @@
   "17001440": {
     "_desc": "FP 2.8 QVGA a-Si HSD",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -46736,7 +46433,7 @@
       "Good": 3
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Reedlim Global Enterprise Gombe": {
       "Good": 1
@@ -46967,13 +46664,13 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Benin": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 6
+      "Good": 1
     },
     "ASC-M-Adehero Service": {
       "Good": 3
@@ -47255,7 +46952,7 @@
       "Good": 3
     },
     "ASC-M-Device Hub Limited": {
-      "Good": 4
+      "Good": 3
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -47303,7 +47000,7 @@
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 1
@@ -47351,7 +47048,7 @@
   "12115382": {
     "_desc": "PCBA MB ET1828 B1 4M+4M V1.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
@@ -47504,7 +47201,7 @@
   "12709556": {
     "_desc": "121B PCBA MB F151 U2 64G+3G V1.2",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
@@ -47525,7 +47222,7 @@
   "12206520": {
     "_desc": "PF 3in1 KM6 INK BLACK",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Femtech Offa": {
       "Good": 1
@@ -47537,9 +47234,6 @@
       "Good": 2
     },
     "ASC-M-Golden Eagle Technology Limited Festac": {
-      "Good": 2
-    },
-    "ASC-M-Beecasual Ventures": {
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
@@ -47612,7 +47306,7 @@
   "12705273": {
     "_desc": "174B FL(CTP+LCM) 6.82HD+ X6817 Black",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -47987,13 +47681,13 @@
   "38106119": {
     "_desc": "Mi hsg KN3 INK BLACK V1 XG N",
     "Nigeria-MWH": {
-      "Good": 77
+      "Good": 72
     },
     "Carlcare-Kano": {
       "Good": 10
     },
     "L4 Device Repair": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-Ets Technology World": {
       "Good": 1
@@ -48020,6 +47714,9 @@
       "Good": 10
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 18
+    },
+    "Carlcare-Benin": {
       "Good": 18
     },
     "Carlcare-Ibadan": {
@@ -48098,10 +47795,10 @@
   "12116497": {
     "_desc": "PCBA MB H6941 F1 128G+4G V1.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 4
+      "Good": 3
     },
     "Carlcare-Onitsha": {
       "Good": 3
@@ -48110,9 +47807,6 @@
       "Good": 6
     },
     "ASC-M-Femtech Offa": {
-      "Good": 1
-    },
-    "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
     "ASC-M-Haven Buddy Integrated Concept": {
@@ -48161,7 +47855,7 @@
       "Good": 5
     },
     "ASC-M-MIDAS TOUCH KANO": {
-      "Good": 14
+      "Good": 13
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 3
@@ -48329,7 +48023,7 @@
   "12206403": {
     "_desc": "PF MB+Label A669L SQ375 F1 64+2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -48566,9 +48260,6 @@
       "Good": 1
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    },
-    "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
     }
   },
@@ -48870,6 +48561,9 @@
     "_desc": "Homemade PF Bat cov asm CL6 BASALTIC DARK TRCKD",
     "Nigeria-MWH": {
       "Good": 2
+    },
+    "ASRP-Kal care Service": {
+      "Good": 1
     }
   },
   "38104832": {
@@ -48966,6 +48660,9 @@
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 2
+    },
+    "L4 Device Repair": {
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 2
@@ -49368,6 +49065,9 @@
     "_desc": "R hsg asm it2160 Hot Yellow PC+ABS YJ",
     "Nigeria-MWH": {
       "Good": 7
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
     }
   },
   "15301449": {
@@ -49508,7 +49208,7 @@
   "12114322": {
     "_desc": "PCBA MB MS3002 A1 8M+8M V2.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -49553,6 +49253,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 2
+    },
+    "Carlcare-Benin": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
@@ -49701,9 +49404,6 @@
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 3
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "23800044": {
@@ -50449,9 +50149,6 @@
     "Carlcare-Warri": {
       "Good": 13
     },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
     "Carlcare-Onitsha": {
       "Good": 49
     },
@@ -50462,7 +50159,7 @@
       "Good": 106
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 22
+      "Good": 20
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 8
@@ -50475,9 +50172,6 @@
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
-    },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 5
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 5
@@ -50506,8 +50200,11 @@
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 4
     },
+    "ASC-M-Adehero Service": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
-      "Good": 166
+      "Good": 165
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
@@ -50516,6 +50213,9 @@
       "Good": 4
     },
     "ASC-M-Grand Venadum Resource Limited": {
+      "Good": 1
+    },
+    "ASC-M-Darigo 03 Communication Ltd": {
       "Good": 1
     },
     "Carlcare-Abuja": {
@@ -50657,7 +50357,7 @@
       "Good": 2
     },
     "ASC-M-Intaj Dynamic": {
-      "Good": 3
+      "Good": 2
     }
   },
   "12206922": {
@@ -51628,9 +51328,6 @@
     "Nigeria-MWH": {
       "Good": 77
     },
-    "Carlcare-Warri": {
-      "Good": 1
-    },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 1
     },
@@ -51701,9 +51398,6 @@
       "Good": 1
     },
     "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
@@ -51807,9 +51501,6 @@
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 2
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     }
   },
   "23001741": {
@@ -52136,7 +51827,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 13
+      "Good": 3
     },
     "Carlcare-Onitsha": {
       "Good": 11
@@ -52155,9 +51846,6 @@
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 6
-    },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 4
@@ -52264,6 +51952,9 @@
     "Carlcare-Warri": {
       "Good": 1
     },
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 1
+    },
     "Carlcare-Onitsha": {
       "Good": 9
     },
@@ -52283,7 +51974,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 5
+      "Good": 3
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 1
@@ -52373,6 +52064,9 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
+    "Carlcare-Benin": {
       "Good": 3
     },
     "Carlcare-Ibadan": {
@@ -52767,9 +52461,6 @@
     "_desc": "Ad film X6525B BOPP allcoated OP",
     "Nigeria-MWH": {
       "Good": 80
-    },
-    "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 1
     }
   },
   "10310866": {
@@ -52853,7 +52544,7 @@
   "12109595": {
     "_desc": "PCBA SUB X6516 SE668S 1 A1 V1.0 OP",
     "Nigeria-MWH": {
-      "Good": 5
+      "Good": 7
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -53081,10 +52772,10 @@
   "38106107": {
     "_desc": "B-cov asm KN3 INK BLACK V1 JPC N",
     "Nigeria-MWH": {
-      "Good": 11
+      "Good": 8
     },
     "L4 Device Repair": {
-      "Good": 4
+      "Good": 2
     },
     "ASC-M-Monday Mega Enterprise": {
       "Good": 2
@@ -53157,9 +52848,6 @@
     },
     "ASC-M-Matga Service": {
       "Good": 5
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-Ets Technology World": {
       "Good": 2
@@ -53357,7 +53045,7 @@
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     }
   },
   "23309989": {
@@ -53699,7 +53387,7 @@
   "12707178": {
     "_desc": "121B PCBA SUB H6222 1 F V1.1",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 2
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -54101,7 +53789,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -54755,7 +54443,7 @@
       "Good": 2
     },
     "ASC-M-Sulit Hub Ota": {
-      "Good": 4
+      "Good": 2
     },
     "ASC-M-New Moon Unique Link": {
       "Good": 5
@@ -55009,6 +54697,9 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 2
     },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 2
+    },
     "ASC-M-Midas Touch Lagos": {
       "Good": 5
     },
@@ -55031,7 +54722,7 @@
       "Good": 5
     },
     "ASC-M-Carosammy Concept Ltd": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-Ets Technology World": {
       "Good": 3
@@ -55241,7 +54932,7 @@
   "12206516": {
     "_desc": "PF 3in1 S702 DARK CHROME AFR",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-KONAMI": {
       "Good": 1
@@ -55424,6 +55115,9 @@
       "Good": 6
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 12
+    },
+    "Carlcare-Benin": {
       "Good": 12
     },
     "Carlcare-Ibadan": {
@@ -56669,7 +56363,7 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 2
+      "Good": 3
     },
     "L4 Device Repair": {
       "Good": 5
@@ -56696,7 +56390,7 @@
       "Good": 2
     },
     "Carlcare-Port-harcourt": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
@@ -56849,7 +56543,7 @@
       "Good": 99
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 16
+      "Good": 5
     },
     "Carlcare-Onitsha": {
       "Good": 4
@@ -56882,7 +56576,7 @@
       "Good": 3
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 10
+      "Good": 6
     },
     "Carlcare-Benin": {
       "Good": 4
@@ -56894,7 +56588,7 @@
       "Good": 4
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 15
+      "Good": 5
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 1
@@ -57542,27 +57236,6 @@
       "Good": 2
     }
   },
-  "17401812": {
-    "_desc": "Incell 6.56 HD D BOE a-Si BLACK",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "Carlcare-Onitsha": {
-      "Good": 1
-    },
-    "ASC-M-Intaj Dynamic": {
-      "Good": 1
-    },
-    "Carlcare-Benin": {
-      "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 1
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
-    }
-  },
   "23001720": {
     "_desc": "FPC SPK for L6502",
     "Nigeria-MWH": {
@@ -57802,6 +57475,9 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
     },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 4
+    },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 4
     },
@@ -57878,13 +57554,13 @@
   "10312584": {
     "_desc": "TWS Earphone itel BudsNeo Black AFR P",
     "Nigeria-MWH": {
-      "Good": 770
+      "Good": 768
     },
     "Carlcare-Warri": {
       "Good": 4
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 4
+      "Good": 3
     },
     "ASRP-Vinchino Global Ventures": {
       "Good": 1
@@ -57919,14 +57595,11 @@
     "Carlcare-Benin": {
       "Good": 3
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 1
-    },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 0
     },
     "ASC-M-Switrat Limited": {
       "Good": 1
@@ -58099,6 +57772,9 @@
     "ASC-M-Midas Touch Sokoto": {
       "Good": 2
     },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 0
+    },
     "ASC-M-Triple Sea Integrated Services Ltd": {
       "Good": 1
     }
@@ -58202,7 +57878,7 @@
   "10313768": {
     "_desc": "TWS Earphone oraimo OTW-630 Space Grey B",
     "Nigeria-MWH": {
-      "Good": 463
+      "Good": 459
     },
     "ASC-M-Matga Service": {
       "Good": 10
@@ -58247,7 +57923,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 4
+      "Good": 0
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 55
@@ -58292,7 +57968,7 @@
       "Good": 28
     },
     "ASC-M-Midas Touch Kaduna": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-MIDAS TOUCH KANO": {
       "Good": 2
@@ -58466,12 +58142,9 @@
       "Good": 1
     },
     "Carlcare-Abuja": {
-      "Good": 9
+      "Good": 8
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
@@ -58535,7 +58208,7 @@
   "12708781": {
     "_desc": "121B PF MB+Label A669L SQ375 F1 64+2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -59144,7 +58817,7 @@
       "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 1
@@ -59537,7 +59210,7 @@
   "12206186": {
     "_desc": "PF 3in1 CM5 EMERALD LAKE GREEN",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Device Hub Limited": {
       "Good": 3
@@ -59822,7 +59495,7 @@
       "Good": 24
     },
     "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
@@ -59906,7 +59579,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
       "Good": 2
@@ -60341,6 +60014,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 9
+    },
+    "Carlcare-Benin": {
       "Good": 9
     },
     "Carlcare-Ibadan": {
@@ -61134,9 +60810,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 4
-    },
-    "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
@@ -62320,9 +61993,6 @@
     "Carlcare-Warri": {
       "Good": 1
     },
-    "ASC-Ets Technology World": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 5
     },
@@ -62717,7 +62387,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 8
+      "Good": 5
     },
     "Carlcare-Onitsha": {
       "Good": 3
@@ -62765,10 +62435,13 @@
       "Good": 3
     },
     "ASC-M-Switrat Limited": {
-      "Good": 1
+      "Good": 0
     },
     "ASRP-KD distribution & service": {
       "Good": 2
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 5
@@ -63032,7 +62705,7 @@
       "Good": 2
     },
     "Carlcare-Onitsha": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
@@ -63044,13 +62717,13 @@
       "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 6
+      "Good": 1
     },
     "ASC-M-Device Hub Limited": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 6
@@ -63063,9 +62736,6 @@
     },
     "ASC-M-7village": {
       "Good": 4
-    },
-    "ASC-M-Midas Touch Kaduna": {
-      "Good": 0
     },
     "ASC-M-Ifix Repair Hub": {
       "Good": 1
@@ -63437,7 +63107,7 @@
   "12115623": {
     "_desc": "PCBA MB MS3002 A2 8M+8M V2.0",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 0
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 1
@@ -63534,6 +63204,9 @@
     },
     "ASC-M-Ifix Repair Hub": {
       "Good": 2
+    },
+    "ASRP-Kal care Service": {
+      "Good": 1
     },
     "ASC-M-Reedlim Global Enterprise Bauchi": {
       "Good": 5
@@ -63755,7 +63428,7 @@
       "Good": 1
     },
     "Carlcare-Port-harcourt": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 3
@@ -63953,7 +63626,7 @@
   "12709386": {
     "_desc": "121B PF MB+Label X6728B V633B U1 128+4",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -63965,6 +63638,9 @@
       "Good": 8
     },
     "ASC-M-Midas Touch Sokoto": {
+      "Good": 1
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
       "Good": 1
     },
     "ASC-M-Midas Touch Lagos": {
@@ -64112,7 +63788,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 5
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 3
@@ -64385,7 +64061,7 @@
       "Good": 17
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 7
+      "Good": 5
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -64424,7 +64100,7 @@
       "Good": 1
     },
     "Carlcare-Abuja": {
-      "Good": 7
+      "Good": 6
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 2
@@ -64503,9 +64179,6 @@
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 1
-    },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 6
@@ -64716,6 +64389,9 @@
     },
     "Carlcare-Kano": {
       "Good": 4
+    },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 2
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -65144,13 +64820,13 @@
       "Good": 2
     },
     "ASC-M-Femtech Offa": {
-      "Good": 30
+      "Good": 24
     },
     "Carlcare-Kano": {
-      "Good": 511
+      "Good": 510
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 35
+      "Good": 30
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 12
@@ -65171,7 +64847,7 @@
       "Good": 6
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 7
+      "Good": 11
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 6
@@ -65192,13 +64868,16 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 46
+      "Good": 45
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 5
     },
+    "ASC-M-Adehero Service": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
-      "Good": 22
+      "Good": 21
     },
     "ASC-M-Midas touch Jos": {
       "Good": 3
@@ -65210,7 +64889,7 @@
       "Good": 219
     },
     "ASC-M-Midas Touch Kaduna": {
-      "Good": 30
+      "Good": 8
     },
     "ASC-M-MIDAS TOUCH KANO": {
       "Good": 2
@@ -65218,26 +64897,23 @@
     "ASC-M-Neyo Multi Global Concept": {
       "Good": 1
     },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 2
-    },
     "ASC-M-Femtech Information Technology Ltd": {
-      "Good": 61
+      "Good": 60
     },
     "Carlcare-Port-harcourt": {
-      "Good": 138
+      "Good": 137
     },
     "ASC-M-Matga Service Oye": {
       "Good": 12
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 7
+      "Good": 2
     },
     "ASC-M-Innive Technologies Alaba": {
       "Good": 1
     },
     "ASC-M-Tonijam Nig.Ltd": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 2
@@ -65447,7 +65123,7 @@
   "38103931": {
     "_desc": "Main Key T528New StarBlack+DaChrome EN N",
     "Nigeria-MWH": {
-      "Good": 17
+      "Good": 16
     }
   },
   "17201956": {
@@ -65618,7 +65294,7 @@
   "12206058": {
     "_desc": "PF 3in1 CM8 TITANIUM GOLD",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -65690,7 +65366,7 @@
       "Good": 2
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     }
   },
   "95413261": {
@@ -66165,6 +65841,9 @@
     "_desc": "FPCA IR LED 2L X6896 W12",
     "Nigeria-MWH": {
       "Good": 48
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 2
     }
   },
   "23503472": {
@@ -66203,9 +65882,6 @@
       "Good": 0
     },
     "Carlcare-Port-harcourt": {
-      "Good": 1
-    },
-    "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
     }
   },
@@ -66422,7 +66098,7 @@
   "12113208": {
     "_desc": "PCBA SUB F203 1 A1 V1.1",
     "Nigeria-MWH": {
-      "Good": 7
+      "Good": 6
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 1
@@ -66549,6 +66225,9 @@
     },
     "Carlcare-Kano": {
       "Good": 10
+    },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 2
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -66964,6 +66643,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 10
     },
+    "Carlcare-Benin": {
+      "Good": 10
+    },
     "Carlcare-Ibadan": {
       "Good": 10
     },
@@ -67361,7 +67043,7 @@
   "37000293": {
     "_desc": "Lens KL5 44.5*0.6 BLACK R Mian CAM V1 N",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-KONAMI": {
       "Good": 1
@@ -67827,9 +67509,6 @@
     "_desc": "F hsg asm X693 Black",
     "Nigeria-MWH": {
       "Good": 7
-    },
-    "ASC-M-Intaj Dynamic": {
-      "Good": 1
     }
   },
   "37600422": {
@@ -68177,7 +67856,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 2
     },
     "Benin-MWH": {
       "Good": 2
@@ -68749,6 +68428,9 @@
     "Nigeria-MWH": {
       "Good": 23
     },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
     },
@@ -68822,7 +68504,7 @@
   "12202588": {
     "_desc": "PF F hsg+FL(CTP+LCM) KF8 Black",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "37300607": {
@@ -69011,7 +68693,7 @@
   "12113821": {
     "_desc": "PCBA MB H8917 N1 256G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     }
   },
   "17601283": {
@@ -69022,11 +68704,14 @@
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
     },
+    "ASC-M-Don-Yellow Tech": {
+      "Good": 2
+    },
     "Carlcare-Kano": {
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Zikniks Suleja": {
       "Good": 1
@@ -69182,7 +68867,7 @@
       "Good": 48
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 11
+      "Good": 4
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -69242,39 +68927,6 @@
       "Good": 3
     }
   },
-  "12206052": {
-    "_desc": "Homemade PF 3in1 X6855 TWILIGHT PURPLE",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Midas Touch Sokoto": {
-      "Good": 3
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
-    },
-    "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
-      "Good": 1
-    },
-    "ASC-M-Bluegate Bamboo Mushin-TypeB": {
-      "Good": 2
-    },
-    "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 3
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
-    }
-  },
   "23001887": {
     "_desc": "FPC Side Key LE6",
     "Nigeria-MWH": {
@@ -69308,7 +68960,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
+      "Good": 0
     },
     "Benin-MWH": {
       "Good": 17
@@ -69350,9 +69002,6 @@
       "Good": 8
     },
     "ASC-M-MIDAS TOUCH KANO": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
       "Good": 1
     },
     "ASC-M-Tonijam Nig.Ltd": {
@@ -69422,6 +69071,9 @@
       "Good": 6
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 12
+    },
+    "Carlcare-Benin": {
       "Good": 12
     },
     "Carlcare-Ibadan": {
@@ -69858,9 +69510,6 @@
     },
     "Carlcare-Kano": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
     }
   },
   "38105206": {
@@ -70031,7 +69680,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 5
+      "Good": 6
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 6
@@ -70076,7 +69725,7 @@
   "12113058": {
     "_desc": "Homemade PCBA SUB F201 1 A5 V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Matga Service": {
       "Good": 2
@@ -70319,7 +69968,7 @@
       "Good": 1
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 2
@@ -70433,7 +70082,7 @@
       "Good": 9
     },
     "ASC-M-Switrat Limited": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 1
@@ -70452,9 +70101,6 @@
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 1
-    },
-    "ASRP-SmartPhone Global": {
-      "Good": 3
     }
   },
   "17201986": {
@@ -70811,18 +70457,6 @@
       "Good": 10
     }
   },
-  "17401958": {
-    "_desc": "Incell 10.95 FHD H VSN LTPS BLACK",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 6
-    },
-    "Carlcare-Abuja": {
-      "Good": 1
-    }
-  },
   "35200100": {
     "_desc": "2in1 CONN SIM+T Flat 8*3.4*0.5mm",
     "Nigeria-MWH": {
@@ -70961,7 +70595,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     }
   },
   "CPM10018": {
@@ -71416,6 +71050,9 @@
     "ASC-M-Sixth Sixth Technologies": {
       "Good": 1
     },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
       "Good": 4
     },
@@ -71453,9 +71090,6 @@
       "Good": 20
     },
     "Carlcare-Onitsha": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
       "Good": 1
     }
   },
@@ -71573,7 +71207,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -71582,7 +71216,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 4
@@ -71690,7 +71324,7 @@
   "12206735": {
     "_desc": "PF PCBA SUB+Label A673L SM383 1 B1",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -71739,33 +71373,6 @@
     "_desc": "C-deco C671L NAVY BLUE V1 JPC",
     "Nigeria-MWH": {
       "Good": 19
-    }
-  },
-  "12206750": {
-    "_desc": "PF MB+Label A669W SA375 B1 64+2",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "Carlcare-Kano": {
-      "Good": 1
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 2
-    },
-    "ASC-M-Ustaz Exclusive Stores": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 4
-    },
-    "Carlcare-Abuja": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "23002644": {
@@ -71840,7 +71447,7 @@
   "17601275": {
     "_desc": "CAP FP GF3986 17 DARK BLACK",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 3
     }
   },
   "21204885": {
@@ -72496,9 +72103,6 @@
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 2
     },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 2
     },
@@ -72596,7 +72200,7 @@
   "12204632": {
     "_desc": "Homemade PF Bat cov asm X6850 TITAN GOLD CE",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -72673,6 +72277,9 @@
     "Carlcare-Warri": {
       "Good": 1
     },
+    "Carlcare-Onitsha": {
+      "Good": 1
+    },
     "Carlcare-CV(Computer Village)": {
       "Good": 3
     },
@@ -72698,7 +72305,7 @@
       "Good": 1
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-7village": {
       "Good": 5
@@ -73121,7 +72728,7 @@
   "10320078": {
     "_desc": "POBA itel A1121 BLACK AFR 1WmAh12w sea P",
     "Nigeria-MWH": {
-      "Good": 148
+      "Good": 149
     },
     "Carlcare-Onitsha": {
       "Good": 5
@@ -73236,6 +72843,9 @@
     },
     "Carlcare-Kano": {
       "Good": 2
+    },
+    "ASC-M-Zikniks Enterprises Limited": {
+      "Good": 1
     }
   },
   "19401494": {
@@ -73258,11 +72868,8 @@
     "Carlcare-Kano": {
       "Good": 5
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -73421,7 +73028,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 4
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -73481,7 +73088,7 @@
   "12116682": {
     "_desc": "Homemade PCBA MB KN4 H6940 V1 128G+4G V1.3",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 2
@@ -73491,6 +73098,9 @@
     },
     "Carlcare-Onitsha": {
       "Good": 5
+    },
+    "ASC-M-Don-Yellow Tech": {
+      "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 3
@@ -73544,7 +73154,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 3
+      "Good": 2
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 5
@@ -74085,9 +73695,6 @@
     "_desc": "PCBA MB H6127 Af4 64G+4G V1.2",
     "Nigeria-MWH": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "30005762": {
@@ -74115,9 +73722,6 @@
     },
     "L4 Device Repair": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "10083444": {
@@ -74126,7 +73730,7 @@
       "Good": 1
     },
     "Carlcare-Kano": {
-      "Good": 1
+      "Good": 2
     }
   },
   "12021976": {
@@ -74186,7 +73790,7 @@
       "Good": 4
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 14
@@ -74328,6 +73932,9 @@
     "_desc": "176B CAP FP ICNF7319AL 13 Light Gold",
     "Nigeria-MWH": {
       "Good": 15
+    },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 1
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
       "Good": 1
@@ -74484,6 +74091,141 @@
     "_desc": "Composite plate lens P665L BLACK flash V0 DT",
     "Nigeria-MWH": {
       "Good": 189
+    }
+  },
+  "12207231": {
+    "_desc": "PF 3in1 A6611L BLACK YX+YXGD",
+    "Nigeria-MWH": {
+      "Good": 14
+    },
+    "ASC-M-Matga Service": {
+      "Good": 5
+    },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 1
+    },
+    "Carlcare-Warri": {
+      "Good": 8
+    },
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 2
+    },
+    "ASC-M-Jenzabar Limited": {
+      "Good": 1
+    },
+    "ASC-M-Kraaft Technology & services": {
+      "Good": 4
+    },
+    "ASC-M-Femtech Offa": {
+      "Good": 3
+    },
+    "Carlcare-Kano": {
+      "Good": 10
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 20
+    },
+    "ASC-M-Haven Buddy Integrated Concept": {
+      "Good": 5
+    },
+    "ASC-M-Zikniks Suleja": {
+      "Good": 1
+    },
+    "ASC-M-Greenfield Gadgets Solution Enugu": {
+      "Good": 3
+    },
+    "L4 Device Repair": {
+      "Good": 2
+    },
+    "ASC-M-Intaj Dynamic": {
+      "Good": 5
+    },
+    "ASC-M-Bluegate Bamboo Ajah-TypeB": {
+      "Good": 24
+    },
+    "ASC-M-Midas Touch Sokoto": {
+      "Good": 1
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Lagos": {
+      "Good": 9
+    },
+    "ASC-M-Haslida Concept": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Akure": {
+      "Good": 12
+    },
+    "ASC-Ets Technology World": {
+      "Good": 4
+    },
+    "ASC-M-Maxwell Telecoms Nig Ents.": {
+      "Good": 2
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 9
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 10
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
+    "ASRP-KD distribution & service": {
+      "Good": 1
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 1
+    },
+    "ASRP-Mecca Media Ltd": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 5
+    },
+    "ASC-M-Midas touch Jos": {
+      "Good": 2
+    },
+    "Carlcare-Abuja": {
+      "Good": 14
+    },
+    "ASC-M-Midas Touch Kaduna": {
+      "Good": 6
+    },
+    "NGSI03761-D'Care Concept Limited(Amukoko)": {
+      "Good": 1
+    },
+    "ASC-M-Neyo Multi Global Concept": {
+      "Good": 1
+    },
+    "ASC-M-Reedlim Global Enterprise Bauchi": {
+      "Good": 2
+    },
+    "Carlcare-Lagos Victoria Island(3chub)": {
+      "Good": 1
+    },
+    "ASC-M-Triple Sea Integrated Services Ltd": {
+      "Good": 2
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 5
+    },
+    "NGSI03772-Klanyjay Services Brand(Giwa)": {
+      "Good": 1
+    },
+    "ASC-M-Breva Enterprises Limited Lagos": {
+      "Good": 4
+    },
+    "ASC-M-Sulit Hub": {
+      "Good": 1
+    },
+    "ASC-M-New Moon Unique Link": {
+      "Good": 1
+    },
+    "ASC-M-Tonijam Nig.Ltd": {
+      "Good": 6
     }
   },
   "15700053": {
@@ -74762,13 +74504,13 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Adehero Service": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 1
@@ -74888,7 +74630,7 @@
   "12108771": {
     "_desc": "PCBA MB LW2401 E1 128MB+64MB V2.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "38800134": {
@@ -75093,6 +74835,9 @@
     },
     "Carlcare-Kano": {
       "Good": 10
+    },
+    "ASC-M-Crescita Global Resources Ltd": {
+      "Good": 1
     }
   },
   "25002847": {
@@ -75764,7 +75509,7 @@
   "12111786": {
     "_desc": "Homemade PCBA SUB H895 1 C2 V1.2 2in1",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "21204960": {
@@ -75833,7 +75578,7 @@
   "12204750": {
     "_desc": "Homemade PF 3in1 CL6k BLACK",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     }
   },
   "14201643": {
@@ -75956,7 +75701,7 @@
   "12115173": {
     "_desc": "PCBA MB H8921 F1 256G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 8
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -76245,9 +75990,6 @@
     },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 3
@@ -76607,7 +76349,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Port-harcourt": {
       "Good": 1
@@ -76736,7 +76478,7 @@
   "17001342": {
     "_desc": "LCM 2.8Q TN CTC+ST7789V3A H1.6mm V1.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 4
     },
     "ASC-M-Great Mind Telecom Service": {
       "Good": 3
@@ -76775,7 +76517,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 7
+      "Good": 4
     },
     "ASC-M-Adehero Service": {
       "Good": 1
@@ -76891,6 +76633,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 10
     },
+    "Carlcare-Benin": {
+      "Good": 10
+    },
     "Carlcare-Ibadan": {
       "Good": 10
     },
@@ -76976,7 +76721,7 @@
       "Good": 13
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 1
@@ -76991,7 +76736,7 @@
       "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 5
+      "Good": 4
     }
   },
   "23505014": {
@@ -77009,7 +76754,7 @@
   "12206598": {
     "_desc": "PF MB+Label X6728B V633B U1 128+4",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -77025,6 +76770,9 @@
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
+    },
+    "ASC-M-Don-Yellow Tech": {
+      "Good": 2
     },
     "ASC-M-Femtech Offa": {
       "Good": 2
@@ -77075,9 +76823,6 @@
       "Good": 17
     },
     "ASRP-Ajele Communication(Yaba Tech)": {
-      "Good": 2
-    },
-    "ASC-M-Midas Touch Kaduna": {
       "Good": 2
     },
     "ASRP-Kal care Service": {
@@ -77476,9 +77221,6 @@
     "Carlcare-Ibadan": {
       "Good": 4
     },
-    "Carlcare-Abuja": {
-      "Good": 0
-    },
     "ASC-M-Ifix Repair Hub": {
       "Good": 2
     },
@@ -77674,9 +77416,6 @@
     "Nigeria-MWH": {
       "Good": 3
     },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
     "ASC-Ets Technology World": {
       "Good": 1
     }
@@ -77732,7 +77471,7 @@
   "10319829": {
     "_desc": "TWS itel IEW-52 BLACK",
     "Nigeria-MWH": {
-      "Good": 10
+      "Good": 12
     },
     "Carlcare-Kano": {
       "Good": 2
@@ -77777,6 +77516,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 10
+    },
+    "Carlcare-Benin": {
       "Good": 10
     },
     "Carlcare-Ibadan": {
@@ -77835,21 +77577,6 @@
     "_desc": "Lid-base box T1001 272*187*68mm",
     "Nigeria-MWH": {
       "Good": 100
-    }
-  },
-  "17401934": {
-    "_desc": "Oncell 6.78 1.5k BOE H AMOLED BLACK",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
-    },
-    "ASC-M-7village": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
-      "Good": 2
     }
   },
   "34000054": {
@@ -77939,7 +77666,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 3
     },
     "ASRP-T.Comm": {
       "Good": 2
@@ -78232,6 +77959,9 @@
     "Nigeria-MWH": {
       "Good": 5
     },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 1
+    },
     "ASC-M-Zedglobal Services": {
       "Good": 1
     }
@@ -78512,7 +78242,7 @@
   "12203899": {
     "_desc": "PF PCBA SUB+Label BF6 SE668S 1 E1",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "19501052": {
@@ -79169,7 +78899,7 @@
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 6
+      "Good": 5
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
@@ -79229,7 +78959,7 @@
       "Good": 9
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 5
     },
     "ASC-M-Ju'Mike Global Telecommunication": {
       "Good": 1
@@ -79409,7 +79139,7 @@
   "12206661": {
     "_desc": "PF 3in1 KM6 LAKE BLUE",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 3
@@ -79441,9 +79171,6 @@
     "Carlcare-Ibadan": {
       "Good": 3
     },
-    "ASC-M-Johnwhite Signal Tech": {
-      "Good": 0
-    },
     "Carlcare-Abuja": {
       "Good": 5
     },
@@ -79467,9 +79194,6 @@
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 6
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -79779,9 +79503,6 @@
     "_desc": "Homemade PCBA MB H6931 A1 128G+4G V1.2",
     "Nigeria-MWH": {
       "Good": 160
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "Niger-MWH": {
       "Good": 2
@@ -80426,7 +80147,7 @@
       "Good": 1
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
-      "Good": 2
+      "Good": 1
     }
   },
   "17001134": {
@@ -80498,7 +80219,7 @@
       "Good": 5
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 9
+      "Good": 0
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 2
@@ -80744,7 +80465,7 @@
   "12104178": {
     "_desc": "PCBA MB DL194 E 4MB+4MB V01",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 4
     },
     "ASC-M-Matga Service": {
       "Good": 4
@@ -81119,7 +80840,7 @@
   "10308844": {
     "_desc": "HairClipper oraimo OPC-CL30Silver MA SAH",
     "Nigeria-MWH": {
-      "Good": 45
+      "Good": 51
     },
     "ASC-M-Matga Service": {
       "Good": 3
@@ -81158,7 +80879,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 6
+      "Good": 1
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 1
@@ -81266,7 +80987,7 @@
       "Good": 6
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -81498,9 +81219,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-M-Maxwell Telecoms Nig Ents.": {
       "Good": 6
@@ -82373,7 +82091,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -83058,6 +82776,9 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
+    },
+    "ASC-M-Innive Technologies Alaba": {
+      "Good": 1
     }
   },
   "23002735": {
@@ -83400,6 +83121,9 @@
     "_desc": "Infinix X6879 B1 MIDNIGHTBLACK AFR 256+8",
     "Nigeria-MWH": {
       "Good": 29
+    },
+    "Carlcare-Abuja": {
+      "Good": 1
     }
   },
   "14201690": {
@@ -83414,7 +83138,7 @@
       "Good": 10
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 7
+      "Good": 6
     },
     "Carlcare-Benin": {
       "Good": 8
@@ -83694,6 +83418,9 @@
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 18
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 4
     }
   },
   "17201455": {
@@ -83715,9 +83442,6 @@
     },
     "Carlcare-Ibadan": {
       "Good": 0
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "23002194": {
@@ -83846,7 +83570,7 @@
   "12206141": {
     "_desc": "PF MB+Label P673L XE67F B1 128+4",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 2
@@ -84614,7 +84338,7 @@
   "10312387": {
     "_desc": "TWS Earphone Infinix XE29 White",
     "Nigeria-MWH": {
-      "Good": 16
+      "Good": 17
     },
     "ASC-M-Femtech Offa": {
       "Good": 3
@@ -84878,6 +84602,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 2
+    },
+    "Carlcare-Benin": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
@@ -85195,9 +84922,6 @@
     "L4 Device Repair": {
       "Good": 1
     },
-    "ASC-Ets Technology World": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 2
     },
@@ -85373,6 +85097,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 10
+    },
+    "Carlcare-Benin": {
       "Good": 10
     },
     "Carlcare-Ibadan": {
@@ -85613,12 +85340,15 @@
   "12205825": {
     "_desc": "PF 3in1 AE10 KARST GREEN",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 1
     },
     "Carlcare-Onitsha": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
     "ASC-M-Haven Buddy Integrated Concept": {
@@ -85984,9 +85714,6 @@
     "Carlcare-Benin": {
       "Good": 1
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
     "ASC-Ets Technology World": {
       "Good": 2
     },
@@ -86027,7 +85754,7 @@
   "12115214": {
     "_desc": "PCBA MB H8921 Y1 256G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -86117,7 +85844,7 @@
   "12705260": {
     "_desc": "176B FM(ICNF7312BL) 11 Morpheus Blue",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 4
     },
     "Carlcare-Warri": {
       "Good": 2
@@ -86481,9 +86208,6 @@
     },
     "ASC-M-Femtech Offa": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -86967,9 +86691,6 @@
     "_desc": "POBA oraimo OPB-1302 GRAPHITE BLACK",
     "Nigeria-MWH": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
     }
   },
   "12202967": {
@@ -86978,7 +86699,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 6
+      "Good": 1
     }
   },
   "12114380": {
@@ -87002,7 +86723,7 @@
   "12114257": {
     "_desc": "PCBA MB MS3003 A1 8M+8M V1.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Matga Service": {
       "Good": 6
@@ -87011,7 +86732,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 2
@@ -87124,6 +86845,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 46
     },
+    "Carlcare-Benin": {
+      "Good": 18
+    },
     "Carlcare-Ibadan": {
       "Good": 18
     },
@@ -87152,7 +86876,7 @@
   "25002176": {
     "_desc": "PL Bat BL-49HI 4900mAh CB",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -87209,7 +86933,7 @@
       "Good": 18
     },
     "ASC-M-Femtech Offa": {
-      "Good": 20
+      "Good": 19
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 3
@@ -87218,7 +86942,7 @@
       "Good": 16
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 4
+      "Good": 2
     },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
@@ -87239,7 +86963,7 @@
       "Good": 2
     },
     "Carlcare-Port-harcourt": {
-      "Good": 47
+      "Good": 46
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 1
@@ -87314,7 +87038,7 @@
   "12705342": {
     "_desc": "174A Incell 6.56 HD+ BOE D a-Si Black",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 1
@@ -87372,9 +87096,6 @@
     },
     "ASC-Ets Technology World": {
       "Good": 3
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
     },
     "ASC-M-7village": {
       "Good": 2
@@ -87887,7 +87608,7 @@
       "Good": 2
     },
     "Carlcare-Kano": {
-      "Good": 7
+      "Good": 6
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 0
@@ -87908,7 +87629,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 7
+      "Good": 6
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 15
@@ -87917,7 +87638,7 @@
       "Good": 2
     },
     "ASC-M-Device Hub Limited": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 30
@@ -87932,7 +87653,7 @@
       "Good": 1
     },
     "ASC-M-Adehero Service": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-7village": {
       "Good": 6
@@ -87954,6 +87675,9 @@
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 2
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 1
@@ -87996,9 +87720,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-M-7village": {
       "Good": 1
@@ -88145,7 +87866,7 @@
   "12709136": {
     "_desc": "121B PCBA MB F151 U1 64G+3G V1.2",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 0
     },
     "ASC-M-Great Mind Telecom Service": {
       "Good": 2
@@ -88178,7 +87899,7 @@
       "Good": 3
     },
     "L4 PCBA Repair": {
-      "Good": 1
+      "Good": 5
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 3
@@ -88466,7 +88187,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 5
+      "Good": 2
     },
     "ASRP-T.Comm": {
       "Good": 2
@@ -88484,7 +88205,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Sgv Ict Ltd": {
       "Good": 1
@@ -88493,6 +88214,9 @@
       "Good": 1
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
+      "Good": 1
+    },
+    "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
     }
   },
@@ -88970,7 +88694,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 4
@@ -89690,7 +89414,7 @@
       "Good": 2
     },
     "Carlcare-Kano": {
-      "Good": 4
+      "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 7
@@ -89717,13 +89441,10 @@
   "12204892": {
     "_desc": "Homemade PF 3in1 LI6 BLACK",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Matga Service": {
       "Good": 6
-    },
-    "Carlcare-Onitsha": {
-      "Good": 1
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 4
@@ -89757,9 +89478,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 4
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-Ets Technology World": {
       "Good": 2
@@ -90353,7 +90071,7 @@
   "12116335": {
     "_desc": "PCBA MB H581 D1 128G+8G V1.2",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -90650,7 +90368,7 @@
       "Good": 4
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 4
+      "Good": 5
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -91079,7 +90797,7 @@
   "10314035": {
     "_desc": "Smart watch itel ISW-O15 Rose Gold",
     "Nigeria-MWH": {
-      "Good": 465
+      "Good": 468
     },
     "Carlcare-Onitsha": {
       "Good": 1
@@ -91103,7 +90821,7 @@
   "12205224": {
     "_desc": "PF 3in1 A669L BLACK JT",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -91136,15 +90854,12 @@
       "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 4
+      "Good": 2
     },
     "Carlcare-Benin": {
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
-      "Good": 1
-    },
-    "ASC-Ets Technology World": {
       "Good": 1
     },
     "ASC-M-Sixth Sixth Technologies": {
@@ -91577,7 +91292,7 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 2
@@ -91706,7 +91421,7 @@
   "12108639": {
     "_desc": "PCBA SUB MA3501 1 A1 V2.0",
     "Nigeria-MWH": {
-      "Good": 4
+      "Good": 5
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
@@ -91974,6 +91689,9 @@
     "_desc": "Cp b-cov asm KM4k INBLACK V0 JPC TECNO N",
     "Nigeria-MWH": {
       "Good": 14
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
     }
   },
   "12102566": {
@@ -92039,7 +91757,7 @@
   "21204516": {
     "_desc": "Bat cover asm KE5j Ice Jadeite PC DS",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     }
   },
   "12201824": {
@@ -92186,7 +91904,7 @@
       "Good": 29
     },
     "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
@@ -92237,7 +91955,7 @@
   "12205632": {
     "_desc": "PF PCBA SUB+Label X6531 V631A 1 A1",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 3
     },
     "ASC-M-Matga Service": {
       "Good": 3
@@ -92647,6 +92365,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 3
     },
+    "Carlcare-Benin": {
+      "Good": 3
+    },
     "Carlcare-Ibadan": {
       "Good": 3
     },
@@ -92954,7 +92675,7 @@
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Grand Venadum Resource Limited": {
       "Good": 1
@@ -93038,7 +92759,7 @@
   "12206491": {
     "_desc": "PF MB+Label KM5 XK67J A1 128+4",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -93224,7 +92945,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 16
+      "Good": 15
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -93330,9 +93051,6 @@
     },
     "Carlcare-Ibadan": {
       "Good": 0
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "12115322": {
@@ -93443,7 +93161,7 @@
   "12205555": {
     "_desc": "PF PCBA SUB+Label KL5 XK678 1 A1",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Benin-MWH": {
       "Good": 1
@@ -93533,6 +93251,9 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
+    "Carlcare-Benin": {
       "Good": 3
     },
     "Carlcare-Ibadan": {
@@ -93685,6 +93406,9 @@
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 3
     },
+    "L4 Device Repair": {
+      "Good": 4
+    },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
     },
@@ -93698,7 +93422,7 @@
       "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 2
+      "Good": 1
     }
   },
   "23202063": {
@@ -93821,7 +93545,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 4
+      "Good": 5
     },
     "L4 Device Repair": {
       "Good": 2
@@ -93890,7 +93614,7 @@
   "12709244": {
     "_desc": "121B PCBA MB C671L SM382 C1 128G+4G V1.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     }
   },
   "17401638": {
@@ -93944,7 +93668,7 @@
   "12207739": {
     "_desc": "Homemade PF 3in1 X6895 BLACK GZ",
     "Nigeria-MWH": {
-      "Good": 118
+      "Good": 117
     },
     "ASC-M-Matga Service": {
       "Good": 4
@@ -93961,6 +93685,9 @@
     "Carlcare-Kano": {
       "Good": 46
     },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
     },
@@ -93968,7 +93695,7 @@
       "Good": 7
     },
     "L4 Device Repair": {
-      "Good": 13
+      "Good": 12
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 4
@@ -93980,13 +93707,13 @@
       "Good": 4
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 2
     },
     "ASC-M-Device Hub Limited": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 2
@@ -94071,6 +93798,9 @@
     "_desc": "CSP FF 0.08M GC6133 F 1P IR H",
     "Nigeria-MWH": {
       "Good": 55
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
     }
   },
   "12202083": {
@@ -94168,9 +93898,6 @@
     "L4 Device Repair": {
       "Good": 5
     },
-    "ASC-M-Device Hub Limited": {
-      "Good": 1
-    },
     "ASC-M-7village": {
       "Good": 1
     },
@@ -94196,6 +93923,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
@@ -94397,7 +94127,7 @@
   "12110144": {
     "_desc": "PCBA MB GC2813 A1 8M+8M V2.0",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 2
     },
     "Carlcare-Kano": {
       "Good": 1
@@ -95372,10 +95102,10 @@
   "17401859": {
     "_desc": "Outcell 10 HD BOE NA GG BLACK",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -95977,9 +95707,6 @@
     "Carlcare-Warri": {
       "Good": 1
     },
-    "ASC-Ets Technology World": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 5
     }
@@ -96254,7 +95981,7 @@
   "10317363": {
     "_desc": "TWS Earphone oraimo OTW-323P Speed Black",
     "Nigeria-MWH": {
-      "Good": 838
+      "Good": 837
     },
     "ASC-M-Matga Service": {
       "Good": 3
@@ -96278,7 +96005,7 @@
       "Good": 67
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 17
+      "Good": 16
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 3
@@ -96317,13 +96044,13 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 1
     },
     "ASC-M-Switrat Limited": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 6
+      "Good": 5
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 18
@@ -96488,7 +96215,7 @@
   "10320046": {
     "_desc": "TWS Infinix XEO4G WHITE EG noBat",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 2
     }
   },
   "12208008": {
@@ -96989,7 +96716,7 @@
   "10322625": {
     "_desc": "Outsourcing Power Bank Infinix XP20L BLACK",
     "Nigeria-MWH": {
-      "Good": 412
+      "Good": 410
     },
     "ASC-M-Matga Service": {
       "Good": 10
@@ -96998,6 +96725,9 @@
       "Good": 1
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
+    "ASC-M-Darigo 03 Communication Ltd": {
       "Good": 1
     }
   },
@@ -97046,6 +96776,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 2
+    },
+    "Carlcare-Benin": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
@@ -97221,9 +96954,6 @@
     "_desc": "PCBA MB F3116 A2 16GB+1GB V1.0",
     "Nigeria-MWH": {
       "Good": 10
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "12700329": {
@@ -97343,7 +97073,7 @@
   "12113226": {
     "_desc": "Homemade PCBA MB EY2820 A1 4M+4M V2.0",
     "Nigeria-MWH": {
-      "Good": 5
+      "Good": 0
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 2
@@ -97437,9 +97167,6 @@
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 2
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
       "Good": 1
@@ -97581,6 +97308,9 @@
     },
     "L4 Device Repair": {
       "Good": 7
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 2
@@ -98116,6 +97846,9 @@
     "ASC-M-Device Hub Limited": {
       "Good": 3
     },
+    "ASC-M-Delink Matrix Lakowe": {
+      "Good": 2
+    },
     "ASC-M-Maxwell Telecoms Nig Ents.": {
       "Good": 1
     },
@@ -98335,6 +98068,9 @@
     "Nigeria-MWH": {
       "Good": 886
     },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 2
+    },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
@@ -98348,6 +98084,9 @@
       "Good": 7
     },
     "Carlcare-Abuja": {
+      "Good": 1
+    },
+    "ASRP-Kal care Service": {
       "Good": 1
     }
   },
@@ -98771,7 +98510,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -98859,6 +98598,9 @@
     },
     "Carlcare-Abuja": {
       "Good": 2
+    },
+    "ASRP-Kal care Service": {
+      "Good": 1
     }
   },
   "21204525": {
@@ -99070,12 +98812,6 @@
     "ASC-M-Kraaft Technology & services": {
       "Good": 2
     },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 1
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 3
-    },
     "ASC-M-Device Hub Limited": {
       "Good": 1
     },
@@ -99107,21 +98843,6 @@
       "Good": 1
     },
     "Carlcare-Warri": {
-      "Good": 1
-    }
-  },
-  "12706693": {
-    "_desc": "121BPCBA MB H895 H1 256G+8G V1.2 RP",
-    "Nigeria-MWH": {
-      "Good": 0
-    },
-    "Carlcare-Onitsha": {
-      "Good": 3
-    },
-    "Carlcare-Benin": {
-      "Good": 2
-    },
-    "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
     }
   },
@@ -99157,9 +98878,6 @@
     "Nigeria-MWH": {
       "Good": 8
     },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
     "ASC-M-Beecasual Ventures": {
       "Good": 2
     },
@@ -99167,6 +98885,9 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 1
+    },
+    "ASC-M-Adehero Service": {
       "Good": 1
     }
   },
@@ -99406,14 +99127,11 @@
     "ASC-M-Beecasual Ventures": {
       "Good": 1
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 3
     },
     "ASC-M-Zedglobal Services": {
-      "Good": 1
+      "Good": 0
     }
   },
   "37200122": {
@@ -99458,7 +99176,7 @@
   "12205722": {
     "_desc": "PF MB+Label X6531B V631B Ak1 128+4",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
@@ -99569,7 +99287,7 @@
       "Good": 6
     },
     "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 3
+      "Good": 2
     }
   },
   "23804690": {
@@ -99659,7 +99377,7 @@
   "12114777": {
     "_desc": "PCBA MB MA3001 J1 8M+8M V3.0",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Matga Service": {
       "Good": 1
@@ -99884,7 +99602,7 @@
   "10312255": {
     "_desc": "Power Bank oraimo OPB-1208N 2WBlackBysea",
     "Nigeria-MWH": {
-      "Good": 391
+      "Good": 392
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
       "Good": 1
@@ -100175,7 +99893,7 @@
       "Good": 10
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 2
@@ -100315,6 +100033,9 @@
     "Carlcare-Onitsha": {
       "Good": 3
     },
+    "ASC-M-Femtech Offa": {
+      "Good": 1
+    },
     "Carlcare-Kano": {
       "Good": 6
     },
@@ -100334,7 +100055,7 @@
       "Good": 1
     },
     "Carlcare-Abuja": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 6
@@ -100748,7 +100469,7 @@
   "37200462": {
     "_desc": "Gla Cam lens CM6 BLACK R MainCAM V0 DT N",
     "Nigeria-MWH": {
-      "Good": 5
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 2
@@ -100826,18 +100547,15 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Benin": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Kaduna": {
       "Good": 1
     }
   },
@@ -101116,9 +100834,6 @@
     "Carlcare-Onitsha": {
       "Good": 6
     },
-    "ASC-M-Midas Touch Kaduna": {
-      "Good": 1
-    },
     "ASC-M-Innive Technologies Alaba": {
       "Good": 1
     }
@@ -101210,7 +100925,7 @@
   "38501362": {
     "_desc": "Ad film KM5 All Coated Single LayerFilm",
     "Nigeria-MWH": {
-      "Good": 196
+      "Good": 195
     },
     "Carlcare-Warri": {
       "Good": 5
@@ -101321,7 +101036,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -101402,10 +101117,10 @@
   "12707020": {
     "_desc": "121BPCBA MB F069 T1 128G+4G V1.2 RP",
     "Nigeria-MWH": {
-      "Good": 3
+      "Good": 4
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 1
     },
     "Carlcare-Onitsha": {
       "Good": 7
@@ -101567,7 +101282,7 @@
   "10312645": {
     "_desc": "PowerBank itel T159 10000mAH 12WBlackAFR",
     "Nigeria-MWH": {
-      "Good": 183
+      "Good": 184
     },
     "ASC-M-Femtech Offa": {
       "Good": 2
@@ -101651,6 +101366,9 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 10
+    },
+    "Carlcare-Benin": {
       "Good": 10
     },
     "Carlcare-Ibadan": {
@@ -102364,6 +102082,9 @@
     "Carlcare-Kano": {
       "Good": 5
     },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
     "ASC-M-Reedlim Global Enterprise Gombe": {
       "Good": 4
     },
@@ -102412,6 +102133,9 @@
     "ASC-M-Zedglobal Services": {
       "Good": 1
     },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 3
+    },
     "ASC-M-Adehero Service": {
       "Good": 12
     },
@@ -102450,6 +102174,9 @@
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 4
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 3
@@ -102521,9 +102248,6 @@
       "Good": 1
     },
     "ASC-M-Midas Touch Akure": {
-      "Good": 1
-    },
-    "ASC-Ets Technology World": {
       "Good": 1
     },
     "ASC-M-Delinks Matrix Ikorodu": {
@@ -102655,9 +102379,6 @@
     "Carlcare-Warri": {
       "Good": 1
     },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
     "Carlcare-Onitsha": {
       "Good": 1
     },
@@ -102665,7 +102386,7 @@
       "Good": 7
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 9
+      "Good": 12
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
@@ -102932,16 +102653,13 @@
   "10313367": {
     "_desc": "PowerBankitelA1480 30000mAH22.5WBlackAFR",
     "Nigeria-MWH": {
-      "Good": 1125
+      "Good": 1124
     },
     "ASC-M-Matga Service": {
       "Good": 24
     },
     "Carlcare-Warri": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 5
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 6
@@ -102955,29 +102673,26 @@
     "ASC-M-Intaj Dynamic": {
       "Good": 1
     },
+    "ASC-M-Greenfield Gadgets Solution Orlu": {
+      "Good": 1
+    },
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
     },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 1
     },
-    "ASRP-Shodytech": {
-      "Good": 1
-    },
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 8
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 1
     },
     "ASRP-Ajele Communication(Yaba Tech)": {
       "Good": 2
     },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
-    },
-    "NGSI03772-Klanyjay Services Brand(Giwa)": {
-      "Good": 1
-    },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 11
+      "Good": 9
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
       "Good": 3
@@ -103017,6 +102732,9 @@
     "_desc": "SPK 1115 H2.5 1.0W AAC W03",
     "Nigeria-MWH": {
       "Good": 2
+    },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -103328,7 +103046,7 @@
   "10320315": {
     "_desc": "SMWA itel ISW-O45 MIDNIGHT BLUE ID",
     "Nigeria-MWH": {
-      "Good": 72
+      "Good": 73
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -103487,7 +103205,7 @@
       "Good": 146
     },
     "Carlcare-Abuja": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Port-harcourt": {
       "Good": 3
@@ -104084,7 +103802,7 @@
   "12206738": {
     "_desc": "PF MB+Label A673L SM382 Ac1 128+4",
     "Nigeria-MWH": {
-      "Good": 16
+      "Good": 20
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 10
@@ -104152,8 +103870,11 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 2
     },
-    "Carlcare-Ibadan": {
+    "Carlcare-Benin": {
       "Good": 2
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
     },
     "Carlcare-Abuja": {
       "Good": 2
@@ -104705,6 +104426,15 @@
       "Good": 4
     }
   },
+  "10312980": {
+    "_desc": "Hair Clipper oraimo OPC-CL30C Silver",
+    "Nigeria-MWH": {
+      "Good": 1
+    },
+    "ASC-M-Kraaft Technology & services": {
+      "Good": 1
+    }
+  },
   "12703774": {
     "_desc": "121B PCBA MB H812 F1 128GB+8GB V1.4 RP",
     "Nigeria-MWH": {
@@ -104751,9 +104481,6 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
     }
   },
   "38103210": {
@@ -104861,7 +104588,7 @@
   "12114887": {
     "_desc": "PCBA MB F151 X2 128G+3G V1.2",
     "Nigeria-MWH": {
-      "Good": 14
+      "Good": 12
     },
     "Carlcare-Warri": {
       "Good": 3
@@ -104888,7 +104615,7 @@
       "Good": 2
     },
     "Carlcare-Abuja": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 1
@@ -106010,7 +105737,7 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 2
     }
   },
   "37500098": {
@@ -106520,7 +106247,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -106601,6 +106328,21 @@
       "Good": 1
     }
   },
+  "10306675": {
+    "_desc": "Power Bank OPB-P160D 1.6WBlackBy sea P",
+    "Nigeria-MWH": {
+      "Good": 1
+    },
+    "Carlcare-Warri": {
+      "Good": 1
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 0
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
+    }
+  },
   "15600195": {
     "_desc": "IC-CPU,MT6877V/TZA",
     "Nigeria-MWH": {
@@ -106634,7 +106376,7 @@
   "17401802": {
     "_desc": "Incell 6.56 HD D TM a-Si BLACK",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 2
     },
     "ASC-M-Matga Service": {
       "Good": 2
@@ -106665,9 +106407,6 @@
     },
     "Carlcare-Benin": {
       "Good": 6
-    },
-    "ASC-M-Haslida Concept": {
-      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 1
@@ -106729,9 +106468,6 @@
     "L4 Device Repair": {
       "Good": 3
     },
-    "ASC-Ets Technology World": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 5
     },
@@ -106740,9 +106476,6 @@
     },
     "Carlcare-Abuja": {
       "Good": 3
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "12108301": {
@@ -106967,7 +106700,7 @@
       "Good": 39
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 38
+      "Good": 51
     },
     "ASC-M-Ju'Mike Global Ifo": {
       "Good": 20
@@ -107039,7 +106772,7 @@
       "Good": 1
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
-      "Good": 3
+      "Good": 7
     },
     "ASC-M-Adehero Service": {
       "Good": 11
@@ -107087,7 +106820,7 @@
       "Good": 9
     },
     "Carlcare-Port-harcourt": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 5
@@ -107141,7 +106874,7 @@
       "Good": 4
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 3
@@ -107639,7 +107372,7 @@
       "Good": 2
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 1
@@ -107651,6 +107384,9 @@
       "Good": 1
     },
     "ASC-M-Zedglobal Services": {
+      "Good": 1
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 1
     },
     "ASC-M-Adehero Service": {
@@ -107676,9 +107412,6 @@
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 2
-    },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 1
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 1
@@ -107871,9 +107604,6 @@
     },
     "Carlcare-Onitsha": {
       "Good": 5
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "21204208": {
@@ -108275,7 +108005,7 @@
   "12206190": {
     "_desc": "PF Bat cov asm CM6 EMERALD LAKE GREEN",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Kano": {
       "Good": 1
@@ -108665,7 +108395,7 @@
   "12205994": {
     "_desc": "PF 3in1 X6858 TITANIUM GREY",
     "Nigeria-MWH": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Warri": {
       "Good": 2
@@ -108749,9 +108479,6 @@
       "Good": 4
     },
     "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
       "Good": 1
     }
   },
@@ -108857,7 +108584,7 @@
   "12110949": {
     "_desc": "Homemade PCBA SUB F069 1 B1 V1.1",
     "Nigeria-MWH": {
-      "Good": 5
+      "Good": 6
     },
     "ASC-M-Matga Service": {
       "Good": 2
@@ -108885,6 +108612,9 @@
     },
     "ASC-M-Intaj Dynamic": {
       "Good": 3
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 2
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 2
@@ -109045,6 +108775,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 18
     },
+    "Carlcare-Benin": {
+      "Good": 18
+    },
     "Carlcare-Ibadan": {
       "Good": 18
     },
@@ -109094,10 +108827,10 @@
       "Good": 34
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 18
+      "Good": 5
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -109256,7 +108989,7 @@
       "Good": 1
     },
     "ASC-M-Adehero Service": {
-      "Good": 11
+      "Good": 12
     },
     "Carlcare-Abuja": {
       "Good": 4
@@ -109280,7 +109013,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 8
@@ -109298,7 +109031,7 @@
       "Good": 1
     },
     "ASC-M-Tonijam Nig.Ltd": {
-      "Good": 5
+      "Good": 4
     },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 2
@@ -109415,7 +109148,7 @@
       "Good": 3
     },
     "Carlcare-Kano": {
-      "Good": 3
+      "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 3
@@ -109535,7 +109268,7 @@
   "25001549": {
     "_desc": "Bat Infinix BL 49FX 4900mAh ATL IN",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
@@ -109583,7 +109316,7 @@
       "Good": 0
     },
     "NGSI03851- ASC-M-Topnotch Tech Hub": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-KONAMI": {
       "Good": 1
@@ -109600,9 +109333,6 @@
     "Carlcare-Kano": {
       "Good": 2
     },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 5
     },
@@ -109610,9 +109340,6 @@
       "Good": 1
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 2
-    },
-    "ASC-M-Beecasual Ventures": {
       "Good": 2
     },
     "ASC-M-Zikniks Enterprises Limited": {
@@ -109649,9 +109376,6 @@
       "Good": 2
     },
     "ASC-M-Darigo 03 Communication Ltd": {
-      "Good": 1
-    },
-    "NGSI03761-D'Care Concept Limited(Amukoko)": {
       "Good": 1
     },
     "ASC-M-Bluegate Bamboo Mushin-TypeB": {
@@ -109775,7 +109499,7 @@
       "Good": 20
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 2
+      "Good": 16
     },
     "ASC-M-Ju'Mike Global Ifo": {
       "Good": 1
@@ -111152,7 +110876,7 @@
   "12114908": {
     "_desc": "PCBA MB F151 Ar1 64G+4G V1.2",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Warri": {
       "Good": 1
@@ -111311,7 +111035,7 @@
       "Good": 10
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 6
+      "Good": 5
     },
     "L4 Device Repair": {
       "Good": 2
@@ -111323,7 +111047,7 @@
       "Good": 6
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 4
+      "Good": 2
     },
     "ASC-M-Adehero Service": {
       "Good": 5
@@ -111554,7 +111278,7 @@
       "Good": 3
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 11
+      "Good": 7
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 2
@@ -111642,12 +111366,6 @@
     },
     "ASC-Ets Technology World": {
       "Good": 1
-    }
-  },
-  "CEQ10019": {
-    "_desc": "CC mouse pad",
-    "Nigeria-MWH": {
-      "Good": 0
     }
   },
   "12705568": {
@@ -111908,7 +111626,7 @@
       "Good": 5
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 1
     },
     "Carlcare-Onitsha": {
       "Good": 11
@@ -112005,9 +111723,6 @@
     },
     "ASC-Ets Technology World": {
       "Good": 1
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
     },
     "ASC-M-7village": {
       "Good": 1
@@ -112622,7 +112337,7 @@
       "Good": 9
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 34
+      "Good": 46
     },
     "ASC-M-Ju'Mike Global Telecommunication": {
       "Good": 2
@@ -112652,7 +112367,7 @@
       "Good": 1
     },
     "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 3
@@ -112662,9 +112377,6 @@
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 2
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 1
     },
     "ASC-Ets Technology World": {
       "Good": 11
@@ -112685,7 +112397,7 @@
       "Good": 1
     },
     "ASC-M-Adehero Service": {
-      "Good": 17
+      "Good": 16
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 1
@@ -112718,7 +112430,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     },
     "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": {
       "Good": 2
@@ -112727,7 +112439,7 @@
       "Good": 3
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 9
+      "Good": 7
     },
     "ASC-M-New Moon Unique Link": {
       "Good": 3
@@ -112742,7 +112454,7 @@
   "38501323": {
     "_desc": "Ad film BG6m All Coated SSA",
     "Nigeria-MWH": {
-      "Good": 200
+      "Good": 199
     }
   },
   "17601061": {
@@ -112776,6 +112488,9 @@
     },
     "Carlcare-Kano": {
       "Good": 29
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 2
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 2
@@ -113165,7 +112880,7 @@
   "12708063": {
     "_desc": "121BPCBA MB F201 Y1 128G+3G V1.2 RP",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 3
     },
     "Carlcare-Onitsha": {
       "Good": 2
@@ -113390,7 +113105,7 @@
       "Good": 25
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -113437,6 +113152,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 18
     },
+    "Carlcare-Benin": {
+      "Good": 18
+    },
     "Carlcare-Ibadan": {
       "Good": 18
     },
@@ -113460,9 +113178,6 @@
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "Niger-MWH": {
       "Good": 0
@@ -113652,9 +113367,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 9
-    },
-    "ASC-M-Greenfield Gadgets Solution Nsukka": {
-      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 2
@@ -113924,7 +113636,7 @@
   "25002051": {
     "_desc": "PL Bat BL 49NT 4900mAh CB",
     "Nigeria-MWH": {
-      "Good": 2
+      "Good": 4
     },
     "Carlcare-Warri": {
       "Good": 5
@@ -114230,7 +113942,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 7
+      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 17
@@ -115424,7 +115136,7 @@
       "Good": 12
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
+      "Good": 0
     }
   },
   "37300994": {
@@ -115563,9 +115275,6 @@
     },
     "Carlcare-Warri": {
       "Good": 1
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 4
@@ -115746,9 +115455,6 @@
     "_desc": "PF MB+Label A676L SM387 Ai1 64+3",
     "Nigeria-MWH": {
       "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -115970,7 +115676,7 @@
   "12206382": {
     "_desc": "PF MB+Label C671L SM382 C1 128+4",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
@@ -116137,7 +115843,7 @@
     "Nigeria-MWH": {
       "Good": 1
     },
-    "Carlcare-Kano": {
+    "ASC-M-MIDAS TOUCH KANO": {
       "Good": 1
     }
   },
@@ -116341,6 +116047,9 @@
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 1
     },
+    "ASC-M-Adehero Service": {
+      "Good": 1
+    },
     "Carlcare-Abuja": {
       "Good": 3
     },
@@ -116465,6 +116174,9 @@
       "Good": 1
     },
     "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
@@ -116621,7 +116333,7 @@
   "12207203": {
     "_desc": "PF MB+Label A6611L A553 F1 64+3",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 1
@@ -116685,9 +116397,6 @@
     },
     "ASRP-T.Comm": {
       "Good": 2
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -116790,9 +116499,6 @@
     "_desc": "Lid-base box KN3 Paper SSA",
     "Nigeria-MWH": {
       "Good": 150
-    },
-    "ASC-Ets Technology World": {
-      "Good": 0
     }
   },
   "19501049": {
@@ -117128,7 +116834,7 @@
   "17601063": {
     "_desc": "CAP FP GF3956 15 LIGHT CHROME",
     "Nigeria-MWH": {
-      "Good": 1
+      "Good": 3
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -117850,9 +117556,6 @@
     "Carlcare-Onitsha": {
       "Good": 7
     },
-    "Carlcare-Kano": {
-      "Good": 2
-    },
     "Carlcare-CV(Computer Village)": {
       "Good": 4
     },
@@ -117863,7 +117566,7 @@
       "Good": 6
     },
     "L4 PCBA Repair": {
-      "Good": 94
+      "Good": 88
     },
     "Carlcare-Abuja": {
       "Good": 3
@@ -118046,13 +117749,10 @@
       "Good": 2
     },
     "Carlcare-Benin": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Haslida Concept": {
       "Good": 1
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 0
     },
     "ASC-M-Device Hub Limited": {
       "Good": 10
@@ -118225,9 +117925,6 @@
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 2
     },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
-    },
     "ASC-M-Midas Touch Lagos": {
       "Good": 6
     },
@@ -118274,63 +117971,87 @@
       "Good": 1
     }
   },
-  "10311192": {
-    "_desc": "Hair Clipper itel IHC-35 Silver AFR",
+  "12207102": {
+    "_desc": "PF 3in1 A673L BLACK YH+TXD",
     "ASC-M-Matga Service": {
-      "Good": 1
+      "Good": 3
     },
-    "ASC-M-Jenzabar Limited": {
-      "Good": 1
+    "ASC-M-Great Mind Telecom Service": {
+      "Good": 4
+    },
+    "Carlcare-Warri": {
+      "Good": 2
+    },
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 2
     },
     "Carlcare-Onitsha": {
-      "Good": 1
-    },
-    "ASC-M-Kraaft Technology & services": {
-      "Good": 1
+      "Good": 2
     },
     "Carlcare-Kano": {
-      "Good": 1
+      "Good": 6
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 5
+      "Good": 1
+    },
+    "ASC-M-Haven Buddy Integrated Concept": {
+      "Good": 2
     },
     "ASC-M-Innive Technologies Ikotun": {
-      "Good": 1
-    },
-    "ASRP-Snappy Fix": {
-      "Good": 1
-    },
-    "ASC-M-Intaj Dynamic": {
       "Good": 2
+    },
+    "L4 Device Repair": {
+      "Good": 3
     },
     "ASC-M-Midas Touch Sokoto": {
       "Good": 1
     },
-    "ASC-M-Midas Touch Lagos": {
+    "Carlcare-Benin": {
       "Good": 1
     },
-    "Carlcare-Ibadan": {
-      "Good": 3
+    "ASC-M-Delink Matrix Lakowe": {
+      "Good": 2
+    },
+    "ASC-M-Maxwell Telecoms Nig Ents.": {
+      "Good": 1
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 4
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 2
+    },
+    "ASRP-KD distribution & service": {
+      "Good": 1
+    },
+    "ASC-M-Adehero Service": {
+      "Good": 2
+    },
+    "ASC-M-Breva Enterprises Limited Ilorin": {
+      "Good": 1
     },
     "ASC-M-Midas touch Jos": {
       "Good": 1
     },
-    "ASC-M-Smartphone Global Dutse": {
+    "Carlcare-Abuja": {
+      "Good": 11
+    },
+    "ASC-M-Bluegate Bamboo Mushin-TypeB": {
       "Good": 1
     },
-    "Carlcare-Abuja": {
+    "ASC-M-MIDAS TOUCH KANO": {
       "Good": 2
     },
-    "ASC-M-Midas Touch Kaduna": {
+    "ASC-M-Ifix Repair Hub": {
       "Good": 1
     },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 1
+    "Carlcare-Lagos Victoria Island(3chub)": {
+      "Good": 2
     },
     "Carlcare-Port-harcourt": {
-      "Good": 1
+      "Good": 10
     },
-    "ASC-M-Innive Technologies (Itel Homes)": {
+    "ASC-M-Sulit Hub": {
       "Good": 1
     }
   },
@@ -118340,7 +118061,7 @@
       "Good": 1
     },
     "Carlcare-Kano": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 3
@@ -118409,6 +118130,48 @@
       "Good": 2
     }
   },
+  "12707998": {
+    "_desc": "174B FL(CTP+LCM) 6.82HD+ LG7N X6817",
+    "ASC-M-Matga Service": {
+      "Good": 8
+    },
+    "NGSI03851- ASC-M-Topnotch Tech Hub": {
+      "Good": 1
+    },
+    "Carlcare-Onitsha": {
+      "Good": 2
+    },
+    "Carlcare-Kano": {
+      "Good": 1
+    },
+    "ASC-M-Haven Buddy Integrated Concept": {
+      "Good": 2
+    },
+    "ASC-M-Greenfield Gadgets Solution Enugu": {
+      "Good": 1
+    },
+    "ASC-M-Intaj Dynamic": {
+      "Good": 2
+    },
+    "ASC-M-Midas Touch Akure": {
+      "Good": 2
+    },
+    "ASC-M-Device Hub Limited": {
+      "Good": 1
+    },
+    "L4 PCBA Repair": {
+      "Good": 4
+    },
+    "ASC-M-TELEPHONE STORE": {
+      "Good": 1
+    },
+    "ASC-M-Greenfield Gadgets Solution Uyo": {
+      "Good": 1
+    },
+    "ASC-M-Innive Technologies Alaba": {
+      "Good": 1
+    }
+  },
   "12203719": {
     "_desc": "PF 3in1 KI7 BLACK TM",
     "ASC-M-Matga Service": {
@@ -118454,9 +118217,6 @@
       "Good": 2
     },
     "Carlcare-Abuja": {
-      "Good": 1
-    },
-    "ASC-M-Femtech Information Technology Ltd": {
       "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
@@ -118508,10 +118268,10 @@
   "17401796": {
     "_desc": "Incell 6.56 HD+ BOE D a-Si BLACK",
     "ASC-M-Matga Service": {
-      "Good": 26
+      "Good": 25
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 6
+      "Good": 4
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 3
@@ -118559,7 +118319,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 22
+      "Good": 8
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 6
@@ -118581,9 +118341,6 @@
     },
     "ASC-M-MIDAS TOUCH KANO": {
       "Good": 2
-    },
-    "ASC-M-Neyo Multi Global Concept": {
-      "Good": 1
     },
     "ASRP-Kal care Service": {
       "Good": 5
@@ -118684,9 +118441,6 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 3
     },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
-    },
     "ASC-M-Ustaz Exclusive Stores": {
       "Good": 1
     },
@@ -118701,6 +118455,18 @@
     },
     "ASC-M-Johnwhite Signal Tech": {
       "Good": 4
+    }
+  },
+  "12206069": {
+    "_desc": "PF Bat cov asm X6858 MOUNTAIN SHADE",
+    "ASC-M-Matga Service": {
+      "Good": 2
+    },
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 2
+    },
+    "ASC-M-Beecasual Ventures": {
+      "Good": 1
     }
   },
   "10315952": {
@@ -118745,9 +118511,6 @@
       "Good": 1
     },
     "ASC-M-Matga Service Oye": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 1
     },
     "ASC-M-Tonijam Nig.Ltd": {
@@ -118952,7 +118715,7 @@
   "25002068": {
     "_desc": "PL Bat BL_49ST 4900mAh CB",
     "ASC-M-Matga Service": {
-      "Good": 10
+      "Good": 9
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 3
@@ -119021,7 +118784,7 @@
       "Good": 21
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 21
+      "Good": 14
     },
     "ASC-M-Innive Technologies Ikotun": {
       "Good": 3
@@ -119071,9 +118834,6 @@
     "ASC-M-Reedlim Global Enterprise Bauchi": {
       "Good": 6
     },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 2
-    },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 5
     },
@@ -119111,7 +118871,7 @@
       "Good": 1
     },
     "ASC-M-Beecasual Ventures": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 2
@@ -119120,7 +118880,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 5
+      "Good": 4
     },
     "L4 PCBA Repair": {
       "Good": 1
@@ -119183,13 +118943,13 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
-      "Good": 2
+      "Good": 3
     },
     "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Midas touch Jos": {
       "Good": 2
@@ -119238,9 +118998,6 @@
     },
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 0
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 1
@@ -119377,9 +119134,6 @@
     "ASC-M-Zikniks Enterprises Maiduguri": {
       "Good": 1
     },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
-    },
     "ASC-M-Zikniks Enterprises Limited": {
       "Good": 1
     },
@@ -119446,9 +119200,6 @@
     "ASC-M-Device Hub Limited": {
       "Good": 1
     },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
-    },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 2
     },
@@ -119493,6 +119244,9 @@
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 3
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
     },
     "ASRP-T.Comm": {
       "Good": 1
@@ -119569,6 +119323,9 @@
     "Carlcare-Benin": {
       "Good": 1
     },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
     "Carlcare-Abuja": {
       "Good": 1
     },
@@ -119597,7 +119354,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 1
@@ -119672,7 +119429,7 @@
       "Good": 1
     },
     "ASC-M-Delink Matrix Lakowe": {
-      "Good": 8
+      "Good": 7
     },
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 5
@@ -119691,9 +119448,6 @@
     },
     "Carlcare-Ibadan": {
       "Good": 2
-    },
-    "ASC-M-Midas touch Jos": {
-      "Good": 0
     },
     "ASC-M-Johnwhite Signal Tech": {
       "Good": 1
@@ -119789,6 +119543,9 @@
       "Good": 4
     },
     "ASC-M-Femtech Offa": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
     "ASC-M-Haven Buddy Integrated Concept": {
@@ -119888,7 +119645,7 @@
       "Good": 4
     },
     "L4 Device Repair": {
-      "Good": 0
+      "Good": 6
     },
     "ASC-M-Next Care Sabo": {
       "Good": 1
@@ -119927,13 +119684,13 @@
       "Good": 3
     },
     "ASC-M-Intaj Dynamic": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Carosammy Concept Ltd": {
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 3
+      "Good": 0
     },
     "ASC-M-7village": {
       "Good": 1
@@ -120010,9 +119767,6 @@
     "L4 PCBA Repair": {
       "Good": 1
     },
-    "Carlcare-Abuja": {
-      "Good": 1
-    },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 1
     },
@@ -120050,7 +119804,7 @@
       "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 15
+      "Good": 14
     },
     "Carlcare-Benin": {
       "Good": 2
@@ -120093,6 +119847,9 @@
     },
     "Carlcare-Kano": {
       "Good": 9
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 2
@@ -120261,6 +120018,18 @@
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 2
+    }
+  },
+  "10069753": {
+    "_desc": "TECNO T455 A1 PEARL BLACK AFR 8+8 EU",
+    "Virtual Carlcare-Cotonou": {
+      "Good": 2
+    },
+    "Carlcare-Kano": {
+      "Good": 2
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
     }
   },
   "10079769": {
@@ -120518,7 +120287,7 @@
       "Good": 1
     },
     "L4 PCBA Repair": {
-      "Good": 5
+      "Good": 10
     },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 2
@@ -120683,6 +120452,24 @@
       "Good": 1
     }
   },
+  "17402007": {
+    "_desc": "Incell 8.68 HD H HKC a-Si 2D",
+    "ASC-M-Great Mind Telecom Service": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 3
+    },
+    "L4 Device Repair": {
+      "Good": 1
+    },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 3
+    },
+    "Carlcare-Ibadan": {
+      "Good": 2
+    }
+  },
   "12709979": {
     "_desc": "121B PCBA MB EY2820 B1 4M+4M V2.0",
     "ASC-M-Great Mind Telecom Service": {
@@ -120695,7 +120482,7 @@
       "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -120863,6 +120650,21 @@
       "Good": 12
     }
   },
+  "87110000008": {
+    "_desc": "PCBA IPL-51628H",
+    "ESS-OSC-Lagos Ikeja Office": {
+      "Good": 3
+    },
+    "ESS-MWH": {
+      "Good": 6
+    },
+    "Carlcare-Abuja": {
+      "Good": 1
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 2
+    }
+  },
   "87110000021": {
     "_desc": "PCBA IPX-51314SPT",
     "ESS-OSC-Lagos Ikeja Office": {
@@ -120908,7 +120710,7 @@
   "75236470044": {
     "_desc": "Main board IESS-05K10N 580HV01 ESE",
     "ESS-OSC-Lagos Ikeja Office": {
-      "Good": 4
+      "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 23
@@ -120927,6 +120729,30 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 21
+    }
+  },
+  "71006470094": {
+    "_desc": "ESE Hybrid Inverter IPV-3K24UPRO",
+    "ESS-OSC-Lagos Ikeja Office": {
+      "Good": 1
+    },
+    "ESS-MWH": {
+      "Good": 37
+    },
+    "Carlcare-Kano": {
+      "Good": 7
+    },
+    "ESS-ASC-Innive Technologies-Alaba-Itel Home": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 7
+    },
+    "Carlcare-Abuja": {
+      "Good": 3
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 4
     }
   },
   "71006470071": {
@@ -120948,6 +120774,18 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
+    }
+  },
+  "87000000048": {
+    "_desc": "AIE IESS-320ACT UK",
+    "ESS-OSC-Lagos Ikeja Office": {
+      "Good": 1
+    },
+    "ESS-MWH": {
+      "Good": 14
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 4
     }
   },
   "12204386": {
@@ -121183,6 +121021,9 @@
     "ASC-M-Kraaft Technology & services": {
       "Good": 2
     },
+    "ASC-M-Don-Yellow Tech": {
+      "Good": 1
+    },
     "Carlcare-Kano": {
       "Good": 1
     },
@@ -121319,6 +121160,57 @@
       "Good": 1
     }
   },
+  "12115602": {
+    "_desc": "PCBA MB MM3155 B1 16G+2G V1.0 AFR",
+    "ASC-M-KONAMI": {
+      "Good": 1
+    },
+    "Carlcare-Onitsha": {
+      "Good": 1
+    },
+    "ASC-M-Kraaft Technology & services": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Sokoto": {
+      "Good": 1
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 2
+    },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 1
+    },
+    "ASC-M-Switrat Limited": {
+      "Good": 1
+    },
+    "ASC-M-Ustaz Exclusive Stores": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
+    },
+    "Carlcare-Abuja": {
+      "Good": 2
+    },
+    "ASC-M-Midas Touch Kaduna": {
+      "Good": 2
+    },
+    "ASC-M-Visco communication ltd": {
+      "Good": 2
+    },
+    "ASC-M-TELEPHONE STORE": {
+      "Good": 1
+    },
+    "ASC-M-Sulit Hub": {
+      "Good": 1
+    },
+    "ASC-M-Innive Technologies (Itel Homes)": {
+      "Good": 1
+    }
+  },
   "12706758": {
     "_desc": "121BPCBA MB H6929 A2 256G+8G V1.1 RP",
     "Carlcare-Warri": {
@@ -121419,9 +121311,6 @@
     "_desc": "FPCA Main 2L CM5",
     "Carlcare-Warri": {
       "Good": 2
-    },
-    "ASC-M-Maxwell Telecoms Nig Ents.": {
-      "Good": 0
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -121544,7 +121433,7 @@
       "Good": 2
     },
     "ASC-M-Femtech Information Technology Ltd": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Port-harcourt": {
       "Good": 3
@@ -121611,9 +121500,6 @@
     },
     "ASC-M-Maxwell Telecoms Nig Ents.": {
       "Good": 1
-    },
-    "ASC-M-Johnwhite Signal Tech": {
-      "Good": 0
     },
     "Carlcare-Abuja": {
       "Good": 1
@@ -121731,9 +121617,6 @@
     },
     "ASC-M-TELEPHONE STORE": {
       "Good": 1
-    },
-    "ASC-M-Sulit Hub": {
-      "Good": 1
     }
   },
   "10318911": {
@@ -121748,13 +121631,13 @@
       "Good": 1
     },
     "ASC-M-Intaj Dynamic": {
-      "Good": 1
+      "Good": 0
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 3
     },
     "Carlcare-Benin": {
-      "Good": 10
+      "Good": 9
     },
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 1
@@ -121808,7 +121691,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
@@ -121820,7 +121703,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
@@ -121849,6 +121732,9 @@
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 5
     },
+    "ASC-M-MMS Dot Global Ventures Limited": {
+      "Good": 1
+    },
     "ASC-M-Sgv Ict Ltd": {
       "Good": 1
     },
@@ -121875,6 +121761,9 @@
     "_desc": "PF 3in1 X6878 MIST TITANIUM",
     "Carlcare-Warri": {
       "Good": 2
+    },
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 1
     },
     "ASC-M-Kraaft Technology & services": {
       "Good": 1
@@ -122149,9 +122038,6 @@
     "ASC-M-Innive Technologies Alaba": {
       "Good": 1
     },
-    "ASC-M-Monday Mega Enterprise": {
-      "Good": 1
-    },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 4
     }
@@ -122262,9 +122148,6 @@
     },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 9
-    },
-    "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 1
     }
   },
   "10312394": {
@@ -122291,7 +122174,7 @@
       "Good": 3
     },
     "Carlcare-Abuja": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Port-harcourt": {
       "Good": 1
@@ -122304,9 +122187,6 @@
     },
     "Benin-MWH": {
       "Good": 2
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "12703725": {
@@ -122411,7 +122291,7 @@
       "Good": 2
     },
     "L4 PCBA Repair": {
-      "Good": 321
+      "Good": 318
     },
     "Carlcare-Abuja": {
       "Good": 7
@@ -122492,7 +122372,7 @@
       "Good": 2
     },
     "Carlcare-Port-harcourt": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 2
@@ -122561,7 +122441,7 @@
   "12204714": {
     "_desc": "PF 3in1 X6528 BLACK EG HK",
     "Carlcare-Warri": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 10
@@ -122582,7 +122462,7 @@
       "Good": 8
     },
     "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 3
+      "Good": 2
     },
     "ASRP-T.Comm": {
       "Good": 1
@@ -122687,12 +122567,6 @@
       "Good": 3
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    }
-  },
-  "12041531": {
-    "_desc": "Infinix X6840 F1 SHADOW BLACK AFR 128+4",
-    "Carlcare-Warri": {
       "Good": 1
     }
   },
@@ -122801,9 +122675,6 @@
       "Good": 1
     },
     "ASRP-Blast Care Oyewole": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 1
     }
   },
@@ -122953,6 +122824,9 @@
     "Carlcare-Ibadan": {
       "Good": 4
     },
+    "L4 PCBA Repair": {
+      "Good": 2
+    },
     "ASC-M-Midas Touch Kaduna": {
       "Good": 1
     },
@@ -123041,7 +122915,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Bluegate Bamboo Mushin-TypeB": {
       "Good": 1
@@ -123226,9 +123100,6 @@
     "ASC-M-Bluegate Bamboo Ajah-TypeB": {
       "Good": 1
     },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 1
-    },
     "Carlcare-Benin": {
       "Good": 1
     },
@@ -123278,7 +123149,7 @@
       "Good": 3
     },
     "Carlcare-Port-harcourt": {
-      "Good": 7
+      "Good": 6
     },
     "ASC-M-Monday Mega Enterprise": {
       "Good": 1
@@ -123605,7 +123476,7 @@
       "Good": 4
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 2
+      "Good": 1
     },
     "ASRP-KD distribution & service": {
       "Good": 2
@@ -123638,18 +123509,6 @@
       "Good": 1
     }
   },
-  "10306675": {
-    "_desc": "Power Bank OPB-P160D 1.6WBlackBy sea P",
-    "Carlcare-Warri": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
-    }
-  },
   "17601342": {
     "_desc": "CAP FP FPC1561 18 TITANIUM BLACK",
     "Carlcare-Warri": {
@@ -123676,9 +123535,6 @@
     "Carlcare-Warri": {
       "Good": 1
     },
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
     "ASC-M-Femtech Offa": {
       "Good": 5
     },
@@ -123690,9 +123546,6 @@
     },
     "ASC-M-Greenfield Gadgets Solution Nsukka": {
       "Good": 1
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 8
     },
     "ASC-M-Midas Touch Lagos": {
       "Good": 2
@@ -123746,7 +123599,7 @@
       "Good": 5
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 3
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
@@ -124040,6 +123893,15 @@
       "Good": 1
     }
   },
+  "17401964": {
+    "_desc": "Incell 6.745 HD+ D CSOT a-Si BLACK",
+    "ASC-M-Greenfield Gadgets Solution Aba": {
+      "Good": 3
+    },
+    "ASC-M-Neyo Multi Global Concept": {
+      "Good": 1
+    }
+  },
   "12205415": {
     "_desc": "Homemade PF 3in1 BG6 BLACK BO ZY",
     "ASC-M-Greenfield Gadgets Solution Aba": {
@@ -124109,7 +123971,7 @@
       "Good": 1
     },
     "L4 PCBA Repair": {
-      "Good": 5
+      "Good": 9
     },
     "ASC-M-Triple Sea Integrated Services Ltd": {
       "Good": 1
@@ -124154,7 +124016,7 @@
   "12101930": {
     "_desc": "PCBA MB UL251 8MB+8MB V1.0 MTK",
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 3
+      "Good": 1
     }
   },
   "12114119": {
@@ -124321,6 +124183,9 @@
     "ASC-M-Greenfield Gadgets Solution Aba": {
       "Good": 2
     },
+    "ASC-M-Femtech Offa": {
+      "Good": 1
+    },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 1
     },
@@ -124335,6 +124200,9 @@
     },
     "ASC-Ets Technology World": {
       "Good": 5
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 1
     },
     "L4 PCBA Repair": {
       "Good": 1
@@ -124376,7 +124244,7 @@
   "12116233": {
     "_desc": "Homemade PCBA MB it5363 ET3004 A1 4M+4M V2.0",
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 11
+      "Good": 8
     },
     "ASC-M-Jenzabar Limited": {
       "Good": 1
@@ -124399,14 +124267,14 @@
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 6
     },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
+    "ASC-M-MMS Dot Global Ventures Limited": {
       "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Ilorin": {
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Abuja": {
       "Good": 2
@@ -124460,7 +124328,7 @@
       "Good": 1
     },
     "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
+      "Good": 0
     },
     "Carlcare-Ibadan": {
       "Good": 2
@@ -124616,64 +124484,16 @@
       "Good": 1
     }
   },
-  "10314052": {
-    "_desc": "Smart watch itel ISW-O43 Tranquil Blue",
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
-    "Carlcare-Onitsha": {
-      "Good": 4
-    },
-    "Carlcare-Kano": {
-      "Good": 7
-    },
-    "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 2
-    },
-    "ASC-M-Beecasual Ventures": {
-      "Good": 5
-    },
-    "ASC-M-Midas Touch Lagos": {
-      "Good": 3
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 16
-    },
-    "ASC-M-Ustaz Exclusive Stores": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
-      "Good": 2
-    },
-    "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 4
-    },
-    "ASC-M-Greenfield Gadgets Solution Uyo": {
-      "Good": 1
-    },
-    "ASC-M-Innive Technologies (Itel Homes)": {
-      "Good": 1
-    },
-    "ASRP-SmartPhone Global": {
-      "Good": 1
-    }
-  },
   "12207872": {
     "_desc": "Homemade PF 3in1 P685L TITANIUM BLACK TXD",
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 8
+      "Good": 5
     },
     "Carlcare-Kano": {
       "Good": 3
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 1
+      "Good": 3
     },
     "ASC-M-Haven Buddy Integrated Concept": {
       "Good": 6
@@ -124753,9 +124573,6 @@
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 2
     },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 0
-    },
     "ASC-M-Adehero Service": {
       "Good": 1
     },
@@ -124775,7 +124592,7 @@
   "12707645": {
     "_desc": "121BPCBA MB T475 MA2810 B2 8M+8M V01 RP",
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     }
   },
   "12203746": {
@@ -124788,24 +124605,6 @@
     },
     "ASC-M-Beecasual Ventures": {
       "Good": 1
-    }
-  },
-  "12708657": {
-    "_desc": "121B PCBA MB H8917 P1 256G+8G V1.2 RP",
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 0
-    },
-    "ASC-M-Kraaft Technology & services": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "L4 PCBA Repair": {
-      "Good": 3
     }
   },
   "12109597": {
@@ -124916,19 +124715,10 @@
       "Good": 1
     }
   },
-  "12203738": {
-    "_desc": "PF PCBA SUB+Label P10001L U6330 1 A1",
-    "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
-    },
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    }
-  },
   "17401864": {
     "_desc": "Incell 6.56 HD+ H CSOT a-Si BLACK",
     "ASC-M-Greenfield Gadgets Solution Aba": {
-      "Good": 1
+      "Good": 0
     }
   },
   "12706714": {
@@ -126080,6 +125870,12 @@
       "Good": 1
     }
   },
+  "87000000005": {
+    "_desc": "Outsourcing Inverter IHY-50KH3S Inverter",
+    "ESS-MWH": {
+      "Good": 1
+    }
+  },
   "75236470016": {
     "_desc": "main board IPV-6K48U G1645PCB1 V1 ESE",
     "ESS-MWH": {
@@ -126090,18 +125886,6 @@
     "_desc": "Outsourcing PCBA BMS-P16S100A G1",
     "ESS-MWH": {
       "Good": 20
-    }
-  },
-  "87110000008": {
-    "_desc": "PCBA IPL-51628H",
-    "ESS-MWH": {
-      "Good": 6
-    },
-    "Carlcare-Abuja": {
-      "Good": 1
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 2
     }
   },
   "87110000042": {
@@ -126122,7 +125906,7 @@
       "Good": 3
     },
     "Carlcare-Ibadan": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Abuja": {
       "Good": 3
@@ -126236,7 +126020,7 @@
   "87000000008": {
     "_desc": "AIE IESS-320T UK",
     "ESS-MWH": {
-      "Good": 367
+      "Good": 365
     },
     "Carlcare-Kano": {
       "Good": 25
@@ -126245,7 +126029,7 @@
       "Good": 20
     },
     "Carlcare-Ibadan": {
-      "Good": 28
+      "Good": 26
     },
     "Carlcare-Abuja": {
       "Good": 11
@@ -126329,7 +126113,7 @@
   "75236470042": {
     "_desc": "Main board IPL-25200X 2P8S ESE",
     "ESS-MWH": {
-      "Good": 26
+      "Good": 25
     },
     "Carlcare-CV(Computer Village)": {
       "Good": 1
@@ -126416,6 +126200,12 @@
       "Good": 2
     }
   },
+  "87000000068": {
+    "_desc": "BPK IPX-51314SPT G2 M2",
+    "ESS-MWH": {
+      "Good": 6
+    }
+  },
   "71007470007": {
     "_desc": "ESE Battery Pack DB-L08-S-G1",
     "ESS-MWH": {
@@ -126431,46 +126221,25 @@
       "Good": 1
     }
   },
-  "71006470094": {
-    "_desc": "ESE Hybrid Inverter IPV-3K24UPRO",
-    "ESS-MWH": {
-      "Good": 37
-    },
-    "Carlcare-Kano": {
-      "Good": 7
-    },
-    "ESS-ASC-Innive Technologies-Alaba-Itel Home": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 7
-    },
-    "Carlcare-Abuja": {
-      "Good": 3
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 4
-    }
-  },
   "71006470147": {
     "_desc": "ESE All-in-one IESS-05K10N UK",
     "ESS-MWH": {
-      "Good": 413
+      "Good": 409
     },
     "Carlcare-Kano": {
       "Good": 11
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 40
+      "Good": 39
     },
     "ESS-ASC-Innive Technologies-Alaba-Itel Home": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
-      "Good": 76
+      "Good": 73
     },
     "Carlcare-Abuja": {
-      "Good": 13
+      "Good": 11
     },
     "Carlcare-Port-harcourt": {
       "Good": 63
@@ -126494,15 +126263,6 @@
       "Good": 4
     },
     "Carlcare-Port-harcourt": {
-      "Good": 5
-    }
-  },
-  "87000000048": {
-    "_desc": "AIE IESS-320ACT UK",
-    "ESS-MWH": {
-      "Good": 16
-    },
-    "Carlcare-CV(Computer Village)": {
       "Good": 5
     }
   },
@@ -126558,9 +126318,6 @@
     },
     "ASC-M-Next Care Limited": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASRP-NEXT CARE LIMITED": {
       "Good": 3
@@ -126766,9 +126523,6 @@
     "ASC-M-Greenfield Gadgets Solution Orlu": {
       "Good": 1
     },
-    "ASC-M-Triple Sea Integrated Services Ltd": {
-      "Good": 1
-    },
     "Carlcare-Port-harcourt": {
       "Good": 11
     },
@@ -126864,12 +126618,6 @@
     },
     "ASC-M-Tonijam Nig.Ltd": {
       "Good": 5
-    }
-  },
-  "10315835": {
-    "_desc": "TWS Earphone TECNO BD04 Black",
-    "Carlcare-Onitsha": {
-      "Good": 1
     }
   },
   "12708125": {
@@ -127247,7 +126995,7 @@
       "Good": 2
     },
     "ASC-M-Midas Touch Kaduna": {
-      "Good": 2
+      "Good": 1
     },
     "ASC-M-Femtech Information Technology Ltd": {
       "Good": 1
@@ -127259,6 +127007,21 @@
       "Good": 1
     },
     "ASC-M-Innive Technologies Alaba": {
+      "Good": 1
+    }
+  },
+  "17401812": {
+    "_desc": "Incell 6.56 HD D BOE a-Si BLACK",
+    "Carlcare-Onitsha": {
+      "Good": 1
+    },
+    "ASC-M-Intaj Dynamic": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
+    "ASC-Ets Technology World": {
       "Good": 1
     }
   },
@@ -127307,7 +127070,7 @@
       "Good": 2
     },
     "Carlcare-CV(Computer Village)": {
-      "Good": 4
+      "Good": 3
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 2
@@ -127422,6 +127185,51 @@
     },
     "Carlcare-Abuja": {
       "Good": 2
+    }
+  },
+  "10314052": {
+    "_desc": "Smart watch itel ISW-O43 Tranquil Blue",
+    "Carlcare-Onitsha": {
+      "Good": 4
+    },
+    "Carlcare-Kano": {
+      "Good": 7
+    },
+    "ASC-M-Greenfield Gadgets Solution Enugu": {
+      "Good": 2
+    },
+    "ASC-M-Beecasual Ventures": {
+      "Good": 0
+    },
+    "ASC-M-Midas Touch Lagos": {
+      "Good": 3
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 0
+    },
+    "ASC-M-Ustaz Exclusive Stores": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
+    },
+    "Carlcare-Abuja": {
+      "Good": 2
+    },
+    "Carlcare-Lagos Victoria Island(3chub)": {
+      "Good": 1
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 4
+    },
+    "ASC-M-Greenfield Gadgets Solution Uyo": {
+      "Good": 1
+    },
+    "ASC-M-Innive Technologies (Itel Homes)": {
+      "Good": 1
+    },
+    "ASRP-SmartPhone Global": {
+      "Good": 1
     }
   },
   "12707901": {
@@ -127643,6 +127451,18 @@
       "Good": 2
     }
   },
+  "12706693": {
+    "_desc": "121BPCBA MB H895 H1 256G+8G V1.2 RP",
+    "Carlcare-Onitsha": {
+      "Good": 3
+    },
+    "Carlcare-Benin": {
+      "Good": 2
+    },
+    "ASC-M-Delink Matrix Lakowe": {
+      "Good": 1
+    }
+  },
   "12205085": {
     "_desc": "Homemade PF 3in1 X6851 OBSIDIAN BLACK",
     "Carlcare-Onitsha": {
@@ -127670,60 +127490,6 @@
   "12706978": {
     "_desc": "121BPCBA MB F065 R2 128G+4G V1.2 RP",
     "Carlcare-Onitsha": {
-      "Good": 1
-    }
-  },
-  "12115602": {
-    "_desc": "PCBA MB MM3155 B1 16G+2G V1.0 AFR",
-    "Carlcare-Onitsha": {
-      "Good": 1
-    },
-    "ASC-M-Kraaft Technology & services": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Sokoto": {
-      "Good": 1
-    },
-    "ASC-M-Zikniks Enterprises Maiduguri": {
-      "Good": 2
-    },
-    "Carlcare-Benin": {
-      "Good": 1
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
-      "Good": 1
-    },
-    "ASC-M-Switrat Limited": {
-      "Good": 1
-    },
-    "ASC-M-Ustaz Exclusive Stores": {
-      "Good": 1
-    },
-    "Carlcare-Ibadan": {
-      "Good": 1
-    },
-    "ASC-M-Grand Venadum Resource Limited": {
-      "Good": 1
-    },
-    "Carlcare-Abuja": {
-      "Good": 2
-    },
-    "ASC-M-Midas Touch Kaduna": {
-      "Good": 2
-    },
-    "ASC-M-Visco communication ltd": {
-      "Good": 2
-    },
-    "ASC-M-TELEPHONE STORE": {
-      "Good": 1
-    },
-    "ASC-M-Sulit Hub": {
-      "Good": 1
-    },
-    "ASC-M-Innive Technologies (Itel Homes)": {
-      "Good": 1
-    },
-    "ASC-M-Crescita Global Resources Ltd": {
       "Good": 1
     }
   },
@@ -128099,6 +127865,21 @@
       "Good": 1
     }
   },
+  "12708657": {
+    "_desc": "121B PCBA MB H8917 P1 256G+8G V1.2 RP",
+    "ASC-M-Kraaft Technology & services": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Akure": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
+    },
+    "L4 PCBA Repair": {
+      "Good": 3
+    }
+  },
   "12708353": {
     "_desc": "121B PCBA MB H8916 K1 128G+8G V1.1 RP",
     "ASC-M-Kraaft Technology & services": {
@@ -128111,6 +127892,9 @@
   "10088556": {
     "_desc": "Outsourcing ph itel A6611L A553 E1 CLOUD WHITE AFR 64+2 EU P10",
     "ASC-M-Kraaft Technology & services": {
+      "Good": 1
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 1
     }
   },
@@ -128145,12 +127929,6 @@
     },
     "ASC-M-Innive Technologies (Itel Homes)": {
       "Good": 2
-    }
-  },
-  "10312980": {
-    "_desc": "Hair Clipper oraimo OPC-CL30C Silver",
-    "ASC-M-Kraaft Technology & services": {
-      "Good": 1
     }
   },
   "12115142": {
@@ -128533,13 +128311,13 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
-    "ASC-M-Greenfield Gadgets Solution Enugu": {
-      "Good": 0
-    },
     "L4 Device Repair": {
       "Good": 1
     },
     "ASC-M-Next Care Sabo": {
+      "Good": 1
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
       "Good": 1
     },
     "Carlcare-Benin": {
@@ -128571,6 +128349,15 @@
     },
     "ASC-M-Crescita Global Resources Ltd": {
       "Good": 4
+    }
+  },
+  "10054218": {
+    "_desc": "TECNO T315 A1 BLACK AFR 4+4",
+    "Carlcare-Kano": {
+      "Good": 1
+    },
+    "ASC-M-Delink Matrix Lakowe": {
+      "Good": 1
     }
   },
   "10316322": {
@@ -128613,6 +128400,18 @@
     },
     "ASC-M-Tonijam Nig.Ltd": {
       "Good": 2
+    }
+  },
+  "10083253": {
+    "_desc": "TECNO KN3 G1 INK BLACK NG 128+4 UK",
+    "Carlcare-Kano": {
+      "Good": 2
+    },
+    "ASC-M-Haven Buddy Integrated Concept": {
+      "Good": 1
+    },
+    "ASC-M-Midas Touch Akure": {
+      "Good": 1
     }
   },
   "12103836": {
@@ -128822,7 +128621,7 @@
   "10087317": {
     "_desc": "TECNO KN4 V1 INK BLACK NG 128+4 UK",
     "Carlcare-Kano": {
-      "Good": 1
+      "Good": 2
     },
     "ASC-M-Greenfield Gadgets Solution Enugu": {
       "Good": 1
@@ -128873,6 +128672,30 @@
       "Good": 1
     }
   },
+  "12206750": {
+    "_desc": "PF MB+Label A669W SA375 B1 64+2",
+    "Carlcare-Kano": {
+      "Good": 1
+    },
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "ASC-Ets Technology World": {
+      "Good": 2
+    },
+    "ASC-M-Ustaz Exclusive Stores": {
+      "Good": 1
+    },
+    "Carlcare-Ibadan": {
+      "Good": 4
+    },
+    "Carlcare-Abuja": {
+      "Good": 1
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
+    }
+  },
   "38100480": {
     "_desc": "b-cov asm KI5k META BLACK V0 ZY GK",
     "Carlcare-Kano": {
@@ -128892,6 +128715,12 @@
     },
     "Carlcare-Port-harcourt": {
       "Good": 1
+    }
+  },
+  "10081505": {
+    "_desc": "Outsourcing ph itel A6611L A553 F1 PURE BLACK AFR 64+3 EU P",
+    "Carlcare-Kano": {
+      "Good": 2
     }
   },
   "12400128": {
@@ -128996,7 +128825,7 @@
   "10088754": {
     "_desc": "Homemade ph Infinix X6895-V H8925 W1 THERMO ORANGE NG 128+4 UK P07",
     "Carlcare-Kano": {
-      "Good": 1
+      "Good": 2
     }
   },
   "CEQ10016": {
@@ -129059,7 +128888,7 @@
       "Good": 1
     },
     "ASC-M-Delinks Matrix Ikorodu": {
-      "Good": 10
+      "Good": 20
     },
     "Carlcare-Ibadan": {
       "Good": 1
@@ -129710,12 +129539,6 @@
       "Good": 4
     }
   },
-  "10086735": {
-    "_desc": "TECNO CN7c J1 NEBULATITANIUM NG 512+8 UK",
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    }
-  },
   "CEQ10200": {
     "_desc": "CC computer host Dell I5 GN",
     "Carlcare-CV(Computer Village)": {
@@ -129926,6 +129749,9 @@
   "30104937": {
     "_desc": "EARP OPN-373 LIGHT GOLD L",
     "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
@@ -131035,6 +130861,9 @@
     "Carlcare-CV(Computer Village)": {
       "Good": 1
     },
+    "Carlcare-Benin": {
+      "Good": 1
+    },
     "Carlcare-Ibadan": {
       "Good": 1
     },
@@ -131295,6 +131124,15 @@
     "_desc": "stand 43S65H BLK QY PC ABS",
     "Carlcare-CV(Computer Village)": {
       "Good": 2
+    }
+  },
+  "17402008": {
+    "_desc": "Incell 8.68 HD+ D DZX a-Si 2D",
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "ASC-M-Breva Enterprises Limited Lagos": {
+      "Good": 1
     }
   },
   "73531030180": {
@@ -131606,7 +131444,7 @@
       "Good": 1
     },
     "ASC-M-Breva Enterprises Limited Lagos": {
-      "Good": 5
+      "Good": 4
     }
   },
   "10079707": {
@@ -131655,6 +131493,15 @@
     "_desc": "speaker A3250 single 98mm 6Ω 10W TV",
     "Carlcare-CV(Computer Village)": {
       "Good": 10
+    }
+  },
+  "17401958": {
+    "_desc": "Incell 10.95 FHD H VSN LTPS BLACK",
+    "Carlcare-CV(Computer Village)": {
+      "Good": 5
+    },
+    "Carlcare-Abuja": {
+      "Good": 1
     }
   },
   "17001433": {
@@ -131789,6 +131636,9 @@
   "30104939": {
     "_desc": "TWSB OPN-373 LIGHT GOLD",
     "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    },
+    "Carlcare-Benin": {
       "Good": 1
     },
     "Carlcare-Ibadan": {
@@ -131934,9 +131784,6 @@
     },
     "ASC-M-Midas Touch Akure": {
       "Good": 1
-    },
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 1
@@ -132461,18 +132308,6 @@
       "Good": 15
     }
   },
-  "12207792": {
-    "_desc": "PF 3in1 A675L BLACK DJ",
-    "Carlcare-CV(Computer Village)": {
-      "Good": 1
-    },
-    "ASC-M-Sixth Sixth Technologies": {
-      "Good": 1
-    },
-    "ASC-M-Innive Technologies (Itel Homes)": {
-      "Good": 1
-    }
-  },
   "74521460001": {
     "_desc": "wash timer 0.8mm FAC",
     "Carlcare-CV(Computer Village)": {
@@ -132920,6 +132755,12 @@
       "Good": 2
     }
   },
+  "12203738": {
+    "_desc": "PF PCBA SUB+Label P10001L U6330 1 A1",
+    "Carlcare-CV(Computer Village)": {
+      "Good": 1
+    }
+  },
   "74511010004": {
     "_desc": "thermostat FD120AF02K FD",
     "Carlcare-CV(Computer Village)": {
@@ -133346,12 +133187,6 @@
       "Good": 21
     }
   },
-  "75236030350": {
-    "_desc": "MB L3260N CV352-Z42 TV",
-    "Carlcare-CV(Computer Village)": {
-      "Good": 3
-    }
-  },
   "10088801": {
     "_desc": "Homemade ph CKD Infinix X6895 H8925 Y1 THERMO ORANGE BD 128+4 IN P14",
     "ASC-M-Haven Buddy Integrated Concept": {
@@ -133400,15 +133235,6 @@
       "Good": 1
     }
   },
-  "10083253": {
-    "_desc": "TECNO KN3 G1 INK BLACK NG 128+4 UK",
-    "ASC-M-Haven Buddy Integrated Concept": {
-      "Good": 1
-    },
-    "ASC-M-Midas Touch Akure": {
-      "Good": 1
-    }
-  },
   "12708244": {
     "_desc": "250B Bat TECNO BL 58BT 5850mAh",
     "ASC-M-Haven Buddy Integrated Concept": {
@@ -133427,7 +133253,7 @@
       "Good": 1
     },
     "ASRP-Ajele Communication(Yaba Tech)": {
-      "Good": 2
+      "Good": 1
     },
     "Carlcare-Port-harcourt": {
       "Good": 2
@@ -133468,9 +133294,6 @@
     "ASC-M-7village": {
       "Good": 1
     },
-    "ASC-M-Midas Touch Kaduna": {
-      "Good": 0
-    },
     "ASC-M-Greenfield Gadgets Solution Uyo": {
       "Good": 1
     }
@@ -133494,6 +133317,9 @@
     },
     "L4 Device Repair": {
       "Good": 4
+    },
+    "ASC-M-Zikniks Enterprises Maiduguri": {
+      "Good": 2
     },
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 2
@@ -133694,7 +133520,7 @@
       "Good": 1
     },
     "L4 PCBA Repair": {
-      "Good": 9
+      "Good": 10
     },
     "ASC-M-Triple Sea Integrated Services Ltd": {
       "Good": 1
@@ -134210,7 +134036,7 @@
   "12708639": {
     "_desc": "121B PCBA MB H8918 F1 128G+8G V1.1 RP",
     "L4 Device Repair": {
-      "Good": 0
+      "Good": 1
     },
     "Carlcare-Benin": {
       "Good": 1
@@ -134270,9 +134096,6 @@
       "Good": 2
     },
     "Carlcare-Ibadan": {
-      "Good": 2
-    },
-    "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 2
     }
   },
@@ -134498,6 +134321,12 @@
       "Good": 1
     }
   },
+  "21205590": {
+    "_desc": "Bat cover asm X670 SapphireBlue COMboard",
+    "ASC-M-Intaj Dynamic": {
+      "Good": 1
+    }
+  },
   "12113192": {
     "_desc": "PCBA MB H8912 F1 256G+8G V1.2",
     "ASC-M-Intaj Dynamic": {
@@ -134594,9 +134423,6 @@
       "Good": 0
     },
     "ASC-M-Device Hub Limited": {
-      "Good": 2
-    },
-    "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 1
     },
     "L4 PCBA Repair": {
@@ -134639,9 +134465,45 @@
       "Good": 1
     }
   },
+  "12206052": {
+    "_desc": "Homemade PF 3in1 X6855 TWILIGHT PURPLE",
+    "ASC-M-Midas Touch Sokoto": {
+      "Good": 3
+    },
+    "ASC-M-Beecasual Ventures": {
+      "Good": 1
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 2
+    },
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 2
+    },
+    "Carlcare-Ibadan": {
+      "Good": 1
+    },
+    "Carlcare-Abuja": {
+      "Good": 1
+    },
+    "ASC-M-Bluegate Bamboo Mushin-TypeB": {
+      "Good": 2
+    },
+    "Carlcare-Lagos Victoria Island(3chub)": {
+      "Good": 3
+    },
+    "Carlcare-Port-harcourt": {
+      "Good": 1
+    }
+  },
   "37301319": {
     "_desc": "Composite Decorative part X6887 LUNAR TITANIUM V0 JXHS GK",
     "ASC-M-Midas Touch Sokoto": {
+      "Good": 1
+    }
+  },
+  "12114842": {
+    "_desc": "PCBA MB F151 B1 64G+4G V1.2",
+    "ASC-M-Zikniks Enterprises Maiduguri": {
       "Good": 1
     }
   },
@@ -134910,6 +134772,9 @@
     "_desc": "TECNO CN7c J1 MOONSHADOBLACK NG 512+8 UK",
     "Carlcare-Benin": {
       "Good": 1
+    },
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 1
     }
   },
   "17401496": {
@@ -135083,12 +134948,6 @@
       "Good": 2
     }
   },
-  "25001554": {
-    "_desc": "Bat Infinix BL 39LX 3900mAh TM IN BD",
-    "ASC-M-Device Hub Limited": {
-      "Good": 1
-    }
-  },
   "10319617": {
     "_desc": "POBA itel A1480 BLACK AFR 3W 22.5w P",
     "ASC-M-Device Hub Limited": {
@@ -135218,22 +135077,10 @@
       "Good": 1
     }
   },
-  "10054218": {
-    "_desc": "TECNO T315 A1 BLACK AFR 4+4",
-    "ASC-M-Delink Matrix Lakowe": {
-      "Good": 1
-    }
-  },
   "12104199": {
     "_desc": "PCBA MB TECNO DL194 E 4MB+4MB V01",
     "ASC-M-Delink Matrix Lakowe": {
       "Good": 1
-    }
-  },
-  "10061854": {
-    "_desc": "TECNO KL4 L1 GLITTEWHITE TH DLK 128+4 TH",
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "12704119": {
@@ -135261,12 +135108,6 @@
     },
     "Carlcare-Ibadan": {
       "Good": 1
-    }
-  },
-  "12108596": {
-    "_desc": "PCBA MB H6222 N1 64GB+3GB V1.1",
-    "ASC-M-Carosammy Concept Ltd": {
-      "Good": 0
     }
   },
   "17401617": {
@@ -135329,12 +135170,6 @@
       "Good": 1
     }
   },
-  "38602210": {
-    "_desc": "Color card General 0.5GB&NG&MTN",
-    "ASC-Ets Technology World": {
-      "Good": 0
-    }
-  },
   "12106707": {
     "_desc": "PCBA MB H696 X1 128GB+6GB V1.3",
     "ASC-Ets Technology World": {
@@ -135357,12 +135192,6 @@
     "_desc": "PCBA SUB H6940 1 A2 V1.1",
     "ASC-Ets Technology World": {
       "Good": 1
-    }
-  },
-  "25301698": {
-    "_desc": "Type C Cab C020-B shield 0.85 4 Wh wrap",
-    "ASC-Ets Technology World": {
-      "Good": 0
     }
   },
   "25001677": {
@@ -135429,12 +135258,6 @@
     },
     "Carlcare-Lagos Victoria Island(3chub)": {
       "Good": 1
-    }
-  },
-  "38106300": {
-    "_desc": "Prot cover KN3 TITANIUM GREY V1 TKS N",
-    "ASC-Ets Technology World": {
-      "Good": 0
     }
   },
   "12207424": {
@@ -135560,6 +135383,12 @@
       "Good": 5
     }
   },
+  "10084334": {
+    "_desc": "itel A676L Aj1 NIGHTLY BLUE AFR 128+3 UK",
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 1
+    }
+  },
   "12115217": {
     "_desc": "PCBA MB H8921 Ab1 256G+8G V1.2",
     "ASC-M-Delinks Matrix Ikorodu": {
@@ -135570,6 +135399,24 @@
     "_desc": "Infinix X6840 A1 POLATITANIUM NG 64+4 UK",
     "ASC-M-Delinks Matrix Ikorodu": {
       "Good": 10
+    }
+  },
+  "12709222": {
+    "_desc": "121B PF MB+Label C671L SM382 G1 128+6",
+    "ASC-M-Delinks Matrix Ikorodu": {
+      "Good": 1
+    },
+    "ASC-M-Midas touch Jos": {
+      "Good": 1
+    }
+  },
+  "12207792": {
+    "_desc": "PF 3in1 A675L BLACK DJ",
+    "ASC-M-Sixth Sixth Technologies": {
+      "Good": 1
+    },
+    "ASC-M-Innive Technologies (Itel Homes)": {
+      "Good": 1
     }
   },
   "10077973": {
@@ -135627,6 +135474,18 @@
     "_desc": "Incell 10.95 FHD+ NA CSOT a-Si 2D",
     "ASC-M-Greenfield Gadgets Solution Calabar": {
       "Good": 1
+    }
+  },
+  "17401934": {
+    "_desc": "Oncell 6.78 1.5k BOE H AMOLED BLACK",
+    "ASC-M-Greenfield Gadgets Solution Calabar": {
+      "Good": 1
+    },
+    "ASC-M-7village": {
+      "Good": 1
+    },
+    "Carlcare-Abuja": {
+      "Good": 2
     }
   },
   "12705816": {
@@ -136128,9 +135987,6 @@
     "_desc": "Protective cover KN4 INK BLACK V0 EH TPU",
     "Carlcare-Ibadan": {
       "Good": 0
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "10005381": {
@@ -136173,9 +136029,6 @@
     "_desc": "Color card General 1GB&NG&MTN",
     "Carlcare-Ibadan": {
       "Good": 0
-    },
-    "Carlcare-Port-harcourt": {
-      "Good": 1
     }
   },
   "37200145": {
@@ -136379,12 +136232,6 @@
       "Good": 1
     }
   },
-  "12709222": {
-    "_desc": "121B PF MB+Label C671L SM382 G1 128+6",
-    "ASC-M-Midas touch Jos": {
-      "Good": 1
-    }
-  },
   "25002412": {
     "_desc": "Polymer battery BL-05AI 540mAh CB ZWD VX",
     "ASC-M-Johnwhite Signal Tech": {
@@ -136525,6 +136372,12 @@
   },
   "12706548": {
     "_desc": "121BPCBA MB H897 W1 256G+8G V1.2 RP",
+    "L4 PCBA Repair": {
+      "Good": 1
+    }
+  },
+  "12709929": {
+    "_desc": "121B PCBA MB A553 L1 64G+2G V1.0 IN",
     "L4 PCBA Repair": {
       "Good": 1
     }
@@ -137063,12 +136916,6 @@
       "Good": 20
     }
   },
-  "12036972": {
-    "_desc": "itel S688LN D1 SAPPHIBLACKBLUE AFR 256+8",
-    "Carlcare-Lagos Victoria Island(3chub)": {
-      "Good": 1
-    }
-  },
   "10313183": {
     "_desc": "HandheldIronEUOHI-201A GraphiteGreyDSAFR",
     "Carlcare-Lagos Victoria Island(3chub)": {
@@ -137309,7 +137156,7 @@
   "23603181": {
     "_desc": "phone protector X683 RoHS",
     "Carlcare-Port-harcourt": {
-      "Good": 10
+      "Good": 9
     }
   },
   "37200107": {
@@ -137465,12 +137312,6 @@
       "Good": 1
     }
   },
-  "38201135": {
-    "_desc": "Pit box T302 FP&EU",
-    "Carlcare-Port-harcourt": {
-      "Good": 1
-    }
-  },
   "23603425": {
     "_desc": "SP Film 3 Layers CG7",
     "Carlcare-Port-harcourt": {
@@ -137597,16 +137438,10 @@
       "Good": 10
     }
   },
-  "12040746": {
-    "_desc": "Infinix X6840 F1 SUNLIKEORANGE AFR 128+4",
-    "Carlcare-Port-harcourt": {
-      "Good": 1
-    }
-  },
   "10321237": {
     "_desc": "SMWA oraimo OSW-824 GRAPHITE BLACK AFR",
     "Carlcare-Port-harcourt": {
-      "Good": 3
+      "Good": 2
     }
   },
   "71006470063": {
@@ -137858,12 +137693,6 @@
   "12205096": {
     "_desc": "Homemade PF 3in1 X6850 TITANIUM GREY",
     "ASC-M-TELEPHONE STORE": {
-      "Good": 1
-    }
-  },
-  "17402008": {
-    "_desc": "Incell 8.68 HD+ D DZX a-Si 2D",
-    "ASC-M-Breva Enterprises Limited Lagos": {
       "Good": 1
     }
   },
