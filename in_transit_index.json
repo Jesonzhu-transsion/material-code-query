@@ -1,750 +1,142 @@
 {
-  "12114986": {
-    "Carlcare-Ibadan": 5
-  },
-  "12204748": {
-    "Carlcare-Ibadan": 1,
-    "ASC-M-Innive Technologies Ikotun": 2,
+  "12204714": {
+    "ASC-M-Neyo Multi Global Concept": 1,
+    "ASC-M-Matga Service": 3,
     "ASC-M-Device Hub Limited": 3,
-    "Carlcare-Onitsha": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 1,
-    "ASC-M-Midas Touch Akure": 2
+    "Carlcare-Port-harcourt": 1
   },
-  "12205629": {
-    "Carlcare-Ibadan": 15,
-    "L4 Device Repair": 4
-  },
-  "12205770": {
-    "Carlcare-Ibadan": 10,
+  "10313768": {
+    "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
+    "ASRP-Shodytech": 2,
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
     "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Haslida Concept": 1,
-    "ASC-M-Midas Touch Akure": 2,
-    "Benin-MWH": 1
-  },
-  "12205825": {
-    "Carlcare-Ibadan": 2,
-    "ASC-M-Kraaft Technology & services": 2,
-    "Carlcare-Port-harcourt": 1
-  },
-  "12206375": {
-    "Carlcare-Ibadan": 10,
-    "ASC-M-Kraaft Technology & services": 2,
-    "Carlcare-Kano": 3,
-    "ASC-M-MMS Dot Global Ventures Limited": 1,
-    "ASC-M-Femtech Offa": 2,
-    "Benin-MWH": 3
-  },
-  "12206532": {
-    "Carlcare-Ibadan": 4,
-    "ASC-M-Zikniks Enterprises Maiduguri": 2,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "Carlcare-CV(Computer Village)": 2,
+    "ASC-M-Don-Yellow Tech": 3,
     "Carlcare-Port-harcourt": 1,
-    "ASC-M-Neyo Multi Global Concept": 1
-  },
-  "12207231": {
-    "Carlcare-Ibadan": 12,
-    "Carlcare-Port-harcourt": 6,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 5,
-    "Carlcare-Kano": 3,
-    "Carlcare-Benin": 3,
-    "Carlcare-Onitsha": 1,
-    "Benin-MWH": 2
-  },
-  "12708668": {
-    "Carlcare-Ibadan": 3
-  },
-  "12709830": {
-    "Carlcare-Ibadan": 10
-  },
-  "17001461": {
-    "Carlcare-Ibadan": 10,
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 4,
-    "ASC-M-MMS Dot Global Ventures Limited": 4,
-    "ASRP-T.Comm": 3,
-    "ASC-M-Greenfield Gadgets Solution Aba": 8,
-    "ASC-M-Don-Yellow Tech": 1
-  },
-  "17401812": {
-    "Carlcare-Ibadan": 1,
-    "ASC-M-Kraaft Technology & services": 1,
-    "ASC-M-Matga Service": 2
-  },
-  "17401847": {
-    "Carlcare-Ibadan": 5,
-    "ASC-M-Kraaft Technology & services": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "Benin-MWH": 1,
-    "Carlcare-Port-harcourt": 1
-  },
-  "17401861": {
-    "Carlcare-Ibadan": 3
-  },
-  "17401880": {
-    "Carlcare-Ibadan": 5,
-    "Carlcare-Onitsha": 2,
-    "Carlcare-Warri": 1
-  },
-  "17402042": {
-    "Carlcare-Ibadan": 10
-  },
-  "17601148": {
-    "Carlcare-Ibadan": 8
-  },
-  "19201012": {
-    "Carlcare-Ibadan": 10,
-    "ASC-M-Haven Buddy Integrated Concept": 3,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "23002447": {
-    "Carlcare-Ibadan": 3,
-    "L4 Device Repair": 1
-  },
-  "25001255": {
-    "Carlcare-Ibadan": 25,
-    "ASC-M-Tonijam Nig.Ltd": 1,
-    "ASC-M-Next Care Bariga": 2,
-    "Carlcare-Port-harcourt": 2,
-    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
-    "ASC-M-Sgv Ict Ltd": 1
-  },
-  "25001982": {
-    "Carlcare-Ibadan": 1,
-    "L4 Device Repair": 1
-  },
-  "25002152": {
-    "Carlcare-Ibadan": 14,
-    "L4 Device Repair": 2,
-    "Carlcare-Kano": 4,
-    "ASC-M-Matga Service": 4
-  },
-  "38104922": {
-    "Carlcare-Ibadan": 2
-  },
-  "38105017": {
-    "Carlcare-Ibadan": 1
-  },
-  "10305784": {
-    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
-    "ASC-M-Smartphone Global Dutse": 1,
-    "ASC-M-MIDAS TOUCH KANO": 4,
-    "ASC-M-Great Mind Telecom Service": 1,
+    "ASC-M-Midas Touch Kaduna": 3,
+    "Carlcare-Kano": 69,
+    "ASC-M-Switrat Limited": 1,
+    "ASRP-Ajele Communication(Yaba Tech)": 2,
+    "ASC-M-Delink Matrix Lakowe": 1,
+    "ASRP-T.Comm": 2,
+    "ASC-M-Innive Technologies Ikotun": 10,
     "ASC-M-Kraaft Technology & services": 1
   },
   "10311790": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 94,
-    "ASRP-Vinchino Global Ventures": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 3,
+    "ASC-M-Bluegate Bamboo Mushin-TypeB": 3,
     "ASC-M-Greenfield Gadgets Solution Aba": 41,
-    "ASRP-REWJIDO UNIVERSAL SERVICES": 2,
-    "ASC-M-Ju'Mike Global Ifo": 3,
+    "ASRP-Vinchino Global Ventures": 1,
+    "Carlcare-Onitsha": 403,
+    "ASRP-Shodytech": 1,
+    "ASC-M-Techwitch Ltd.": 2,
+    "ASC-M-Adehero Service": 64,
     "ASC-M-Matga Service Oye": 44,
-    "Carlcare-Onitsha": 402,
+    "ASC-M-Zikniks Enterprises Maiduguri": 3,
+    "ASRP-REWJIDO UNIVERSAL SERVICES": 2,
+    "Carlcare-CV(Computer Village)": 19,
     "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "ASC-M-Adehero Service": 72,
-    "ASC-M-Grand Venadum Resource Limited": 4,
-    "ASC-M-Haslida Concept": 4,
-    "Carlcare-Port-harcourt": 200,
-    "Carlcare-CV(Computer Village)": 25,
-    "ASC-M-Don-Yellow Tech": 3,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 40,
     "ASC-M-Femtech Offa": 1,
-    "ASC-M-Sulit Hub Ota": 1,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 42,
-    "ASC-M-Techwitch Ltd.": 1,
-    "ASC-M-Kraaft Technology & services": 9,
-    "ASRP  Bounovalia Ventures": 1,
+    "ASC-M-Don-Yellow Tech": 9,
     "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 42,
+    "ASC-M-Grand Venadum Resource Limited": 4,
+    "ASC-M-Zikniks Suleja": 2,
+    "ASC-M-Yisab Communication Nigeria": 5,
+    "ASC-M-Haslida Concept": 4,
     "ASC-M-Haven Buddy Integrated Concept": 47,
     "ASRP-Elohim Comm": 1,
-    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
-    "ASC-M-Sixth Sixth Technologies": 1,
-    "ASC-M-Zikniks Suleja": 2,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 42,
     "ASC-M-Bluegate Bamboo Ajah-TypeB": 40,
+    "ASC-M-Breva Enterprises Limited Ilorin": 5,
     "ASC-M-Great Mind Telecom Service": 1,
+    "ASC-M-Kraaft Technology & services": 11,
     "ASC-M-Zikniks Enterprises Limited": 6,
     "ASC-M-G-Care Communication": 2,
-    "ASC-M-Switrat Limited": 1,
+    "ASRP-Ajele Communication(Yaba Tech)": 3,
     "ASC-M-Tonijam Nig.Ltd": 1,
-    "Carlcare-Benin": 100,
     "ASC-M-Reedlim Global Enterprise Bauchi": 6,
-    "ASC-M-Midas touch Jos": 2,
-    "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
+    "ASC-M-Switrat Limited": 1,
     "ASC-M-Ustaz Exclusive Stores": 1,
     "ASC-M-Reedlim Global Enterprise Gombe": 2,
-    "ASRP-T.Comm": 1,
-    "ASC-M-Midas Touch Lagos": 1,
-    "ASC-M-Delink Matrix Lakowe": 3,
-    "ASC-M-Yisab Communication Nigeria": 4,
-    "ASC-M-Gifted hands Tech": 1,
+    "ASC-M-Midas touch Jos": 1,
     "ASC-M-Golden Eagle Technology Limited Ajegunle": 1,
-    "ASC-M-Crescita Global Resources Ltd": 5,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 40
-  },
-  "10312135": {
-    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
-    "ASC-M-Breva Enterprises Limited Ilorin": 20,
-    "ASC-M-Greenfield Gadgets Solution Aba": 7,
-    "ASC-M-Matga Service Oye": 9,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "ASC-M-Haslida Concept": 3,
-    "ASC-M-Don-Yellow Tech": 51,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "Carlcare-Kano": 200,
-    "ASRP  Bounovalia Ventures": 2,
-    "ASC-M-Carosammy Concept Ltd": 4,
-    "ASRP-Elohim Comm": 1,
-    "ASC-M-Sixth Sixth Technologies": 1,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 3,
-    "Carlcare-Benin": 10,
-    "ASC-M-Zikniks Enterprises Limited": 2,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 2,
-    "ASC-M-Tonijam Nig.Ltd": 1,
-    "ASC-M-Innive Technologies Alaba": 3,
-    "ASC-M-Midas Touch Akure": 1,
-    "ASRP-Shodytech": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 5,
-    "ASC-M-Gifted hands Tech": 10,
-    "ASC-M-Reedlim Global Enterprise Bauchi": 2,
-    "ASC-M-Yisab Communication Nigeria": 4,
-    "ASC-M-Darigo 03 Communication Ltd": 1,
-    "ASC-M-Crescita Global Resources Ltd": 5,
-    "ASRP-T.Comm": 1,
-    "ASC-M-Adehero Service": 3
-  },
-  "10312255": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1
-  },
-  "10312394": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASRP-Vinchino Global Ventures": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 32,
-    "ASC-M-G-Care Communication": 1,
-    "ASC-M-Don-Yellow Tech": 2
-  },
-  "10313364": {
-    "NGSI03761-D'Care Concept Limited(Amukoko)": 3,
-    "ASC-M-Visco communication ltd": 3,
-    "Carlcare-Ibadan": 6,
-    "ASRP-Ajele Communication(Yaba Tech)": 2,
-    "ASC-M-Innive Technologies Alaba": 2,
-    "ASC-M-Don-Yellow Tech": 3,
-    "ASC-M-Delink Matrix Lakowe": 2,
-    "ASC-M-Haven Buddy Integrated Concept": 32,
-    "Carlcare-Benin": 12,
-    "ASC-M-G-Care Communication": 27,
-    "ASC-M-Breva Enterprises Limited Lagos": 1,
-    "Carlcare-Abuja": 23,
-    "Carlcare-CV(Computer Village)": 5,
-    "ASC-M-MIDAS TOUCH KANO": 1
-  },
-  "10313365": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 5,
-    "ASC-M-Greenfield Gadgets Solution Aba": 11,
-    "ASC-M-Midas Touch Kaduna": 1,
-    "ASC-M-Darigo 03 Communication Ltd": 2,
-    "ASC-M-Ustaz Exclusive Stores": 1,
-    "ASC-M-Gifted hands Tech": 1,
-    "ASC-M-Yisab Communication Nigeria": 1,
     "ASC-M-Crescita Global Resources Ltd": 5
   },
-  "10313768": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-MIDAS TOUCH KANO": 4,
-    "ASC-M-Jenzabar Limited": 1,
-    "Carlcare-CV(Computer Village)": 2,
-    "ASC-M-Don-Yellow Tech": 3,
-    "ASRP-Ajele Communication(Yaba Tech)": 1,
-    "ASC-M-Techwitch Ltd.": 1,
-    "Carlcare-Kano": 69,
-    "ASC-M-Ju'Mike Global Telecommunication": 5,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Midas Touch Kaduna": 3,
-    "ASC-M-Switrat Limited": 1,
+  "38000049": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12205224": {
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
+    "Benin-MWH": 3
+  },
+  "12205722": {
+    "ASRP-T.Comm": 1
+  },
+  "12207147": {
     "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
-    "ASC-M-Adehero Service": 1,
-    "ASRP-Shodytech": 5,
-    "ASC-M-Kraaft Technology & services": 1
+    "ASC-M-Matga Service": 4
   },
-  "10313911": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 3,
-    "ASC-M-Zikniks Enterprises Maiduguri": 3,
-    "ASC-M-Triple Sea Integrated Services Ltd": 4,
-    "ASC-M-Innive Technologies Alaba": 2,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 7,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 2,
-    "ASC-M-Midas Touch Lagos": 1,
-    "ASC-M-Techwitch Ltd.": 1,
-    "ASC-M-Kraaft Technology & services": 4,
-    "ASC-M-Midas Touch Kaduna": 3,
-    "ASC-M-Darigo 03 Communication Ltd": 5,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 6,
-    "ASC-M-Zikniks Enterprises Limited": 3,
-    "Carlcare-Onitsha": 9,
-    "ASC-M-Visco communication ltd": 1,
-    "ASC-M-Breva Enterprises Limited Lagos": 1,
-    "ASC-M-Adehero Service": 6,
-    "Carlcare-Abuja": 3,
-    "ASC-M-Reedlim Global Enterprise Gombe": 3,
-    "ASRP-T.Comm": 3,
-    "ASC-M-Don-Yellow Tech": 2,
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10314052": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10320262": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 2,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "Carlcare-Port-harcourt": 1,
-    "Carlcare-CV(Computer Village)": 2
-  },
-  "10321023": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 5,
-    "ASC-M-Gifted hands Tech": 2,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "ASC-M-Midas Touch Lagos": 3,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 2,
-    "ASC-M-Techwitch Ltd.": 2,
-    "ASC-M-Midas Touch Sokoto": 1,
-    "Carlcare-CV(Computer Village)": 4,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "ASC-M-Great Mind Telecom Service": 1,
-    "ASC-M-Crescita Global Resources Ltd": 2
-  },
-  "10322625": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 2,
-    "ASC-M-Zikniks Enterprises Maiduguri": 26,
-    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
-    "Carlcare-Kano": 3,
-    "ASC-M-Midas Touch Sokoto": 1,
-    "ASC-M-Kraaft Technology & services": 2,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Sixth Sixth Technologies": 1,
-    "ASC-M-Innive Technologies (Itel Homes)": 2,
-    "ASC-M-Zikniks Enterprises Limited": 2,
-    "ASC-M-New Moon Unique Link": 1,
-    "ASC-M-Adehero Service": 2,
-    "ASC-M-Midas Touch Kaduna": 3,
-    "ASC-M-Don-Yellow Tech": 9,
-    "ASC-M-Midas Touch Lagos": 1
-  },
-  "10324516": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
-    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
-    "ASC-M-Innive Technologies (Itel Homes)": 2,
-    "ASC-M-Golden Eagle Technology Limited Festac": 1,
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1,
-    "Carlcare-Abuja": 1
-  },
-  "23002559": {
-    "ASRP-Kal care Service": 1
-  },
-  "25002727": {
-    "ASRP-Kal care Service": 1,
-    "ASC-M-Tonijam Nig.Ltd": 1
-  },
-  "10311882": {
-    "Carlcare-CV(Computer Village)": 2
-  },
-  "12107247": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Ibadan": 1,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Onitsha": 4,
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12112499": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Ibadan": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 3,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12112546": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12113957": {
-    "Carlcare-CV(Computer Village)": 3,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12114794": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Port-harcourt": 4
-  },
-  "12115742": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 2,
-    "Carlcare-Onitsha": 4
-  },
-  "12116590": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "Carlcare-Warri": 1,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12116591": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12116839": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 1,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 4,
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "Carlcare-Warri": 2,
-    "Carlcare-Onitsha": 4
-  },
-  "12116856": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12117031": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12117170": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Kano": 4,
-    "Benin-MWH": 2,
-    "Carlcare-Warri": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12117359": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12117697": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4,
-    "Benin-MWH": 2
-  },
-  "12205138": {
-    "Carlcare-CV(Computer Village)": 2,
-    "Carlcare-Kano": 2,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12205550": {
-    "Carlcare-CV(Computer Village)": 3,
-    "Carlcare-Onitsha": 4
-  },
-  "12207237": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12207826": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Onitsha": 4,
-    "Benin-MWH": 9
-  },
-  "12207828": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12207875": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Kano": 5,
-    "Carlcare-Abuja": 4
-  },
-  "12207930": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4
-  },
-  "12208244": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Benin": 4
-  },
-  "12705989": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12707064": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Abuja": 4,
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12708033": {
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "12708037": {
-    "Carlcare-CV(Computer Village)": 4,
-    "Carlcare-Onitsha": 3
-  },
-  "12708745": {
-    "Carlcare-CV(Computer Village)": 1
+  "10312394": {
+    "ASRP-Vinchino Global Ventures": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 32,
+    "ASC-M-G-Care Communication": 1
   },
   "10320616": {
     "ASRP-Vinchino Global Ventures": 1,
-    "ASC-M-Kraaft Technology & services": 1,
-    "Carlcare-CV(Computer Village)": 1
+    "ASC-M-Kraaft Technology & services": 1
   },
-  "10308012": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "Carlcare-Onitsha": 1
-  },
-  "10313194": {
-    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
-    "ASRP-SmartPhone Global": 4
-  },
-  "10313367": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 6,
-    "ASC-M-Sgv Ict Ltd": 1,
-    "ASC-M-Adehero Service": 1,
-    "ASC-M-Grand Venadum Resource Limited": 1,
-    "ASC-M-Gifted hands Tech": 2,
-    "ASC-M-Sulit Hub Ota": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 8,
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "Carlcare-Benin": 3,
-    "Carlcare-Onitsha": 5,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "10313937": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
-    "ASRP-Kal care Service": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "Carlcare-Port-harcourt": 80,
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 16,
-    "ASC-M-Great Mind Telecom Service": 1,
-    "Carlcare-Onitsha": 80,
-    "Carlcare-Benin": 80,
-    "ASC-M-New Moon Unique Link": 1,
-    "ASC-M-Femtech Offa": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 3
-  },
-  "10314500": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Ju'Mike Global Ifo": 1,
-    "ASC-M-Don-Yellow Tech": 1,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "Carlcare-Kano": 6,
-    "ASC-M-Pulseconnect": 1,
-    "Carlcare-Onitsha": 4,
-    "Carlcare-Abuja": 3,
-    "Carlcare-CV(Computer Village)": 2,
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "10314501": {
-    "ASC-M-New Moon Unique Link": 1,
-    "Carlcare-Benin": 1
-  },
-  "10315947": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
-    "Carlcare-Lagos Victoria Island(3chub)": 2,
-    "ASC-M-Ustaz Exclusive Stores": 1,
-    "ASRP-NEXT CARE LIMITED": 1,
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1
-  },
-  "10317363": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "ASC-M-Delink Matrix Lakowe": 1,
-    "ASC-M-Techwitch Ltd.": 1,
-    "Carlcare-Benin": 3,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "Carlcare-Abuja": 1,
-    "ASC-M-Ustaz Exclusive Stores": 1,
-    "ASRP-NEXT CARE LIMITED": 2,
-    "ASRP-Mecca Media Ltd": 1
-  },
-  "10318912": {
-    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
-    "ASC-M-Jenzabar Limited": 1,
-    "Carlcare-CV(Computer Village)": 3
-  },
-  "10319761": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Innive Technologies (Itel Homes)": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "Carlcare-CV(Computer Village)": 5
-  },
-  "10320226": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 5,
-    "ASC-M-Innive Technologies Alaba": 1,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "ASC-M-Grand Venadum Resource Limited": 1,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Kraaft Technology & services": 1,
-    "ASRP  Bounovalia Ventures": 1,
-    "Carlcare-Abuja": 6,
-    "ASC-M-Adehero Service": 1,
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Great Mind Telecom Service": 2
-  },
-  "10320362": {
-    "ASC-M-New Moon Unique Link": 1,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 2
-  },
-  "10321870": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 2,
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "Carlcare-Onitsha": 1
-  },
-  "12103665": {
-    "Carlcare-Ibadan": 59,
-    "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4,
-    "ASRP-Mecca Media Ltd": 2
+  "12110859": {
+    "Carlcare-Ibadan": 2
   },
   "12110949": {
     "ASC-M-Darigo 03 Communication Ltd": 1,
     "L4 Device Repair": 1
   },
-  "12114898": {
-    "Carlcare-Benin": 1,
-    "Carlcare-Ibadan": 2,
-    "ASC-M-Crescita Global Resources Ltd": 1,
-    "Carlcare-Warri": 4,
-    "ASC-M-Don-Yellow Tech": 1
-  },
   "12115252": {
-    "ASC-M-Kraaft Technology & services": 2,
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
+    "ASC-M-Kraaft Technology & services": 2
   },
-  "12203719": {
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "Benin-MWH": 2,
-    "Carlcare-Ibadan": 1
-  },
-  "12204421": {
-    "Carlcare-Ibadan": 1,
-    "Carlcare-Kano": 3,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1
+  "12116839": {
+    "Carlcare-Kano": 1,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Ibadan": 3,
+    "ASC-M-Haven Buddy Integrated Concept": 2,
+    "Carlcare-Warri": 2,
+    "Carlcare-Onitsha": 4
   },
   "12204518": {
     "Carlcare-Kano": 1,
+    "Carlcare-Benin": 1,
     "Benin-MWH": 1
   },
   "12206045": {
     "ASC-M-Kraaft Technology & services": 2,
-    "ASC-M-Innive Technologies Ikotun": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 3,
     "ASC-M-Haven Buddy Integrated Concept": 2,
     "ASC-M-MMS Dot Global Ventures Limited": 1
   },
-  "12206516": {
-    "Carlcare-Onitsha": 1,
-    "NGSI03781-Gadgets Place Ng Ltd": 1
-  },
-  "12206521": {
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "L4 Device Repair": 4
-  },
-  "12206959": {
-    "ASC-M-Delink Matrix Lakowe": 1,
-    "Carlcare-Benin": 1,
-    "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-Femtech Offa": 1
+  "12206375": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 1,
+    "ASC-M-Femtech Offa": 2,
+    "Benin-MWH": 3
   },
   "12207234": {
     "ASC-M-Kraaft Technology & services": 1
   },
-  "12207505": {
-    "Carlcare-Ibadan": 2,
-    "ASC-M-Innive Technologies Ikotun": 4,
-    "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
-    "ASC-M-Femtech Offa": 2,
-    "ASC-M-Gifted hands Tech": 1
-  },
   "12207530": {
     "ASC-M-New Moon Unique Link": 4,
-    "ASC-M-Innive Technologies Ikotun": 2,
     "Carlcare-Kano": 10,
-    "ASC-M-Reedlim Global Enterprise Gombe": 5,
-    "Carlcare-Onitsha": 15,
+    "ASC-M-Reedlim Global Enterprise Gombe": 6,
+    "Carlcare-Onitsha": 16,
     "Benin-MWH": 3,
-    "Carlcare-Warri": 3,
+    "ASC-M-Don-Yellow Tech": 1,
     "ASC-M-Smartphone Global Dutse": 1,
     "ASC-M-Triple Sea Integrated Services Ltd": 3,
     "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "Carlcare-Warri": 3,
     "Carlcare-Benin": 3,
-    "ASC-M-Next Care Sabo": 1
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1
   },
   "12207559": {
     "Carlcare-Kano": 1,
@@ -753,282 +145,230 @@
   "12705057": {
     "Carlcare-Kano": 1
   },
-  "12705408": {
-    "Benin-MWH": 1
-  },
-  "12709136": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 2
-  },
-  "12709618": {
-    "Carlcare-Kano": 4,
-    "Carlcare-Ibadan": 3,
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "Carlcare-Warri": 1,
-    "ASC-M-Midas Touch Kaduna": 2,
-    "ASC-M-Midas Touch Sokoto": 1
-  },
-  "12710180": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1,
-    "ASC-M-Beecasual Ventures": 2
-  },
-  "17001140": {
-    "Benin-MWH": 11
-  },
-  "17001268": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "ASC-M-Grand Venadum Resource Limited": 1,
-    "ASC-M-Midas Touch Kaduna": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 8,
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 4,
-    "ASC-M-Midas Touch Akure": 5,
-    "Benin-MWH": 2
-  },
-  "17001269": {
-    "Benin-MWH": 3
-  },
-  "17001340": {
-    "Benin-MWH": 3
-  },
-  "17001342": {
-    "Benin-MWH": 4,
-    "ASC-M-Kraaft Technology & services": 2,
-    "ASC-M-Midas Touch Lagos": 1,
-    "ASC-M-Femtech Offa": 3
-  },
-  "17001357": {
-    "Benin-MWH": 5
-  },
-  "17001436": {
-    "Benin-MWH": 4
-  },
-  "17001437": {
-    "Benin-MWH": 10,
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Breva Enterprises Limited Lagos": 2,
-    "L4 Device Repair": 1,
-    "ASC-M-Delink Matrix Lakowe": 1
-  },
-  "17001444": {
-    "Benin-MWH": 1,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 3,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
-  },
-  "17001451": {
-    "Benin-MWH": 3,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
-  },
-  "17001465": {
-    "Benin-MWH": 10,
-    "Carlcare-Port-harcourt": 1
-  },
-  "17201906": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "17601303": {
-    "ASC-M-Monday Mega Enterprise": 1
-  },
-  "19401153": {
-    "ASC-M-Kraaft Technology & services": 2
-  },
-  "23002205": {
-    "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "23002315": {
+  "17401812": {
     "ASC-M-Kraaft Technology & services": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 1
+    "ASC-M-Matga Service": 2
   },
-  "23002599": {
-    "ASC-M-Delink Matrix Lakowe": 3
-  },
-  "25002239": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 3,
-    "Carlcare-Onitsha": 3,
-    "ASC-M-Breva Enterprises Limited Lagos": 6
-  },
-  "25002439": {
-    "ASC-M-Grand Venadum Resource Limited": 1
-  },
-  "25002815": {
-    "ASC-M-Darigo 03 Communication Ltd": 1,
-    "Carlcare-Onitsha": 1,
-    "ASRP-T.Comm": 2
-  },
-  "25002957": {
-    "ASC-M-Delink Matrix Lakowe": 1
-  },
-  "37200267": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
-  },
-  "12112097": {
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "ASRP-SmartPhone Global": 1,
-    "ASC-M-Beecasual Ventures": 3,
-    "ASC-M-Greenfield Gadgets Solution Aba": 3
-  },
-  "12113797": {
-    "ASC-M-Midas touch Jos": 1
-  },
-  "12204431": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Matga Service": 3,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1
-  },
-  "12205349": {
-    "ASC-M-Innive Technologies Ikotun": 2,
-    "ASC-M-Matga Service": 3,
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "12206467": {
-    "ASC-M-Innive Technologies Ikotun": 2,
-    "ASC-M-Great Mind Telecom Service": 1,
-    "ASC-M-Femtech Information Technology Ltd": 4,
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Warri": 3,
-    "Carlcare-Onitsha": 3,
-    "ASC-M-Midas Touch Akure": 2,
-    "Benin-MWH": 1
-  },
-  "12206663": {
-    "ASC-M-Innive Technologies Ikotun": 2
-  },
-  "12206871": {
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "12709379": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Breva Enterprises Limited Ilorin": 2
-  },
-  "17201983": {
-    "ASC-M-Innive Technologies Ikotun": 2
-  },
-  "17401796": {
-    "ASC-M-Innive Technologies Ikotun": 2,
-    "ASC-M-Matga Service": 5,
-    "ASC-M-Intaj Dynamic": 1,
-    "Benin-MWH": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 3,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "19401463": {
-    "ASC-M-Innive Technologies Ikotun": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Onitsha": 1,
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "23002413": {
-    "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "L4 Device Repair": 2
-  },
-  "23002501": {
-    "ASC-M-Innive Technologies Ikotun": 1,
-    "L4 Device Repair": 1
-  },
-  "25002728": {
-    "ASC-M-Haven Buddy Integrated Concept": 1
-  },
-  "37600646": {
-    "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 2
-  },
-  "38104465": {
-    "ASC-M-Innive Technologies Ikotun": 1
-  },
-  "38106778": {
-    "ASC-M-Innive Technologies Ikotun": 1
-  },
-  "10320104": {
-    "Carlcare-Ibadan": 1,
-    "ASC-M-Innive Technologies (Itel Homes)": 1,
-    "Carlcare-Warri": 3,
-    "Carlcare-Kano": 1,
-    "Carlcare-Benin": 1,
-    "Carlcare-Abuja": 2
-  },
-  "10322156": {
-    "ASC-M-Ju'Mike Global Ifo": 2,
-    "ASC-M-Sgv Ict Ltd": 1,
-    "ASRP-Ajele Communication(Yaba Tech)": 1,
-    "ASC-M-Zikniks Enterprises Limited": 1,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1,
-    "ASC-M-Midas touch Jos": 1
-  },
-  "12112556": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "12114719": {
-    "ASC-M-Gifted hands Tech": 1,
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "12203055": {
-    "ASRP-Snappy Fix": 1
-  },
-  "12206598": {
-    "ASC-M-Midas Touch Kaduna": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Midas Touch Sokoto": 1,
-    "ASRP  Bounovalia Ventures": 1,
+  "17601087": {
     "ASC-M-Don-Yellow Tech": 1
+  },
+  "17601253": {
+    "ASC-M-Femtech Offa": 1,
+    "ASC-M-Ifix Repair Hub": 1,
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "17601265": {
+    "ASC-M-Femtech Offa": 1
   },
   "17601276": {
     "Carlcare-Kano": 1,
     "ASC-M-Adehero Service": 1
   },
-  "21204230": {
-    "ASRP-Snappy Fix": 1
+  "17601281": {
+    "ASC-M-Femtech Offa": 1
+  },
+  "19401153": {
+    "ASC-M-Kraaft Technology & services": 2
+  },
+  "23002315": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "25002728": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "12207519": {
+    "Carlcare-Ibadan": 1
   },
   "23002492": {
     "ASC-M-MMS Dot Global Ventures Limited": 1,
     "ASC-M-Ifix Repair Hub": 1,
     "L4 Device Repair": 3
   },
-  "25001739": {
-    "ASRP-Snappy Fix": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 6
+  "10312135": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 7,
+    "ASRP-Shodytech": 1,
+    "ASC-M-Matga Service Oye": 9,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "ASC-M-Don-Yellow Tech": 26,
+    "Carlcare-Kano": 200,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
+    "ASC-M-Haslida Concept": 3,
+    "ASRP-Elohim Comm": 1,
+    "ASC-M-Breva Enterprises Limited Ilorin": 9,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 3,
+    "Carlcare-Benin": 10,
+    "ASC-M-Zikniks Enterprises Limited": 1,
+    "ASC-M-Maxwell Telecoms Nig Ents.": 2,
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "ASC-M-Midas Touch Akure": 1,
+    "ASC-M-Reedlim Global Enterprise Bauchi": 2,
+    "ASC-M-Yisab Communication Nigeria": 4,
+    "ASC-M-Crescita Global Resources Ltd": 5,
+    "ASC-M-Adehero Service": 3,
+    "ASC-M-Darigo 03 Communication Ltd": 1,
+    "ASRP-T.Comm": 1
+  },
+  "10313178": {
+    "Carlcare-Abuja": 1
+  },
+  "10313365": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 11,
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "ASC-M-Midas Touch Kaduna": 2,
+    "ASC-M-Darigo 03 Communication Ltd": 2,
+    "ASC-M-Ustaz Exclusive Stores": 1,
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Crescita Global Resources Ltd": 5
+  },
+  "10313367": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Gifted hands Tech": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 8,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 16,
+    "ASC-M-Grand Venadum Resource Limited": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 8,
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Femtech Information Technology Ltd": 1,
+    "Carlcare-Benin": 3,
+    "Carlcare-Onitsha": 5,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
+    "ASC-M-Don-Yellow Tech": 3,
+    "Carlcare-CV(Computer Village)": 1,
+    "Carlcare-Ibadan": 15
+  },
+  "10313368": {
+    "Carlcare-Abuja": 1,
+    "ASC-M-Greenfield Gadgets Solution Aba": 4,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 2,
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "ASC-M-Kraaft Technology & services": 5,
+    "ASC-M-Grand Venadum Resource Limited": 1,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
+    "ASC-M-Breva Enterprises Limited Ilorin": 3
+  },
+  "10313937": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 16,
+    "ASC-M-Haven Buddy Integrated Concept": 16,
+    "Carlcare-Onitsha": 80,
+    "ASC-M-Great Mind Telecom Service": 1,
+    "ASC-M-Adehero Service": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 3
+  },
+  "10314501": {
+    "ASC-M-New Moon Unique Link": 1
   },
   "10315845": {
-    "Carlcare-Onitsha": 1
+    "Carlcare-Onitsha": 1,
+    "ASC-M-Femtech Offa": 4
+  },
+  "10315947": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 2,
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
+    "ASC-M-Don-Yellow Tech": 2,
+    "Carlcare-Lagos Victoria Island(3chub)": 2,
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "10317363": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 6,
+    "Carlcare-Benin": 3,
+    "Carlcare-Abuja": 1,
+    "ASC-M-Innive Technologies Ikotun": 10,
+    "ASRP-Mecca Media Ltd": 1
   },
   "10319057": {
     "Carlcare-Onitsha": 1,
     "Carlcare-Abuja": 1
   },
-  "10320545": {
-    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
-    "Carlcare-Onitsha": 2,
+  "10319337": {
+    "ASRP-Shodytech": 2,
+    "Carlcare-Warri": 1,
+    "Carlcare-Benin": 2,
+    "Carlcare-Abuja": 1,
+    "Carlcare-CV(Computer Village)": 5,
+    "ASC-M-Adehero Service": 1
+  },
+  "10320226": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 5,
+    "Carlcare-Port-harcourt": 2,
+    "ASC-M-Grand Venadum Resource Limited": 1,
     "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "Carlcare-Port-harcourt": 1
+    "ASC-M-Kraaft Technology & services": 1,
+    "Carlcare-Abuja": 5,
+    "ASC-M-Adehero Service": 1,
+    "Carlcare-CV(Computer Village)": 1,
+    "ASC-M-Great Mind Telecom Service": 2
+  },
+  "10320227": {
+    "ASC-M-New Moon Unique Link": 1,
+    "Carlcare-Abuja": 2,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Zikniks Enterprises Maiduguri": 2,
+    "ASC-M-G-Care Communication": 1,
+    "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-Grand Venadum Resource Limited": 3,
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "ASC-M-Delinks Matrix Ikorodu": 2,
+    "ASC-M-Greenfield Gadgets Solution Nsukka": 1
+  },
+  "10320362": {
+    "ASC-M-New Moon Unique Link": 1,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Greenfield Gadgets Solution Nsukka": 1
+  },
+  "10320545": {
+    "Carlcare-Onitsha": 2,
+    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "10321870": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2,
+    "Carlcare-Onitsha": 1
+  },
+  "10322625": {
+    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
+    "ASC-M-Zikniks Enterprises Maiduguri": 26,
+    "ASC-M-Midas Touch Sokoto": 1,
+    "Carlcare-Port-harcourt": 1,
+    "Carlcare-Kano": 1,
+    "ASC-M-Kraaft Technology & services": 2,
+    "ASC-M-Midas Touch Kaduna": 3,
+    "ASC-M-Don-Yellow Tech": 6
   },
   "12109553": {
     "Carlcare-Kano": 4,
+    "ASC-M-Matga Service": 12,
     "Carlcare-Abuja": 4,
     "Carlcare-Ibadan": 4,
-    "ASC-M-Matga Service": 12,
-    "Carlcare-Port-harcourt": 4,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 3,
     "Carlcare-Onitsha": 22,
+    "Carlcare-Port-harcourt": 4,
     "ASC-M-MMS Dot Global Ventures Limited": 3,
-    "ASC-M-Breva Enterprises Limited Lagos": 7,
+    "ASC-M-Greenfield Gadgets Solution Aba": 3,
     "ASRP-3chub-Shoddy Tech": 1,
     "Carlcare-Benin": 6,
     "ASC-M-Triple Sea Integrated Services Ltd": 3,
-    "ASC-M-Midas Touch Akure": 1,
-    "Benin-MWH": 2
+    "Benin-MWH": 2,
+    "ASC-M-Midas Touch Akure": 1
   },
   "12110309": {
     "L4 Device Repair": 1
   },
+  "12111002": {
+    "ASC-M-Breva Enterprises Limited Lagos": 1
+  },
   "12111014": {
-    "Carlcare-Abuja": 4,
     "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
     "Carlcare-Ibadan": 4,
     "Carlcare-Warri": 4,
     "Carlcare-Onitsha": 4
@@ -1038,13 +378,22 @@
     "Carlcare-Onitsha": 4
   },
   "12112386": {
-    "Carlcare-Abuja": 4,
     "ASC-M-Device Hub Limited": 1,
+    "Carlcare-Abuja": 4,
     "Carlcare-Ibadan": 4,
     "Carlcare-Onitsha": 4
   },
   "12112498": {
     "L4 Device Repair": 3
+  },
+  "12112546": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
   },
   "12113024": {
     "Carlcare-Kano": 4,
@@ -1061,51 +410,105 @@
   },
   "12113168": {
     "ASC-M-Device Hub Limited": 2,
-    "ASC-M-Greenfield Gadgets Solution Aba": 4,
+    "ASC-M-Greenfield Gadgets Solution Aba": 6,
+    "ASRP-T.Comm": 1,
     "ASC-M-Carosammy Concept Ltd": 2,
-    "ASC-M-Zikniks Enterprises Limited": 1,
     "Benin-MWH": 2
   },
   "12113652": {
     "L4 Device Repair": 1,
-    "Carlcare-Kano": 5,
-    "ASC-M-Midas Touch Kaduna": 2
+    "ASC-M-Midas Touch Kaduna": 2,
+    "Carlcare-Kano": 5
+  },
+  "12113957": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Onitsha": 4
   },
   "12114071": {
     "Carlcare-Kano": 4,
     "Carlcare-Onitsha": 4
   },
-  "12115189": {
-    "ASC-M-Zikniks Enterprises Limited": 4,
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Midas Touch Akure": 2
+  "12116590": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "Carlcare-Warri": 1,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
   },
-  "12116487": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  "12116856": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12117031": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12117170": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Benin-MWH": 2,
+    "Carlcare-Warri": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12117359": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
   },
   "12117409": {
-    "Carlcare-Abuja": 4,
     "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
     "Carlcare-Ibadan": 4,
     "Benin-MWH": 4
   },
   "12117470": {
-    "Carlcare-Abuja": 4,
     "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
     "Carlcare-Ibadan": 4,
     "Carlcare-Port-harcourt": 4,
     "Carlcare-Warri": 4,
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 4
   },
+  "12117697": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4,
+    "Benin-MWH": 2
+  },
   "12203163": {
     "Carlcare-Kano": 4,
     "Benin-MWH": 1,
     "Carlcare-Onitsha": 4
   },
-  "12204988": {
-    "Carlcare-Abuja": 4,
-    "Carlcare-Onitsha": 2
+  "12204748": {
+    "ASC-M-Device Hub Limited": 3,
+    "Carlcare-Onitsha": 1,
+    "ASC-M-Midas Touch Akure": 2
+  },
+  "12205138": {
+    "Carlcare-Kano": 2,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
   },
   "12205225": {
     "Carlcare-Kano": 4,
@@ -1119,10 +522,6 @@
     "Carlcare-Ibadan": 4,
     "Carlcare-Port-harcourt": 3,
     "Carlcare-Onitsha": 4
-  },
-  "12205363": {
-    "Carlcare-Abuja": 4,
-    "Carlcare-Onitsha": 2
   },
   "12205530": {
     "Carlcare-Kano": 4,
@@ -1138,8 +537,45 @@
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 4
   },
+  "12207237": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12207439": {
+    "Carlcare-CV(Computer Village)": 1,
+    "Benin-MWH": 1,
+    "Carlcare-Port-harcourt": 2,
+    "Carlcare-Ibadan": 3,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  },
   "12207501": {
     "ASC-M-Device Hub Limited": 2
+  },
+  "12207828": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12208244": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Benin": 4
+  },
+  "12705989": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Onitsha": 4
   },
   "12706263": {
     "Carlcare-Kano": 4,
@@ -1147,24 +583,36 @@
     "Carlcare-Port-harcourt": 4,
     "Carlcare-Onitsha": 4
   },
+  "12707064": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
   "12707999": {
     "ASC-M-Haven Buddy Integrated Concept": 1
   },
   "12709386": {
     "ASC-M-Haven Buddy Integrated Concept": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
+    "ASC-M-Kraaft Technology & services": 2,
     "Benin-MWH": 1,
-    "ASC-M-Kraaft Technology & services": 1,
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "ASC-M-Ifix Repair Hub": 1,
+    "ASC-M-Midas Touch Sokoto": 2,
+    "ASC-M-Midas Touch Kaduna": 2,
     "Carlcare-Onitsha": 1
   },
   "12709915": {
     "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-New Moon Unique Link": 1
   },
   "14201356": {
     "L4 Device Repair": 1
-  },
-  "17001429": {
-    "Carlcare-Ibadan": 1
   },
   "17201429": {
     "L4 Device Repair": 1
@@ -1258,17 +706,11 @@
   "17401917": {
     "ASC-M-Ifix Repair Hub": 1
   },
-  "17401939": {
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "ASC-M-Sgv Ict Ltd": 1,
-    "Benin-MWH": 1
-  },
   "17402006": {
     "ASC-M-Jenzabar Limited": 1,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 2,
     "Carlcare-Abuja": 2,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-New Moon Unique Link": 2
+    "ASC-M-New Moon Unique Link": 2,
+    "Carlcare-Port-harcourt": 1
   },
   "17601034": {
     "L4 Device Repair": 4
@@ -1304,23 +746,22 @@
     "L4 Device Repair": 2,
     "ASC-M-Greenfield Gadgets Solution Uyo": 1
   },
-  "17601253": {
-    "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-Don-Yellow Tech": 1
-  },
   "17601255": {
     "L4 Device Repair": 6
   },
   "17601260": {
     "L4 Device Repair": 1
   },
+  "17601303": {
+    "ASC-M-Monday Mega Enterprise": 1
+  },
   "19001254": {
     "L4 Device Repair": 1
   },
   "19201014": {
     "L4 Device Repair": 2,
-    "ASRP-Kal care Service": 2,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
+    "ASRP-T.Comm": 2,
+    "ASRP-Kal care Service": 2
   },
   "19201021": {
     "L4 Device Repair": 2
@@ -1353,8 +794,7 @@
     "L4 Device Repair": 1
   },
   "19401185": {
-    "L4 Device Repair": 1,
-    "ASC-M-Breva Enterprises Limited Lagos": 5
+    "L4 Device Repair": 1
   },
   "19401218": {
     "L4 Device Repair": 1
@@ -1423,6 +863,9 @@
   "21301972": {
     "L4 Device Repair": 3
   },
+  "21302712": {
+    "Carlcare-Kano": 2
+  },
   "21302905": {
     "L4 Device Repair": 1
   },
@@ -1434,8 +877,9 @@
   },
   "23002612": {
     "ASC-M-Device Hub Limited": 2,
-    "ASC-M-Femtech Offa": 1,
+    "ASC-M-MIDAS TOUCH KANO": 1,
     "ASC-M-New Moon Unique Link": 1,
+    "Carlcare-Kano": 4,
     "ASC-M-Zikniks Enterprises Limited": 2
   },
   "23101130": {
@@ -1507,89 +951,695 @@
   "23502045": {
     "L4 Device Repair": 2
   },
-  "25002039": {
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1
+  "25002761": {
+    "Carlcare-Kano": 1,
+    "Carlcare-Benin": 2
   },
-  "37600749": {
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "37600754": {
-    "ASC-M-Kraaft Technology & services": 2
-  },
-  "38105888": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  "25002815": {
+    "ASC-M-Darigo 03 Communication Ltd": 1,
+    "Carlcare-Onitsha": 1,
+    "ASRP-T.Comm": 2,
+    "ASC-M-Haven Buddy Integrated Concept": 1
   },
   "10084333": {
     "ASC-M-Crescita Global Resources Ltd": 1,
     "Carlcare-Port-harcourt": 1
   },
-  "10309918": {
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "Carlcare-Ibadan": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+  "10305482": {
+    "ASC-M-Carosammy Concept Ltd": 2,
+    "ASC-M-Darigo 03 Communication Ltd": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 3,
+    "ASRP-Ajele Communication(Yaba Tech)": 1,
+    "ASC-M-Don-Yellow Tech": 13,
+    "ASC-M-Adehero Service": 4
+  },
+  "10313364": {
+    "ASC-M-Carosammy Concept Ltd": 3,
+    "ASC-M-Don-Yellow Tech": 13,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 64,
+    "ASC-M-Sulit Hub Ota": 1,
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 32,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 7,
+    "ASC-M-G-Care Communication": 27,
+    "Carlcare-Benin": 12,
+    "ASRP-Ajele Communication(Yaba Tech)": 2,
+    "Carlcare-Abuja": 23,
+    "Carlcare-CV(Computer Village)": 5,
+    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
+    "ASC-M-MIDAS TOUCH KANO": 1
+  },
+  "10315182": {
+    "ASC-M-Breva Enterprises Limited Lagos": 2,
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Sulit Hub Ota": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-Femtech Information Technology Ltd": 1,
+    "ASC-M-G-Care Communication": 1,
+    "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2,
+    "ASC-M-Adehero Service": 1,
+    "ASC-M-Innive Technologies Alaba": 1,
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 2,
+    "ASC-M-Breva Enterprises Limited Ilorin": 5
+  },
+  "10316661": {
+    "ASC-M-Breva Enterprises Limited Lagos": 2,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3,
+    "Carlcare-Onitsha": 2
+  },
+  "10317594": {
+    "ASC-M-Breva Enterprises Limited Lagos": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
+    "ASC-M-Don-Yellow Tech": 1,
+    "ASC-M-Innive Technologies Ikotun": 20
+  },
+  "12103665": {
+    "Carlcare-Ibadan": 59,
+    "Carlcare-Warri": 4,
+    "Carlcare-Onitsha": 4,
+    "ASRP-Mecca Media Ltd": 2
+  },
+  "12114709": {
     "ASRP-SmartPhone Global": 1,
-    "ASC-M-Femtech Offa": 3,
-    "ASC-M-Delinks Matrix Ikorodu": 1,
-    "Carlcare-CV(Computer Village)": 2
+    "Carlcare-Kano": 1
+  },
+  "12114898": {
+    "Carlcare-Benin": 1,
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Crescita Global Resources Ltd": 1,
+    "Carlcare-Warri": 4,
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "12116274": {
+    "Carlcare-Ibadan": 2
+  },
+  "12116487": {
+    "ASC-M-Jenzabar Limited": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  },
+  "12116497": {
+    "ASC-M-Jenzabar Limited": 1,
+    "Carlcare-Kano": 3,
+    "NGSI03772-Klanyjay Services Brand(Giwa)": 1
+  },
+  "12204421": {
+    "Carlcare-Ibadan": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1
+  },
+  "12205401": {
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Midas Touch Akure": 1
+  },
+  "12206752": {
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Femtech Offa": 1
+  },
+  "12207231": {
+    "Carlcare-Port-harcourt": 6,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-New Moon Unique Link": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 5,
+    "Carlcare-Ibadan": 2,
+    "Carlcare-Benin": 3,
+    "Carlcare-Onitsha": 1,
+    "Benin-MWH": 2
+  },
+  "12207505": {
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Femtech Offa": 2,
+    "ASC-M-Gifted hands Tech": 1
+  },
+  "12705408": {
+    "Benin-MWH": 1
+  },
+  "12709618": {
+    "Carlcare-Kano": 4,
+    "Carlcare-Ibadan": 3,
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Midas Touch Kaduna": 3,
+    "Carlcare-Warri": 1,
+    "ASC-M-Matga Service": 1,
+    "ASC-M-Midas Touch Sokoto": 1
+  },
+  "17001140": {
+    "Benin-MWH": 11,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "17001269": {
+    "Benin-MWH": 3
+  },
+  "17001340": {
+    "Benin-MWH": 3
+  },
+  "17001342": {
+    "Benin-MWH": 4,
+    "ASC-M-Kraaft Technology & services": 2,
+    "ASC-M-Femtech Offa": 3
+  },
+  "17001357": {
+    "Benin-MWH": 5
+  },
+  "17001436": {
+    "Benin-MWH": 4
+  },
+  "17001437": {
+    "Benin-MWH": 10,
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "ASC-M-Delink Matrix Lakowe": 1,
+    "L4 Device Repair": 1
+  },
+  "17001444": {
+    "Benin-MWH": 1,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 3
+  },
+  "17001451": {
+    "Benin-MWH": 3,
+    "ASC-M-Breva Enterprises Limited Lagos": 1
+  },
+  "17001465": {
+    "Benin-MWH": 10,
+    "ASC-M-Innive Technologies Alaba": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "Carlcare-Port-harcourt": 1
+  },
+  "23002205": {
+    "ASC-M-Crescita Global Resources Ltd": 1
+  },
+  "25002051": {
+    "Carlcare-Ibadan": 20,
+    "Carlcare-Kano": 30,
+    "ASC-M-Haven Buddy Integrated Concept": 2,
+    "ASC-M-Intaj Dynamic": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 3
+  },
+  "25002439": {
+    "ASC-M-Grand Venadum Resource Limited": 1
+  },
+  "37200637": {
+    "ASC-M-New Moon Unique Link": 5
+  },
+  "38104469": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 4
+  },
+  "10308012": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "Carlcare-Onitsha": 1
+  },
+  "10313911": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 3,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 19,
+    "ASC-M-Triple Sea Integrated Services Ltd": 4,
+    "ASC-M-Greenfield Gadgets Solution Aba": 1,
+    "ASC-M-Sulit Hub Ota": 1,
+    "ASC-M-Midas Touch Kaduna": 4,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 2,
+    "ASC-M-Kraaft Technology & services": 5,
+    "ASC-M-Zikniks Enterprises Limited": 3,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 6,
+    "Carlcare-Onitsha": 9,
+    "ASC-M-Darigo 03 Communication Ltd": 5,
+    "Carlcare-Abuja": 3,
+    "ASC-M-Visco communication ltd": 1,
+    "ASC-M-Adehero Service": 5,
+    "ASC-M-Reedlim Global Enterprise Gombe": 3,
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
+    "ASC-M-Don-Yellow Tech": 1,
+    "Carlcare-CV(Computer Village)": 1,
+    "ASC-M-Midas Touch Lagos": 1,
+    "ASC-M-Innive Technologies Ikotun": 5,
+    "Carlcare-Ibadan": 6
+  },
+  "10314500": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Don-Yellow Tech": 1,
+    "Carlcare-Kano": 6,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
+    "Carlcare-Onitsha": 4,
+    "ASC-M-Pulseconnect": 1,
+    "Carlcare-Abuja": 3,
+    "ASC-M-Delink Matrix Lakowe": 1,
+    "Carlcare-CV(Computer Village)": 2,
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Zikniks Enterprises Limited": 1
   },
   "10315891": {
     "Carlcare-Port-harcourt": 1
   },
+  "10319586": {
+    "ASC-M-Matga Service Oye": 1
+  },
+  "10319761": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "Carlcare-CV(Computer Village)": 4
+  },
+  "12111938": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "ASC-M-Haslida Concept": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 3
+  },
+  "12115251": {
+    "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
+    "ASC-M-Sgv Ict Ltd": 1
+  },
+  "12205632": {
+    "ASC-M-Neyo Multi Global Concept": 1,
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "L4 Device Repair": 5
+  },
+  "12206483": {
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Midas touch Jos": 1,
+    "ASC-M-Zikniks Enterprises Maiduguri": 2,
+    "Benin-MWH": 1
+  },
+  "12707086": {
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1
+  },
+  "12709136": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 2,
+    "ASC-M-Haven Buddy Integrated Concept": 2
+  },
+  "17001268": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-Grand Venadum Resource Limited": 1,
+    "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 8,
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 4,
+    "Benin-MWH": 2,
+    "ASC-M-Midas Touch Akure": 5
+  },
+  "17201906": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "19501149": {
+    "ASRP-T.Comm": 2,
+    "ASC-M-Greenfield Gadgets Solution Nsukka": 1
+  },
+  "25002239": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 4,
+    "Carlcare-Onitsha": 3,
+    "ASC-M-Breva Enterprises Limited Lagos": 1,
+    "ASRP-Harizonal & Sons Communication": 1
+  },
+  "10313194": {
+    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
+    "ASRP-SmartPhone Global": 1
+  },
+  "10318912": {
+    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
+    "Carlcare-CV(Computer Village)": 3
+  },
+  "10324516": {
+    "ASRP-REWJIDO UNIVERSAL SERVICES": 1,
+    "ASC-M-Greenfield Gadgets Solution Orlu": 1
+  },
+  "12205595": {
+    "ASC-M-Yisab Communication Nigeria": 3
+  },
+  "12206803": {
+    "ASC-M-Yisab Communication Nigeria": 1
+  },
+  "19401470": {
+    "ASC-M-Yisab Communication Nigeria": 3
+  },
+  "25002152": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "Carlcare-Kano": 4,
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Matga Service": 5
+  },
+  "25002206": {
+    "ASC-M-Yisab Communication Nigeria": 3,
+    "L4 Device Repair": 1
+  },
+  "37200267": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  },
+  "10320279": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 1
+  },
+  "12114655": {
+    "Carlcare-Warri": 1,
+    "ASC-M-Intaj Dynamic": 2
+  },
+  "12115190": {
+    "Carlcare-Kano": 10,
+    "ASC-M-Don-Yellow Tech": 2,
+    "L4 Device Repair": 4
+  },
+  "12115623": {
+    "ASC-M-Crescita Global Resources Ltd": 1,
+    "Carlcare-Onitsha": 3,
+    "ASC-M-New Moon Unique Link": 1,
+    "ASC-M-Midas Touch Kaduna": 2,
+    "Benin-MWH": 1,
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "12204431": {
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "ASC-M-Matga Service": 3,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1
+  },
+  "12703658": {
+    "ASC-M-Crescita Global Resources Ltd": 1
+  },
+  "12708781": {
+    "ASRP-T.Comm": 1,
+    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 2
+  },
+  "17201962": {
+    "Carlcare-Onitsha": 2
+  },
+  "17401863": {
+    "Carlcare-Kano": 10,
+    "ASC-M-Matga Service": 10,
+    "ASC-M-Triple Sea Integrated Services Ltd": 3
+  },
+  "23001647": {
+    "ASC-M-Crescita Global Resources Ltd": 1
+  },
+  "25002628": {
+    "Carlcare-Onitsha": 2,
+    "ASRP-SmartPhone Global": 1
+  },
+  "38105786": {
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "10320078": {
+    "ASC-M-Midas Touch Sokoto": 1,
+    "ASC-M-G-Care Communication": 1,
+    "ASC-M-Don-Yellow Tech": 2,
+    "ASC-M-Innive Technologies Ikotun": 5
+  },
+  "10321023": {
+    "ASC-M-Gifted hands Tech": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
+    "ASC-M-Midas Touch Sokoto": 1,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 2,
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASRP-Ajele Communication(Yaba Tech)": 2,
+    "ASC-M-Midas Touch Kaduna": 1,
+    "Carlcare-CV(Computer Village)": 3,
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-Great Mind Telecom Service": 1,
+    "ASC-M-Crescita Global Resources Ltd": 2
+  },
+  "12106914": {
+    "ASC-M-Intaj Dynamic": 1
+  },
+  "12109174": {
+    "Benin-MWH": 1
+  },
+  "12112211": {
+    "Benin-MWH": 1
+  },
+  "12112556": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "12114719": {
+    "ASC-M-Gifted hands Tech": 1
+  },
+  "12114840": {
+    "ASC-M-Tonijam Nig.Ltd": 1
+  },
+  "12203056": {
+    "ASC-M-Carosammy Concept Ltd": 1
+  },
+  "12203241": {
+    "ASC-M-Intaj Dynamic": 1
+  },
+  "12203349": {
+    "Benin-MWH": 3,
+    "Carlcare-Port-harcourt": 1,
+    "Carlcare-Onitsha": 4
+  },
+  "12204871": {
+    "ASC-M-Intaj Dynamic": 1,
+    "ASC-M-Matga Service": 10,
+    "Carlcare-Onitsha": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "Carlcare-Benin": 3,
+    "ASC-M-Triple Sea Integrated Services Ltd": 2
+  },
+  "12204908": {
+    "ASC-M-Carosammy Concept Ltd": 1
+  },
+  "12205069": {
+    "Benin-MWH": 1
+  },
+  "12205477": {
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "ASC-M-Matga Service Oye": 1
+  },
+  "12206028": {
+    "ASC-M-Smartphone Global Dutse": 1,
+    "Benin-MWH": 3,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12206202": {
+    "Benin-MWH": 1,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 3
+  },
+  "12701164": {
+    "Benin-MWH": 1
+  },
+  "12704038": {
+    "Benin-MWH": 2
+  },
+  "12705622": {
+    "ASC-M-Intaj Dynamic": 2
+  },
+  "12705965": {
+    "Benin-MWH": 1
+  },
+  "12706535": {
+    "Benin-MWH": 1
+  },
+  "12706538": {
+    "Benin-MWH": 1,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 2,
+    "Carlcare-Warri": 4
+  },
+  "12708519": {
+    "Benin-MWH": 1,
+    "Carlcare-Port-harcourt": 1
+  },
+  "12708770": {
+    "Benin-MWH": 1
+  },
+  "17001468": {
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 5,
+    "Carlcare-Ibadan": 7,
+    "ASC-M-Maxwell Telecoms Nig Ents.": 1,
+    "ASC-M-Carosammy Concept Ltd": 2
+  },
+  "17401837": {
+    "ASC-M-Intaj Dynamic": 1,
+    "ASC-M-Midas Touch Akure": 2,
+    "Benin-MWH": 1
+  },
+  "17401941": {
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "ASRP-T.Comm": 2,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "Carlcare-Port-harcourt": 2,
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "17600853": {
+    "ASC-M-Kraaft Technology & services": 1
+  },
+  "17601334": {
+    "ASC-M-Femtech Information Technology Ltd": 1,
+    "ASC-M-Grand Venadum Resource Limited": 1
+  },
+  "19401350": {
+    "ASC-M-Carosammy Concept Ltd": 1
+  },
+  "21205450": {
+    "ASC-M-Intaj Dynamic": 1
+  },
+  "23002801": {
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
+    "ASRP  Bounovalia Ventures": 1
+  },
+  "25002240": {
+    "ASC-M-Intaj Dynamic": 2
+  },
+  "10305784": {
+    "ASC-M-Smartphone Global Dutse": 1,
+    "ASC-M-MIDAS TOUCH KANO": 4,
+    "ASC-M-Great Mind Telecom Service": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
+    "ASC-M-Kraaft Technology & services": 1
+  },
+  "10314052": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 2,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12202625": {
+    "ASC-M-Midas touch Jos": 1
+  },
+  "12206598": {
+    "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Midas Touch Sokoto": 1,
+    "ASRP  Bounovalia Ventures": 1,
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "12206959": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "Carlcare-Benin": 1,
+    "ASC-M-Ifix Repair Hub": 1,
+    "ASC-M-Midas Touch Akure": 1,
+    "ASC-M-Femtech Offa": 1
+  },
+  "12207211": {
+    "ASRP-SmartPhone Global": 1,
+    "ASC-M-Beecasual Ventures": 2,
+    "ASC-M-Femtech Offa": 1
+  },
+  "17401582": {
+    "ASC-M-Midas touch Jos": 1,
+    "ASC-M-Matga Service": 2
+  },
+  "17601148": {
+    "Carlcare-Ibadan": 3
+  },
+  "19401331": {
+    "ASC-M-Adehero Service": 1,
+    "Carlcare-Ibadan": 1
+  },
+  "10316063": {
+    "Carlcare-CV(Computer Village)": 2
+  },
+  "10317419": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12116433": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "12207187": {
+    "Carlcare-Abuja": 1,
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "ASRP-SmartPhone Global": 1,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Warri": 3,
+    "Carlcare-CV(Computer Village)": 1,
+    "Carlcare-Ibadan": 3,
+    "Benin-MWH": 1
+  },
+  "12707933": {
+    "ASRP-Snappy Fix": 2
+  },
+  "17001429": {
+    "Carlcare-Ibadan": 1,
+    "Carlcare-Lagos Victoria Island(3chub)": 1
+  },
+  "17201883": {
+    "Carlcare-Abuja": 1
+  },
+  "37600754": {
+    "ASC-M-Kraaft Technology & services": 2
+  },
+  "10309918": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "Carlcare-CV(Computer Village)": 2
+  },
   "10316320": {
     "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3,
     "ASC-M-Haslida Concept": 1,
-    "ASC-M-Adehero Service": 1,
-    "ASC-M-Darigo 03 Communication Ltd": 1
+    "ASC-M-Innive Technologies Ikotun": 10,
+    "ASC-M-Darigo 03 Communication Ltd": 1,
+    "ASC-M-Adehero Service": 1
   },
-  "10316390": {
-    "ASC-M-Innive Technologies Ikotun": 3,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "Carlcare-Onitsha": 2,
+  "10319406": {
+    "Carlcare-Lagos Victoria Island(3chub)": 1
+  },
+  "12109609": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "L4 Device Repair": 1
+  },
+  "12114777": {
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "12204988": {
     "Carlcare-Abuja": 4,
-    "ASRP-T.Comm": 1,
-    "ASRP-NEXT CARE LIMITED": 3
+    "Carlcare-Onitsha": 2
+  },
+  "12205363": {
+    "Carlcare-Abuja": 4,
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "Carlcare-Onitsha": 2
+  },
+  "12206625": {
+    "Carlcare-Abuja": 3,
+    "Carlcare-Ibadan": 1,
+    "Carlcare-Lagos Victoria Island(3chub)": 1
+  },
+  "12207930": {
+    "Carlcare-Abuja": 4,
+    "Carlcare-Ibadan": 4
+  },
+  "12708191": {
+    "Carlcare-Abuja": 3,
+    "Benin-MWH": 1
+  },
+  "17401840": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1,
+    "Carlcare-Benin": 3,
+    "ASC-M-Midas Touch Sokoto": 1
+  },
+  "17401939": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
+    "Benin-MWH": 1
+  },
+  "17601310": {
+    "Carlcare-Abuja": 2
+  },
+  "25002231": {
+    "Carlcare-Abuja": 2
+  },
+  "25002632": {
+    "Carlcare-Abuja": 2
+  },
+  "37200397": {
+    "Carlcare-Abuja": 2,
+    "Carlcare-Ibadan": 2
+  },
+  "37600749": {
+    "ASC-M-Kraaft Technology & services": 1
   },
   "10316457": {
     "Carlcare-Lagos Victoria Island(3chub)": 1
   },
-  "10319586": {
-    "ASC-M-Matga Service Oye": 1,
-    "ASRP-SmartPhone Global": 1
+  "10319634": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
+    "Carlcare-Onitsha": 1,
+    "ASC-M-Kraaft Technology & services": 2
   },
-  "10320046": {
-    "ASC-M-Sgv Ict Ltd": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1
-  },
-  "12106986": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 2
+  "10321919": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 6,
+    "Carlcare-Onitsha": 2,
+    "Carlcare-Abuja": 4,
+    "Carlcare-CV(Computer Village)": 1,
+    "ASC-M-Innive Technologies Ikotun": 10
   },
   "12107876": {
     "Carlcare-Ibadan": 4
-  },
-  "12107938": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12110614": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12111938": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1,
-    "ASC-M-Haslida Concept": 1
-  },
-  "12112100": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12112215": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
   },
   "12112775": {
     "Carlcare-Ibadan": 4,
@@ -1601,19 +1651,15 @@
     "Carlcare-Ibadan": 4,
     "Carlcare-Onitsha": 3
   },
-  "12113276": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4,
-    "Benin-MWH": 5
-  },
   "12113345": {
     "Carlcare-Ibadan": 4,
     "Carlcare-Port-harcourt": 4,
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 4
   },
-  "12114908": {
-    "Carlcare-Ibadan": 2
+  "12115189": {
+    "ASC-M-Zikniks Enterprises Limited": 3,
+    "ASC-M-Midas Touch Akure": 2
   },
   "12117572": {
     "Carlcare-Ibadan": 4,
@@ -1629,75 +1675,31 @@
     "Carlcare-Port-harcourt": 1,
     "Carlcare-Onitsha": 4
   },
-  "12205224": {
-    "NGSI03851- ASC-M-Topnotch Tech Hub": 1,
-    "Benin-MWH": 3
-  },
-  "12205401": {
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "12205632": {
-    "ASC-M-Neyo Multi Global Concept": 1,
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "L4 Device Repair": 5
-  },
-  "12205675": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12205676": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
-    "Carlcare-Onitsha": 4
-  },
   "12206123": {
     "Carlcare-Ibadan": 4,
     "Carlcare-Onitsha": 4
-  },
-  "12206202": {
-    "Carlcare-Ibadan": 4,
-    "Benin-MWH": 1,
-    "Carlcare-Benin": 4,
-    "Carlcare-Onitsha": 3
-  },
-  "12206483": {
-    "ASC-M-Yisab Communication Nigeria": 1,
-    "ASC-M-Midas touch Jos": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 2,
-    "Benin-MWH": 1,
-    "Carlcare-CV(Computer Village)": 1
   },
   "12206652": {
     "Carlcare-Ibadan": 3,
     "Carlcare-Onitsha": 1,
     "Benin-MWH": 1
   },
-  "12206752": {
-    "ASC-M-Yisab Communication Nigeria": 1,
-    "ASC-M-Femtech Offa": 1
-  },
   "12207203": {
     "ASC-M-New Moon Unique Link": 1
   },
   "12207374": {
     "Carlcare-Ibadan": 1,
-    "Carlcare-Kano": 3,
     "Carlcare-Port-harcourt": 1
   },
-  "12704036": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
+  "12207739": {
+    "ASC-M-Intaj Dynamic": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 2,
+    "ASC-M-Zikniks Enterprises Limited": 3,
+    "Carlcare-Port-harcourt": 1
   },
   "12705130": {
     "Carlcare-Ibadan": 4,
-    "ASC-M-Femtech Information Technology Ltd": 1,
     "Carlcare-Warri": 4,
-    "Carlcare-Onitsha": 4
-  },
-  "12705813": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Port-harcourt": 4,
     "Carlcare-Onitsha": 4
   },
   "12706238": {
@@ -1707,93 +1709,49 @@
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 4
   },
-  "12706251": {
-    "Carlcare-Ibadan": 4,
-    "Carlcare-Onitsha": 4
-  },
   "12706398": {
     "Carlcare-Ibadan": 4,
     "Carlcare-Port-harcourt": 4,
     "Carlcare-Onitsha": 4,
     "Carlcare-Benin": 2
   },
-  "12706538": {
-    "Carlcare-Ibadan": 4,
-    "Benin-MWH": 1,
-    "Carlcare-Onitsha": 1,
-    "Carlcare-Warri": 4
-  },
-  "12706585": {
-    "Carlcare-Ibadan": 1
-  },
-  "12707002": {
-    "Carlcare-Ibadan": 3
-  },
   "12708292": {
     "Carlcare-Ibadan": 1
   },
-  "17401898": {
-    "ASC-M-New Moon Unique Link": 1,
-    "Benin-MWH": 1
+  "12710276": {
+    "ASC-M-Crescita Global Resources Ltd": 2,
+    "Carlcare-Port-harcourt": 1,
+    "Carlcare-Kano": 4,
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1
   },
-  "17601345": {
-    "ASRP-SmartPhone Global": 2
+  "17201890": {
+    "ASC-M-Matga Service": 1,
+    "ASRP-T.Comm Surulere": 1,
+    "ASC-M-Crescita Global Resources Ltd": 2,
+    "ASC-M-Greenfield Gadgets Solution Aba": 2,
+    "ASC-M-Delinks Matrix Ikorodu": 1
+  },
+  "17201980": {
+    "ASC-M-Matga Service": 1
+  },
+  "17401898": {
+    "ASC-M-New Moon Unique Link": 2,
+    "Benin-MWH": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1
+  },
+  "19501151": {
+    "ASC-M-Matga Service": 1
+  },
+  "19501167": {
+    "ASC-M-Matga Service": 1
   },
   "23002422": {
-    "ASC-M-Midas Touch Sokoto": 1,
-    "Carlcare-Kano": 5
-  },
-  "25002051": {
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "Carlcare-Kano": 15,
-    "Carlcare-Ibadan": 10,
-    "ASC-M-Intaj Dynamic": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 3
-  },
-  "38104469": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 4
-  },
-  "10313262": {
-    "ASC-M-Golden Eagle Technology Limited Festac": 1,
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
-    "ASC-M-Techwitch Ltd.": 1,
-    "Carlcare-CV(Computer Village)": 1,
     "Carlcare-Kano": 10,
-    "ASC-M-G-Care Communication": 2,
-    "ASC-M-Breva Enterprises Limited Lagos": 1,
-    "ASC-M-Femtech Offa": 1,
-    "ASC-M-Ju'Mike Global Telecommunication": 1
+    "ASC-M-Midas Touch Sokoto": 1
   },
-  "10320279": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1
-  },
-  "12205595": {
-    "ASC-M-Yisab Communication Nigeria": 3,
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12206803": {
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "12207147": {
-    "ASC-M-Bluegate Bamboo Mushin-TypeB": 1,
-    "ASC-M-Matga Service": 4
-  },
-  "12703658": {
-    "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "19401470": {
-    "ASC-M-Yisab Communication Nigeria": 3
-  },
-  "23001647": {
-    "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "25002206": {
-    "ASC-M-Yisab Communication Nigeria": 3,
-    "L4 Device Repair": 1
-  },
-  "38105786": {
-    "Carlcare-Ibadan": 2,
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  "10081506": {
+    "Carlcare-Abuja": 1
   },
   "10083755": {
     "Carlcare-Ibadan": 1
@@ -1801,11 +1759,87 @@
   "10084970": {
     "Carlcare-Ibadan": 1
   },
-  "10319819": {
-    "ASC-M-Adehero Service": 1
+  "10087317": {
+    "Carlcare-Abuja": 1,
+    "Carlcare-Kano": 2
   },
-  "10321190": {
-    "ASC-M-Carosammy Concept Ltd": 1
+  "10308844": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 10,
+    "ASC-M-Great Mind Telecom Service": 3,
+    "Carlcare-Benin": 3,
+    "ASC-M-Zikniks Enterprises Limited": 3,
+    "Carlcare-Abuja": 1
+  },
+  "10309655": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5
+  },
+  "10312233": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5
+  },
+  "10312501": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5,
+    "Carlcare-Benin": 1,
+    "ASC-M-Innive Technologies Ikotun": 8
+  },
+  "10312949": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5,
+    "ASC-M-Delinks Matrix Ikorodu": 1
+  },
+  "10313262": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5,
+    "ASC-M-Neyo Multi Global Concept": 1,
+    "Carlcare-Kano": 10,
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
+    "ASC-M-G-Care Communication": 2
+  },
+  "10315413": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 4,
+    "ASC-M-Midas Touch Kaduna": 2,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "10315835": {
+    "Carlcare-Warri": 1,
+    "Carlcare-Kano": 1
+  },
+  "10316623": {
+    "Carlcare-Warri": 1
+  },
+  "10317436": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3
+  },
+  "10319346": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5
+  },
+  "10320104": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 10,
+    "Carlcare-Warri": 3,
+    "Carlcare-Kano": 2,
+    "Carlcare-Benin": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
+    "Carlcare-Abuja": 2
+  },
+  "10320363": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 5
+  },
+  "10323345": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "12103850": {
+    "ASC-M-Sulit Hub": 1
+  },
+  "12106986": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Benin": 4
+  },
+  "12107247": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Ibadan": 1,
+    "Carlcare-Onitsha": 4
+  },
+  "12107938": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
   },
   "12110035": {
     "ASC-M-Maxwell Telecoms Nig Ents.": 1,
@@ -1815,39 +1849,95 @@
     "Carlcare-Port-harcourt": 4,
     "Carlcare-Benin": 4
   },
+  "12110614": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Warri": 4,
+    "Carlcare-Onitsha": 4
+  },
   "12111223": {
     "Carlcare-Port-harcourt": 2,
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 4
   },
-  "12111254": {
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
+  "12112097": {
+    "ASRP-SmartPhone Global": 1,
+    "ASC-M-Beecasual Ventures": 3,
+    "ASC-M-Greenfield Gadgets Solution Aba": 3
   },
-  "12114655": {
-    "Carlcare-Warri": 1,
-    "ASC-M-Intaj Dynamic": 2
+  "12112100": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
   },
-  "12115190": {
-    "Carlcare-Kano": 10,
-    "ASC-M-Don-Yellow Tech": 2,
-    "L4 Device Repair": 4
+  "12112215": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12112499": {
+    "Carlcare-Ibadan": 4,
+    "ASC-M-Haven Buddy Integrated Concept": 3,
+    "Carlcare-Benin": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12113276": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4,
+    "Benin-MWH": 5
+  },
+  "12113341": {
+    "ASC-M-Sulit Hub": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "ASC-M-Midas Touch Akure": 1
+  },
+  "12114794": {
+    "Carlcare-Port-harcourt": 4
+  },
+  "12114908": {
+    "Carlcare-Ibadan": 2
   },
   "12115563": {
     "Carlcare-Ibadan": 2,
-    "ASC-M-Breva Enterprises Limited Lagos": 3,
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Innive Technologies Alaba": 1
+    "ASC-M-MMS Dot Global Ventures Limited": 2
   },
-  "12203349": {
-    "Carlcare-Port-harcourt": 1,
-    "Benin-MWH": 3,
+  "12115742": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Benin": 2,
     "Carlcare-Onitsha": 4
+  },
+  "12116591": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Benin": 2,
+    "Carlcare-Onitsha": 4
+  },
+  "12204578": {
+    "Carlcare-Kano": 1,
+    "L4 Device Repair": 1,
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2
+  },
+  "12204892": {
+    "ASC-M-Midas Touch Sokoto": 1,
+    "Benin-MWH": 3
   },
   "12205412": {
     "Carlcare-Port-harcourt": 3,
     "Carlcare-Onitsha": 4,
     "Carlcare-Abuja": 2
+  },
+  "12205673": {
+    "ASC-M-Darigo 03 Communication Ltd": 2,
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3
+  },
+  "12205675": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12205676": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
   },
   "12205747": {
     "Carlcare-Port-harcourt": 4,
@@ -1857,15 +1947,47 @@
   "12206246": {
     "Carlcare-Ibadan": 1
   },
-  "12206262": {
-    "Carlcare-CV(Computer Village)": 1
+  "12207826": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Onitsha": 4,
+    "Benin-MWH": 9
   },
-  "12207265": {
-    "L4 Device Repair": 5,
-    "ASC-M-Zikniks Enterprises Limited": 1
+  "12207875": {
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Kano": 1,
+    "Carlcare-Benin": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Abuja": 4
+  },
+  "12704036": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12704566": {
+    "ASC-M-MMS Dot Global Ventures Limited": 2
   },
   "12704877": {
     "Carlcare-Port-harcourt": 4
+  },
+  "12705140": {
+    "ASC-M-Midas touch Jos": 1,
+    "Benin-MWH": 1
+  },
+  "12705813": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Port-harcourt": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12706251": {
+    "Carlcare-Ibadan": 4,
+    "Carlcare-Onitsha": 4
+  },
+  "12706585": {
+    "Carlcare-Ibadan": 1
+  },
+  "12707002": {
+    "Carlcare-Ibadan": 3
   },
   "12707017": {
     "Carlcare-Port-harcourt": 2
@@ -1873,396 +1995,12 @@
   "12707849": {
     "Carlcare-Port-harcourt": 3
   },
-  "12709932": {
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 2
-  },
-  "17001466": {
-    "ASRP-SmartPhone Global": 1
-  },
-  "17001468": {
-    "Carlcare-Ibadan": 7,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 2,
-    "ASC-M-Midas Touch Sokoto": 1,
-    "ASC-M-Carosammy Concept Ltd": 2
-  },
-  "17401863": {
-    "Carlcare-Kano": 10,
-    "ASRP-SmartPhone Global": 5,
-    "ASC-M-Maxwell Telecoms Nig Ents.": 5,
-    "ASC-M-Matga Service": 10,
-    "ASC-M-Triple Sea Integrated Services Ltd": 3
-  },
-  "17601334": {
-    "ASC-M-Grand Venadum Resource Limited": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "19501149": {
-    "ASC-M-Greenfield Gadgets Solution Nsukka": 1,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "25002226": {
-    "Carlcare-Ibadan": 2
-  },
-  "25002336": {
-    "Carlcare-Ibadan": 2
-  },
-  "37600681": {
-    "Carlcare-Ibadan": 2
-  },
-  "10320078": {
-    "ASC-M-Midas Touch Sokoto": 1,
-    "ASC-M-G-Care Communication": 1,
-    "ASRP-T.Comm": 1,
-    "ASC-M-Don-Yellow Tech": 2,
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "12025444": {
-    "Carlcare-Kano": 1
-  },
-  "12033020": {
-    "Carlcare-Kano": 1
-  },
-  "12039461": {
-    "Carlcare-Kano": 1
-  },
-  "12040460": {
-    "Carlcare-Kano": 1
-  },
-  "12040935": {
-    "Carlcare-Kano": 1
-  },
-  "12041227": {
-    "Carlcare-Kano": 1
-  },
-  "12041531": {
-    "Carlcare-Kano": 1
-  },
-  "12041599": {
-    "Carlcare-Kano": 1
-  },
-  "12043263": {
-    "ASC-M-Innive Technologies Ikotun": 1
-  },
-  "12109174": {
-    "Benin-MWH": 1
-  },
-  "12112211": {
-    "Benin-MWH": 1
-  },
-  "12112750": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1
-  },
-  "12113226": {
-    "ASC-M-Kraaft Technology & services": 1,
-    "Carlcare-Onitsha": 2,
-    "Benin-MWH": 1
-  },
-  "12114257": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1,
-    "Benin-MWH": 1,
-    "Carlcare-Onitsha": 1,
-    "ASC-M-Intaj Dynamic": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12114749": {
-    "Carlcare-Onitsha": 15,
-    "ASC-M-Tonijam Nig.Ltd": 1,
-    "ASC-M-Midas Touch Akure": 1,
-    "L4 Device Repair": 9
-  },
-  "12115623": {
-    "Carlcare-Onitsha": 3,
-    "Benin-MWH": 1
-  },
-  "12116835": {
-    "Carlcare-Onitsha": 10
-  },
-  "12202625": {
-    "ASC-M-Midas touch Jos": 1
-  },
-  "12204871": {
-    "Carlcare-Onitsha": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Matga Service": 10,
-    "ASC-M-Triple Sea Integrated Services Ltd": 2
-  },
-  "12205069": {
-    "Benin-MWH": 1
-  },
-  "12206403": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1
-  },
-  "12207211": {
-    "ASRP-SmartPhone Global": 1,
-    "ASC-M-Beecasual Ventures": 2,
-    "ASC-M-Femtech Offa": 1
-  },
-  "12701164": {
-    "Benin-MWH": 1
-  },
-  "12704038": {
-    "Benin-MWH": 2
-  },
-  "12705965": {
-    "Benin-MWH": 1
-  },
-  "12706535": {
-    "Benin-MWH": 1
-  },
-  "12708519": {
-    "Benin-MWH": 1,
-    "Carlcare-Port-harcourt": 1
-  },
-  "12708770": {
-    "Benin-MWH": 1
-  },
-  "12709130": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 2,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Neyo Multi Global Concept": 12,
-    "ASC-M-Breva Enterprises Limited Ilorin": 1
-  },
-  "17401582": {
-    "ASC-M-Midas touch Jos": 1,
-    "ASC-M-Matga Service": 2
-  },
-  "17600853": {
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "19401331": {
-    "ASC-M-Adehero Service": 1,
+  "12708668": {
     "Carlcare-Ibadan": 1
   },
-  "19401383": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1
-  },
-  "23001889": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
-    "L4 Device Repair": 2
-  },
-  "25002283": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1
-  },
-  "38104502": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1
-  },
-  "10092615": {
-    "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "10313182": {
-    "Carlcare-CV(Computer Village)": 3
-  },
-  "10316063": {
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10316623": {
-    "ASC-M-Innive Technologies Alaba": 1,
-    "Carlcare-Warri": 1
-  },
-  "10317419": {
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10317594": {
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "ASC-M-Ju'Mike Global Telecommunication": 3,
-    "ASC-M-Breva Enterprises Limited Lagos": 3,
-    "ASC-M-Don-Yellow Tech": 1
-  },
-  "10319406": {
-    "Carlcare-Lagos Victoria Island(3chub)": 1
-  },
-  "12112301": {
-    "Carlcare-Lagos Victoria Island(3chub)": 3,
-    "ASC-M-Matga Service": 5
-  },
-  "12114777": {
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "12116433": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1
-  },
-  "12206584": {
-    "Carlcare-Kano": 30,
-    "ASC-M-Matga Service": 10,
-    "ASC-M-MMS Dot Global Ventures Limited": 1,
-    "ASC-M-Midas Touch Akure": 2
-  },
-  "12207190": {
-    "Carlcare-Benin": 2,
-    "Benin-MWH": 1,
-    "Carlcare-Kano": 3,
-    "Carlcare-Onitsha": 1,
-    "Carlcare-Warri": 2,
-    "ASC-M-Femtech Offa": 1
-  },
-  "12207272": {
-    "Carlcare-Benin": 1,
-    "Benin-MWH": 2
-  },
-  "12708191": {
-    "Carlcare-Abuja": 3,
-    "Benin-MWH": 1
-  },
-  "12709174": {
-    "Carlcare-Benin": 2,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Crescita Global Resources Ltd": 2
-  },
-  "12709328": {
-    "Carlcare-Benin": 2
-  },
-  "17001467": {
-    "ASC-M-Midas Touch Kaduna": 1
-  },
-  "17401941": {
-    "ASRP-T.Comm": 2,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "Carlcare-Port-harcourt": 2,
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "17600929": {
-    "Carlcare-Kano": 3
-  },
-  "17601286": {
-    "Carlcare-Kano": 3,
-    "ASC-M-Don-Yellow Tech": 2
-  },
-  "17601310": {
-    "Carlcare-Abuja": 2,
-    "ASC-M-Next Care Bariga": 2
-  },
-  "25001577": {
-    "Carlcare-Lagos Victoria Island(3chub)": 1,
-    "L4 Device Repair": 3
-  },
-  "25002231": {
-    "Carlcare-Abuja": 2
-  },
-  "25002432": {
-    "ASRP-T.Comm": 2,
-    "L4 Device Repair": 4
-  },
-  "25002632": {
-    "Carlcare-Abuja": 2
-  },
-  "25002865": {
-    "Carlcare-Kano": 3,
-    "ASRP-SmartPhone Global": 2
-  },
-  "37200397": {
-    "Carlcare-Abuja": 2,
-    "Carlcare-Ibadan": 2
-  },
-  "10319634": {
-    "ASRP-Ajele Communication(Yaba Tech)": 1,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1,
-    "ASRP  Bounovalia Ventures": 1,
-    "Carlcare-Onitsha": 1,
-    "ASC-M-Femtech Offa": 1,
-    "ASC-M-Don-Yellow Tech": 1,
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "10322915": {
-    "ASRP-Ajele Communication(Yaba Tech)": 1,
-    "ASC-M-G-Care Communication": 1,
-    "Carlcare-Lagos Victoria Island(3chub)": 1,
-    "ASC-M-Midas Touch Lagos": 1
-  },
-  "12116233": {
-    "ASC-M-Breva Enterprises Limited Lagos": 3,
-    "ASC-M-Midas touch Jos": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASRP-T.Comm": 1
-  },
-  "12116497": {
-    "Carlcare-Kano": 3
-  },
-  "12704566": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2
-  },
-  "12708463": {
-    "ASC-M-Tonijam Nig.Ltd": 1
-  },
-  "12709889": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "ASC-M-Great Mind Telecom Service": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 3,
-    "Benin-MWH": 2
-  },
-  "12710276": {
-    "ASC-M-Crescita Global Resources Ltd": 2,
-    "ASC-M-Zikniks Enterprises Limited": 1,
-    "Carlcare-Kano": 4,
-    "ASC-M-Midas Touch Kaduna": 1,
-    "ASC-M-Ifix Repair Hub": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Greenfield Gadgets Solution Enugu": 1
-  },
-  "17001457": {
-    "Carlcare-Port-harcourt": 1,
-    "Carlcare-Abuja": 1,
-    "ASC-M-Haslida Concept": 2
-  },
-  "17001481": {
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Kraaft Technology & services": 1,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
-  },
-  "19401068": {
-    "ASC-M-Monday Mega Enterprise": 1,
-    "ASRP-Kal care Service": 1
-  },
-  "23002804": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2
-  },
-  "25002389": {
-    "ASC-M-Breva Enterprises Limited Lagos": 4,
-    "Carlcare-Onitsha": 1
-  },
-  "10081506": {
-    "Carlcare-Abuja": 1
-  },
-  "10087317": {
-    "Carlcare-Abuja": 1
-  },
-  "12204578": {
-    "Carlcare-Kano": 1,
-    "L4 Device Repair": 1,
-    "Carlcare-Ibadan": 2
-  },
-  "12205673": {
-    "ASC-M-Darigo 03 Communication Ltd": 2,
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 2
-  },
-  "12207158": {
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1
-  },
-  "12207187": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1,
-    "Carlcare-Kano": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "Benin-MWH": 1
-  },
-  "12705140": {
-    "ASC-M-Midas touch Jos": 1,
-    "Benin-MWH": 1
-  },
-  "12708781": {
-    "ASC-M-New Moon Unique Link": 1,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "12709338": {
+  "12709379": {
     "ASC-M-Midas Touch Sokoto": 1,
-    "ASC-M-Adehero Service": 1
-  },
-  "12709899": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1
+    "ASC-M-Breva Enterprises Limited Ilorin": 2
   },
   "12710281": {
     "ASC-M-Zikniks Enterprises Limited": 1,
@@ -2275,70 +2013,136 @@
   "17201941": {
     "NGSI03851- ASC-M-Topnotch Tech Hub": 1
   },
-  "17401840": {
-    "ASC-M-Midas Touch Sokoto": 1
+  "17401861": {
+    "Carlcare-Ibadan": 1
   },
-  "19401456": {
-    "Carlcare-Onitsha": 2,
-    "ASC-M-MMS Dot Global Ventures Limited": 1
+  "23002447": {
+    "Carlcare-Ibadan": 1,
+    "L4 Device Repair": 1
   },
-  "23002659": {
-    "ASC-M-Crescita Global Resources Ltd": 4
+  "23002804": {
+    "ASC-M-MMS Dot Global Ventures Limited": 2,
+    "ASC-M-K.Divine Technology Limited": 1,
+    "ASC-M-Adehero Service": 1
+  },
+  "25001255": {
+    "Carlcare-Ibadan": 5,
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "Carlcare-Port-harcourt": 3,
+    "ASC-M-Greenfield Gadgets Solution Orlu": 3
+  },
+  "25002226": {
+    "Carlcare-Ibadan": 2
+  },
+  "25002336": {
+    "Carlcare-Ibadan": 2
   },
   "25002767": {
     "NGSI03851- ASC-M-Topnotch Tech Hub": 1
   },
+  "37600681": {
+    "Carlcare-Ibadan": 2
+  },
   "10086026": {
     "Carlcare-Ibadan": 1
   },
-  "10315835": {
-    "Carlcare-Warri": 1,
-    "Carlcare-Kano": 1
+  "10308692": {
+    "ASC-M-Midas Touch Kaduna": 1,
+    "Carlcare-Onitsha": 1
   },
-  "10316569": {
-    "Carlcare-Abuja": 1,
-    "Carlcare-Port-harcourt": 1,
-    "Carlcare-CV(Computer Village)": 1
+  "10312255": {
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1
   },
-  "10317674": {
-    "ASC-M-Techwitch Ltd.": 1,
-    "ASC-M-Kraaft Technology & services": 2,
-    "Carlcare-CV(Computer Village)": 5,
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1
+  "10316617": {
+    "Carlcare-Port-harcourt": 1
   },
   "10318928": {
     "ASC-M-Greenfield Gadgets Solution Calabar": 1,
     "Carlcare-Abuja": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1,
     "Carlcare-CV(Computer Village)": 1
   },
-  "10319337": {
-    "Carlcare-Warri": 1,
-    "Carlcare-Benin": 2,
-    "Carlcare-Abuja": 1,
-    "Carlcare-CV(Computer Village)": 5,
-    "ASC-M-Adehero Service": 1
+  "10319964": {
+    "Carlcare-Port-harcourt": 1
   },
-  "10320026": {
-    "ASC-M-Techwitch Ltd.": 1,
+  "10320528": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "10321190": {
     "ASC-M-Carosammy Concept Ltd": 1
   },
   "12108639": {
     "ASC-M-MMS Dot Global Ventures Limited": 1,
     "L4 Device Repair": 1
   },
-  "12111020": {
-    "Carlcare-Benin": 2
+  "12110861": {
+    "ASC-M-Beecasual Ventures": 3,
+    "ASC-M-Midas Touch Akure": 2,
+    "L4 Device Repair": 2
   },
-  "12113341": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Jenzabar Limited": 1,
+  "12111784": {
+    "ASC-M-Beecasual Ventures": 3,
+    "L4 Device Repair": 7
+  },
+  "12111939": {
+    "ASC-M-Breva Enterprises Limited Lagos": 1
+  },
+  "12112301": {
+    "ASC-M-Matga Service": 5
+  },
+  "12113226": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "Carlcare-Onitsha": 2,
+    "Benin-MWH": 1
+  },
+  "12114749": {
+    "Carlcare-Onitsha": 15,
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "ASC-M-Beecasual Ventures": 4,
+    "ASC-M-Midas Touch Akure": 1,
+    "L4 Device Repair": 9
+  },
+  "12116835": {
+    "Carlcare-Onitsha": 10
+  },
+  "12203686": {
+    "ASC-M-Matga Service": 1,
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "12205349": {
+    "ASC-M-Matga Service": 3,
     "ASC-M-Midas Touch Akure": 1
+  },
+  "12206052": {
+    "ASC-M-Matga Service": 2
   },
   "12206376": {
     "ASC-M-MMS Dot Global Ventures Limited": 2,
     "ASC-M-Monday Mega Enterprise": 1
+  },
+  "12206478": {
+    "ASC-M-Matga Service": 4,
+    "ASC-M-Haven Buddy Integrated Concept": 5,
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "ASC-M-Triple Sea Integrated Services Ltd": 2,
+    "Carlcare-Warri": 3,
+    "Carlcare-Benin": 3,
+    "Carlcare-Kano": 5,
+    "Benin-MWH": 3
+  },
+  "12206485": {
+    "ASC-M-Matga Service": 4,
+    "Benin-MWH": 4,
+    "ASRP-SmartPhone Global": 2,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1
+  },
+  "12206584": {
+    "ASC-M-Matga Service": 10,
+    "Carlcare-Kano": 10,
+    "ASC-M-MMS Dot Global Ventures Limited": 1,
+    "ASC-M-Midas Touch Akure": 2,
+    "ASC-M-Adehero Service": 1
   },
   "12206587": {
     "ASC-M-MMS Dot Global Ventures Limited": 4,
@@ -2348,120 +2152,11 @@
     "ASC-M-MMS Dot Global Ventures Limited": 1,
     "Benin-MWH": 2
   },
+  "12707188": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  },
   "12707715": {
     "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "17001156": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2
-  },
-  "17201982": {
-    "ASC-M-New Moon Unique Link": 1
-  },
-  "23002358": {
-    "NGSI03851- ASC-M-Topnotch Tech Hub": 1
-  },
-  "25001262": {
-    "Carlcare-Port-harcourt": 2
-  },
-  "10308692": {
-    "ASC-M-Midas Touch Kaduna": 1,
-    "Carlcare-Onitsha": 1
-  },
-  "10312182": {
-    "ASRP  Bounovalia Ventures": 3,
-    "Carlcare-Kano": 2
-  },
-  "10316617": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "10319964": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "10320227": {
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-G-Care Communication": 1
-  },
-  "10320528": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "12104178": {
-    "ASC-M-Femtech Offa": 1
-  },
-  "12107705": {
-    "ASRP-3chub-Shoddy Tech": 1,
-    "Carlcare-Abuja": 2
-  },
-  "12110861": {
-    "ASC-M-Beecasual Ventures": 3,
-    "L4 Device Repair": 2,
-    "ASC-M-Neyo Multi Global Concept": 1
-  },
-  "12111784": {
-    "ASC-M-Beecasual Ventures": 3,
-    "L4 Device Repair": 7
-  },
-  "12112165": {
-    "ASC-M-Breva Enterprises Limited Lagos": 2,
-    "ASC-M-Femtech Offa": 1
-  },
-  "12203686": {
-    "ASC-M-Matga Service": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "12203793": {
-    "ASRP-3chub-Shoddy Tech": 1
-  },
-  "12204714": {
-    "ASC-M-Matga Service": 3,
-    "ASC-M-Femtech Information Technology Ltd": 4,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Neyo Multi Global Concept": 1,
-    "ASC-M-Device Hub Limited": 1
-  },
-  "12206052": {
-    "ASC-M-Matga Service": 2
-  },
-  "12206478": {
-    "ASC-M-Matga Service": 4,
-    "ASC-M-Haven Buddy Integrated Concept": 5,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3,
-    "ASC-M-Triple Sea Integrated Services Ltd": 2,
-    "Carlcare-Benin": 3,
-    "Carlcare-Kano": 10,
-    "Benin-MWH": 3
-  },
-  "12206485": {
-    "ASC-M-Matga Service": 4,
-    "Benin-MWH": 4,
-    "ASRP-SmartPhone Global": 2
-  },
-  "12206664": {
-    "ASRP-3chub-Shoddy Tech": 1
-  },
-  "12207739": {
-    "ASC-M-MMS Dot Global Ventures Limited": 2,
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 2,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "ASC-M-Zikniks Enterprises Limited": 3,
-    "Carlcare-Port-harcourt": 1
-  },
-  "12704565": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "12705336": {
-    "ASC-M-MMS Dot Global Ventures Limited": 4,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 2,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Midas Touch Akure": 3,
-    "ASC-M-Femtech Offa": 2,
-    "Benin-MWH": 3
   },
   "12707998": {
     "ASC-M-Matga Service": 3,
@@ -2469,6 +2164,8 @@
   },
   "12708239": {
     "ASC-M-Matga Service": 3,
+    "Carlcare-Benin": 10,
+    "ASC-M-Beecasual Ventures": 3,
     "ASC-M-Femtech Offa": 2,
     "Benin-MWH": 2
   },
@@ -2478,17 +2175,40 @@
   "12709107": {
     "ASC-M-Greenfield Gadgets Solution Calabar": 1,
     "ASC-M-Zikniks Enterprises Maiduguri": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-Neyo Multi Global Concept": 10
+    "ASC-M-Neyo Multi Global Concept": 10,
+    "ASC-M-Haven Buddy Integrated Concept": 11
   },
-  "12709908": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
+  "12710180": {
+    "ASC-M-Beecasual Ventures": 2
   },
   "12710203": {
     "ASC-M-Matga Service": 10,
-    "ASC-M-Breva Enterprises Limited Ilorin": 2,
     "Benin-MWH": 1,
     "Carlcare-Onitsha": 1,
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "17001156": {
+    "ASC-M-MMS Dot Global Ventures Limited": 2
+  },
+  "17001461": {
+    "ASC-M-MMS Dot Global Ventures Limited": 4,
+    "ASC-M-Greenfield Gadgets Solution Aba": 5,
+    "ASRP-T.Comm": 3,
+    "ASC-M-Don-Yellow Tech": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1
+  },
+  "17201831": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 1
+  },
+  "17201981": {
+    "Carlcare-Ibadan": 6
+  },
+  "17401796": {
+    "ASC-M-Matga Service": 5,
+    "ASC-M-Intaj Dynamic": 1,
+    "Benin-MWH": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 2,
+    "Carlcare-Port-harcourt": 1,
     "ASC-M-Ifix Repair Hub": 1
   },
   "17401964": {
@@ -2501,35 +2221,33 @@
   "17601385": {
     "ASC-M-Zikniks Enterprises Maiduguri": 2
   },
+  "23001889": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "L4 Device Repair": 2
+  },
   "23002673": {
     "ASC-M-Kraaft Technology & services": 1
   },
   "25001469": {
-    "ASC-M-Matga Service": 1
+    "ASC-M-Matga Service": 1,
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
   },
-  "25002391": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1
+  "25002283": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
   },
-  "37300825": {
-    "ASRP-3chub-Shoddy Tech": 1
-  },
-  "38000015": {
-    "ASRP-3chub-Shoddy Tech": 1
-  },
-  "38100732": {
-    "ASRP-3chub-Shoddy Tech": 1
+  "37600646": {
+    "ASRP-T.Comm": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 2
   },
   "38103766": {
     "Carlcare-Kano": 2,
     "ASC-M-Midas touch Jos": 2
   },
-  "38103997": {
-    "ASRP-3chub-Shoddy Tech": 1,
-    "L4 Device Repair": 3
-  },
   "38104001": {
-    "Carlcare-Kano": 1,
-    "ASC-M-Midas Touch Kaduna": 2
+    "Carlcare-Kano": 1
+  },
+  "38104502": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
   },
   "38104545": {
     "Carlcare-Kano": 2,
@@ -2539,78 +2257,169 @@
     "ASC-M-Matga Service": 2,
     "L4 Device Repair": 1
   },
-  "38105101": {
-    "ASRP-3chub-Shoddy Tech": 1
-  },
   "38106140": {
     "ASC-M-Matga Service": 1,
     "ASC-M-Adehero Service": 2
   },
-  "12113395": {
-    "ASRP-Kal care Service": 1
+  "10318910": {
+    "ASC-M-Haslida Concept": 1
+  },
+  "12207190": {
+    "Carlcare-Benin": 2,
+    "Benin-MWH": 1,
+    "Carlcare-Onitsha": 1,
+    "ASC-M-Femtech Offa": 1
+  },
+  "12207272": {
+    "Carlcare-Benin": 1,
+    "Benin-MWH": 2,
+    "Niger-MWH": 1
+  },
+  "12709174": {
+    "Carlcare-Benin": 2,
+    "ASC-M-Crescita Global Resources Ltd": 2
+  },
+  "12709328": {
+    "Carlcare-Benin": 5
+  },
+  "25002432": {
+    "ASRP-T.Comm": 2,
+    "L4 Device Repair": 4
+  },
+  "10092615": {
+    "ASC-M-Crescita Global Resources Ltd": 1
   },
   "10303798": {
     "ASRP-Kal care Service": 1
   },
-  "10311752": {
-    "ASC-M-Sixth Sixth Technologies": 1,
-    "ASC-M-Tonijam Nig.Ltd": 1,
-    "ASC-M-Midas Touch Akure": 1
+  "10306990": {
+    "ASC-M-Femtech Offa": 2,
+    "ASC-M-Visco communication ltd": 1,
+    "Carlcare-CV(Computer Village)": 3
   },
-  "10320364": {
-    "Carlcare-CV(Computer Village)": 1
+  "10317586": {
+    "Carlcare-Benin": 1,
+    "Carlcare-Kano": 4,
+    "Carlcare-Onitsha": 2,
+    "Carlcare-Abuja": 5,
+    "Carlcare-CV(Computer Village)": 5
   },
-  "10323401": {
-    "Carlcare-CV(Computer Village)": 1
+  "10320262": {
+    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
+    "Carlcare-Port-harcourt": 1
   },
-  "12110294": {
-    "ASC-M-Midas touch Jos": 2,
-    "L4 Device Repair": 2
+  "12102114": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  },
+  "12107705": {
+    "Carlcare-Abuja": 2,
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "12112555": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2,
+    "Carlcare-Port-harcourt": 1
   },
   "12113794": {
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "ASC-M-Breva Enterprises Limited Lagos": 1
+    "ASC-M-Carosammy Concept Ltd": 1
   },
-  "12116303": {
-    "Carlcare-CV(Computer Village)": 1
+  "12115165": {
+    "ASC-M-Zikniks Enterprises Limited": 1
   },
-  "12204252": {
-    "Carlcare-Abuja": 1
+  "12115602": {
+    "ASC-M-Zikniks Enterprises Limited": 1
+  },
+  "12116233": {
+    "Carlcare-Ibadan": 1,
+    "ASC-M-Midas touch Jos": 1
+  },
+  "12204371": {
+    "ASC-M-Midas touch Jos": 1
+  },
+  "12205288": {
+    "ASC-M-Matga Service": 1,
+    "Carlcare-Onitsha": 4,
+    "Benin-MWH": 2,
+    "Carlcare-Ibadan": 2,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Benin": 3,
+    "ASC-M-Femtech Offa": 2
   },
   "12205839": {
     "Carlcare-Ibadan": 1
   },
-  "12206186": {
-    "ASC-M-Kraaft Technology & services": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 1
+  "12206050": {
+    "ASC-M-Matga Service": 1
   },
-  "12206625": {
+  "12206467": {
+    "ASC-M-Great Mind Telecom Service": 1,
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Warri": 3,
+    "ASC-M-Midas Touch Akure": 2,
+    "Benin-MWH": 1
+  },
+  "12206532": {
+    "Carlcare-Ibadan": 2,
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-Neyo Multi Global Concept": 1
+  },
+  "12207557": {
+    "Carlcare-Benin": 2
+  },
+  "12207565": {
+    "Carlcare-Benin": 2
+  },
+  "12708145": {
+    "ASC-M-Alams Tech Global": 1
+  },
+  "12708463": {
+    "ASC-M-Tonijam Nig.Ltd": 1
+  },
+  "12709130": {
+    "ASC-M-Neyo Multi Global Concept": 13,
+    "ASC-M-Breva Enterprises Limited Ilorin": 1
+  },
+  "12709661": {
+    "ASC-M-Midas Touch Kaduna": 1,
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "12709889": {
+    "ASC-M-Great Mind Telecom Service": 1,
+    "ASC-M-Greenfield Gadgets Solution Aba": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 3,
+    "Benin-MWH": 2
+  },
+  "17001457": {
     "Carlcare-Abuja": 1,
-    "Carlcare-Ibadan": 1,
+    "ASC-M-Breva Enterprises Limited Lagos": 1,
+    "Carlcare-Onitsha": 1,
+    "ASC-M-Haslida Concept": 2
+  },
+  "17001460": {
+    "ASC-M-Midas Touch Kaduna": 2,
+    "ASC-M-Carosammy Concept Ltd": 2
+  },
+  "17201833": {
+    "ASC-M-Midas Touch Kaduna": 1
+  },
+  "17401852": {
+    "Carlcare-Benin": 1
+  },
+  "17600929": {
     "Carlcare-Kano": 3
   },
-  "12207439": {
-    "ASC-M-Crescita Global Resources Ltd": 1,
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "Benin-MWH": 1,
-    "Carlcare-Port-harcourt": 2,
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  "17601195": {
+    "ASC-M-Midas Touch Kaduna": 1
   },
-  "12707906": {
-    "Carlcare-Abuja": 1
+  "17601286": {
+    "Carlcare-Kano": 3,
+    "ASC-M-Don-Yellow Tech": 3
   },
-  "12710213": {
-    "ASRP-T.Comm": 3
-  },
-  "17201908": {
-    "ASC-M-Midas touch Jos": 1
-  },
-  "17401604": {
-    "ASC-M-Next Care Bariga": 1
-  },
-  "19401443": {
-    "ASRP-T.Comm": 2
+  "19401068": {
+    "ASC-M-Monday Mega Enterprise": 1,
+    "ASRP-Kal care Service": 1
   },
   "21204833": {
     "Carlcare-Onitsha": 1
@@ -2621,43 +2430,37 @@
   "21205527": {
     "Carlcare-Onitsha": 1
   },
-  "23002500": {
-    "ASC-M-Midas Touch Lagos": 1,
-    "L4 Device Repair": 1
-  },
   "25001576": {
     "ASC-M-Intaj Dynamic": 2
   },
-  "25001724": {
-    "ASC-M-Next Care Bariga": 1
+  "25002727": {
+    "Carlcare-Ibadan": 1,
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "ASC-M-Midas Touch Akure": 1
   },
-  "38000009": {
-    "ASC-M-Midas touch Jos": 1
+  "25002865": {
+    "Carlcare-Kano": 3,
+    "ASRP-SmartPhone Global": 2
   },
-  "38105599": {
-    "Carlcare-CV(Computer Village)": 1
+  "37300329": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "38101926": {
+    "Carlcare-Benin": 2
+  },
+  "38103248": {
+    "ASC-M-Midas Touch Kaduna": 1
   },
   "38106119": {
     "ASC-M-New Moon Unique Link": 2
   },
-  "38700059": {
-    "ASC-M-Greenfield Gadgets Solution Calabar": 1
+  "10312182": {
+    "Carlcare-Kano": 2
   },
-  "10308844": {
-    "ASC-M-Great Mind Telecom Service": 3,
-    "ASC-M-Zikniks Enterprises Limited": 3,
-    "Carlcare-Benin": 3,
-    "Carlcare-Abuja": 1
-  },
-  "10310006": {
-    "ASC-M-Innive Technologies (Itel Homes)": 1,
-    "Carlcare-Abuja": 2,
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10310294": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "Carlcare-CV(Computer Village)": 2,
-    "ASC-M-Delink Matrix Lakowe": 1
+  "10312584": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 2
   },
   "10312981": {
     "ASC-M-Great Mind Telecom Service": 1
@@ -2666,82 +2469,31 @@
     "Carlcare-Kano": 1
   },
   "10316322": {
-    "Carlcare-Kano": 1,
-    "ASC-M-Ustaz Exclusive Stores": 3
+    "Carlcare-Kano": 1
   },
-  "10317111": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "10317586": {
-    "Carlcare-Kano": 4,
+  "10316390": {
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1,
     "Carlcare-Onitsha": 2,
-    "Carlcare-Abuja": 5,
-    "Carlcare-CV(Computer Village)": 5
+    "Carlcare-Abuja": 4
   },
-  "10319985": {
-    "ASC-M-Innive Technologies (Itel Homes)": 1,
-    "Carlcare-Lagos Victoria Island(3chub)": 2,
-    "ASC-M-Delinks Matrix Ikorodu": 2,
-    "ASC-M-Midas Touch Lagos": 1,
-    "Carlcare-CV(Computer Village)": 3
+  "10316569": {
+    "Carlcare-Abuja": 1,
+    "Carlcare-Port-harcourt": 1
   },
-  "12115165": {
-    "ASC-M-Zikniks Enterprises Limited": 2
-  },
-  "12115602": {
-    "ASC-M-Zikniks Enterprises Limited": 1
-  },
-  "12205083": {
-    "ASC-M-Midas Touch Kaduna": 1
-  },
-  "12205712": {
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "Carlcare-Ibadan": 2
-  },
-  "12205869": {
-    "ASC-M-Haven Buddy Integrated Concept": 1
-  },
-  "12206029": {
-    "ASC-M-Haven Buddy Integrated Concept": 1
-  },
-  "12206484": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
-  },
-  "12206491": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+  "10317503": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 2,
+    "Carlcare-Benin": 1,
     "ASC-M-Yisab Communication Nigeria": 1,
-    "Carlcare-Abuja": 1
+    "ASC-M-Haven Buddy Integrated Concept": 1
   },
-  "12707206": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
+  "10317674": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1,
+    "ASC-M-Kraaft Technology & services": 2,
+    "Carlcare-CV(Computer Village)": 5,
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
   },
-  "17001447": {
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "17601341": {
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "ASC-M-MMS Dot Global Ventures Limited": 3
-  },
-  "23002674": {
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "25001492": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1
-  },
-  "25002455": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Midas Touch Kaduna": 1,
-    "Carlcare-CV(Computer Village)": 1,
-    "Carlcare-Kano": 5,
-    "ASC-M-Haslida Concept": 1
-  },
-  "37200516": {
-    "ASC-M-Carosammy Concept Ltd": 1,
-    "L4 Device Repair": 3
-  },
-  "37600760": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
+  "10320026": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
   },
   "12107827": {
     "Benin-MWH": 1
@@ -2753,57 +2505,75 @@
     "ASC-M-Greenfield Gadgets Solution Aba": 2,
     "L4 Device Repair": 2
   },
-  "12109863": {
-    "Carlcare-CV(Computer Village)": 2
-  },
-  "12111220": {
-    "ASC-M-Femtech Information Technology Ltd": 1
+  "12109595": {
+    "ASC-M-Ifix Repair Hub": 1
   },
   "12111315": {
     "Benin-MWH": 1
   },
-  "12112269": {
-    "ASC-M-Intaj Dynamic": 3
+  "12114257": {
+    "Carlcare-Onitsha": 2,
+    "Benin-MWH": 1
   },
   "12115540": {
     "Benin-MWH": 1
   },
+  "12116303": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2
+  },
   "12116444": {
     "Benin-MWH": 1
   },
-  "12204892": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "Benin-MWH": 3
+  "12203321": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12205182": {
+    "Carlcare-Onitsha": 1,
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 3
   },
   "12205606": {
-    "Benin-MWH": 3,
-    "Carlcare-CV(Computer Village)": 1
+    "Benin-MWH": 3
+  },
+  "12205712": {
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "Carlcare-Ibadan": 2
+  },
+  "12205770": {
+    "ASC-M-Jenzabar Limited": 1,
+    "ASC-M-Haslida Concept": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2,
+    "ASC-M-Midas Touch Akure": 2,
+    "Benin-MWH": 1
+  },
+  "12205825": {
+    "ASC-M-Kraaft Technology & services": 2,
+    "Carlcare-Port-harcourt": 1
   },
   "12205842": {
     "ASC-M-Smartphone Global Dutse": 1
   },
+  "12205869": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "12206029": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
   "12206190": {
     "ASC-M-Greenfield Gadgets Solution Aba": 2
   },
-  "12207155": {
-    "ASC-M-Delinks Matrix Ikorodu": 1
+  "12206484": {
+    "ASC-M-Haven Buddy Integrated Concept": 2,
+    "ASC-M-Beecasual Ventures": 3
   },
-  "12207170": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "ASC-M-Next Care Sabo": 1
+  "12206491": {
+    "ASC-M-Zikniks Enterprises Maiduguri": 1,
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "Carlcare-Abuja": 1
   },
-  "12207504": {
-    "ASC-M-Femtech Information Technology Ltd": 3,
-    "ASRP-KD distribution & service": 1,
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "12704177": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "12705622": {
-    "ASC-M-Intaj Dynamic": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1
+  "12207801": {
+    "Carlcare-Abuja": 2,
+    "ASC-M-Haslida Concept": 1
   },
   "12705880": {
     "Benin-MWH": 2
@@ -2811,155 +2581,201 @@
   "12706304": {
     "Benin-MWH": 1
   },
+  "12707206": {
+    "ASC-M-Haven Buddy Integrated Concept": 2
+  },
+  "12707706": {
+    "Carlcare-Onitsha": 1
+  },
   "12708312": {
     "Benin-MWH": 1
   },
   "12708952": {
-    "Benin-MWH": 1
-  },
-  "12709010": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1
+    "Benin-MWH": 1,
+    "Carlcare-CV(Computer Village)": 2
   },
   "12709141": {
     "ASC-M-Greenfield Gadgets Solution Aba": 2
   },
-  "17401790": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "Benin-MWH": 2,
-    "ASC-M-Haven Buddy Integrated Concept": 2
+  "12709332": {
+    "ASC-M-Olumajek IT Continental Mowe": 1,
+    "ASC-M-Don-Yellow Tech": 1,
+    "Carlcare-Onitsha": 1
+  },
+  "12709338": {
+    "ASC-M-Midas Touch Sokoto": 1,
+    "ASC-M-Adehero Service": 1
+  },
+  "17001341": {
+    "ASC-M-Jenzabar Limited": 1
+  },
+  "17201982": {
+    "ASC-M-New Moon Unique Link": 1
+  },
+  "17401847": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "Benin-MWH": 1,
+    "Carlcare-Port-harcourt": 1
+  },
+  "17401934": {
+    "Carlcare-Benin": 1
   },
   "17402007": {
-    "Benin-MWH": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1
+    "Benin-MWH": 1
   },
-  "17601413": {
-    "ASC-M-Femtech Information Technology Ltd": 3
+  "17601341": {
+    "ASC-M-Haven Buddy Integrated Concept": 2,
+    "ASC-M-MMS Dot Global Ventures Limited": 3
+  },
+  "19401456": {
+    "Carlcare-Onitsha": 2,
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "19401463": {
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Onitsha": 1
+  },
+  "23002358": {
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1
   },
   "23002415": {
     "ASC-M-Greenfield Gadgets Solution Aba": 3
   },
-  "23002617": {
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "ASC-M-Zikniks Enterprises Limited": 2,
-    "ASRP-SmartPhone Global": 2,
-    "L4 Device Repair": 2
+  "23002659": {
+    "ASC-M-Crescita Global Resources Ltd": 4
+  },
+  "23002674": {
+    "ASC-M-Kraaft Technology & services": 1
   },
   "25001192": {
+    "ASC-M-Jenzabar Limited": 1,
     "ASC-M-Maxwell Telecoms Nig Ents.": 3,
     "L4 Device Repair": 1
   },
-  "25001839": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 3
+  "25001962": {
+    "ASC-M-Jenzabar Limited": 1,
+    "L4 Device Repair": 1
   },
   "25001969": {
     "ASC-M-Maxwell Telecoms Nig Ents.": 6,
     "ASC-M-MMS Dot Global Ventures Limited": 1
   },
-  "25002046": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2,
-    "ASC-M-Crescita Global Resources Ltd": 2
-  },
-  "25002798": {
-    "Carlcare-CV(Computer Village)": 1,
-    "ASC-M-Zikniks Enterprises Limited": 1,
-    "ASRP-SmartPhone Global": 1
-  },
-  "37300329": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
-  },
-  "37300330": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  "37200516": {
+    "ASC-M-Carosammy Concept Ltd": 1,
+    "L4 Device Repair": 3
   },
   "37300607": {
     "ASC-M-Greenfield Gadgets Solution Aba": 2
   },
-  "37301029": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  "37600760": {
+    "ASC-M-Haven Buddy Integrated Concept": 2
   },
-  "38103768": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 2,
+  "10317558": {
+    "ASRP-Blast Care Oyewole": 3,
+    "ASC-M-G-Care Communication": 19,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
+    "ASRP-T.Comm": 1,
+    "ASC-M-Innive Technologies Ikotun": 7
+  },
+  "10319073": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "10320228": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "10320842": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "12112269": {
+    "ASC-M-Intaj Dynamic": 3
+  },
+  "12203793": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "12206664": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "12207170": {
+    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
+  },
+  "12207504": {
+    "ASRP-KD distribution & service": 1,
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Femtech Information Technology Ltd": 1
+  },
+  "23002617": {
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
     "L4 Device Repair": 2
   },
-  "10312501": {
-    "Carlcare-Benin": 1
+  "25001262": {
+    "Carlcare-Port-harcourt": 2
+  },
+  "25001839": {
+    "ASC-M-Maxwell Telecoms Nig Ents.": 3
+  },
+  "37300825": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "38000015": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "38100732": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "38103997": {
+    "ASRP-3chub-Shoddy Tech": 1,
+    "L4 Device Repair": 3
+  },
+  "38105101": {
+    "ASRP-3chub-Shoddy Tech": 1
+  },
+  "12113395": {
+    "ASRP-Kal care Service": 1
+  },
+  "10086019": {
+    "ASC-M-Kraaft Technology & services": 1
   },
   "10314162": {
     "ASC-M-Zikniks Enterprises Limited": 1,
     "Carlcare-CV(Computer Village)": 1,
-    "ASRP  Bounovalia Ventures": 1,
     "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "10315182": {
-    "ASC-M-G-Care Communication": 1
-  },
-  "10317503": {
-    "Carlcare-Benin": 1,
-    "ASC-M-Yisab Communication Nigeria": 1,
-    "ASRP-NEXT CARE LIMITED": 1,
-    "ASC-M-Haven Buddy Integrated Concept": 1
-  },
-  "10317558": {
-    "ASC-M-G-Care Communication": 19
   },
   "10318909": {
     "ASC-M-G-Care Communication": 1,
-    "ASC-M-Delink Matrix Lakowe": 1,
+    "ASC-M-Kraaft Technology & services": 1,
     "ASC-M-Yisab Communication Nigeria": 1
   },
   "10320565": {
-    "ASC-M-G-Care Communication": 2
+    "ASC-M-G-Care Communication": 2,
+    "ASC-M-Innive Technologies Ikotun": 3
   },
-  "10322498": {
-    "ASRP-SmartPhone Global": 1
+  "10322156": {
+    "ASC-M-Zikniks Enterprises Limited": 1,
+    "ASC-M-Maxwell Telecoms Nig Ents.": 1,
+    "ASC-M-Midas touch Jos": 1,
+    "ASC-M-Midas Touch Lagos": 1,
+    "ASC-M-Ju'Mike Global Ifo": 1
+  },
+  "10322915": {
+    "ASC-M-G-Care Communication": 1,
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1,
+    "Carlcare-Lagos Victoria Island(3chub)": 1
   },
   "12106915": {
     "ASC-M-Midas touch Jos": 1,
     "L4 Device Repair": 1
   },
-  "12107980": {
-    "ASC-M-Femtech Information Technology Ltd": 1
+  "12110294": {
+    "ASC-M-Midas touch Jos": 2,
+    "L4 Device Repair": 2
   },
-  "12110623": {
-    "ASC-M-Femtech Information Technology Ltd": 1
+  "12112679": {
+    "ASC-M-Midas Touch Lagos": 1,
+    "L4 Device Repair": 5,
+    "ASC-M-Matga Service": 1
   },
-  "12206028": {
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "Benin-MWH": 3,
-    "ASRP-SmartPhone Global": 1
-  },
-  "12206683": {
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "L4 PCBA Repair": 1
-  },
-  "12208297": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12702792": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12708240": {
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "Benin-MWH": 1
-  },
-  "17201849": {
-    "ASRP-SmartPhone Global": 1
-  },
-  "17401828": {
-    "ASC-M-Femtech Information Technology Ltd": 1,
-    "Benin-MWH": 4,
-    "ASC-M-Femtech Offa": 2
-  },
-  "17601281": {
-    "ASC-M-Zikniks Enterprises Limited": 1
-  },
-  "10082594": {
-    "ASC-M-Innive Technologies (Itel Homes)": 1
-  },
-  "10086019": {
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "12114446": {
-    "ASC-M-Beecasual Ventures": 3
+  "12114977": {
+    "NGSI03752-IF-Tech Nigeria Limited(Shagamu)": 1
   },
   "12115214": {
     "Carlcare-Benin": 1,
@@ -2968,61 +2784,97 @@
   "12202204": {
     "Benin-MWH": 1
   },
-  "12202512": {
-    "Benin-MWH": 2
-  },
   "12203043": {
     "Benin-MWH": 1
   },
-  "12204505": {
-    "Benin-MWH": 1,
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "12205288": {
-    "Benin-MWH": 2,
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 2,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Benin": 3,
-    "ASC-M-Femtech Offa": 2
-  },
-  "12205722": {
-    "ASRP-T.Comm": 1
-  },
-  "12205841": {
-    "Benin-MWH": 2
+  "12204252": {
+    "Carlcare-Abuja": 1
   },
   "12206344": {
     "Benin-MWH": 1
   },
-  "12206661": {
-    "Benin-MWH": 2
-  },
   "12207220": {
     "Benin-MWH": 1,
-    "Carlcare-Warri": 5,
     "ASC-M-Femtech Offa": 1
   },
   "12700560": {
     "Benin-MWH": 1
   },
-  "12702937": {
-    "Benin-MWH": 1
-  },
   "12704243": {
-    "Benin-MWH": 1
-  },
-  "12705273": {
     "Benin-MWH": 1
   },
   "12705335": {
     "Benin-MWH": 1
   },
-  "12705663": {
+  "12705681": {
     "Benin-MWH": 1
   },
-  "12705681": {
+  "12707906": {
+    "Carlcare-Abuja": 1
+  },
+  "12710213": {
+    "ASRP-T.Comm": 3
+  },
+  "17001334": {
+    "Benin-MWH": 1
+  },
+  "17201849": {
+    "ASRP-SmartPhone Global": 1
+  },
+  "17401626": {
+    "Benin-MWH": 2
+  },
+  "17401790": {
+    "Benin-MWH": 2
+  },
+  "17401828": {
+    "Benin-MWH": 4,
+    "ASC-M-Femtech Offa": 2
+  },
+  "17401834": {
+    "Benin-MWH": 1
+  },
+  "17601312": {
+    "Carlcare-Benin": 1
+  },
+  "19401443": {
+    "ASRP-T.Comm": 2
+  },
+  "38000009": {
+    "ASC-M-Midas touch Jos": 1
+  },
+  "10308847": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "10311752": {
+    "ASC-M-Tonijam Nig.Ltd": 1,
+    "ASC-M-Midas Touch Akure": 1
+  },
+  "12202512": {
+    "Benin-MWH": 2
+  },
+  "12203719": {
+    "Benin-MWH": 2,
+    "Carlcare-Ibadan": 1
+  },
+  "12204505": {
+    "Benin-MWH": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "12205841": {
+    "Benin-MWH": 2
+  },
+  "12206661": {
+    "Benin-MWH": 2
+  },
+  "12702937": {
+    "Benin-MWH": 1
+  },
+  "12705273": {
+    "Benin-MWH": 1
+  },
+  "12705663": {
     "Benin-MWH": 1
   },
   "12705682": {
@@ -3031,14 +2883,8 @@
   "12707289": {
     "Benin-MWH": 1
   },
-  "17001334": {
-    "Benin-MWH": 1
-  },
   "17001366": {
     "Benin-MWH": 1
-  },
-  "17401626": {
-    "Benin-MWH": 2
   },
   "17401798": {
     "Benin-MWH": 4
@@ -3046,39 +2892,40 @@
   "17401807": {
     "Benin-MWH": 2
   },
-  "17401834": {
-    "Benin-MWH": 1
-  },
   "17401872": {
     "Benin-MWH": 1,
     "ASC-M-Carosammy Concept Ltd": 3
   },
-  "17601312": {
-    "Carlcare-Benin": 1
+  "23002142": {
+    "ASC-M-Innive Technologies Alaba": 1
   },
-  "12204908": {
-    "ASC-M-Zikniks Enterprises Limited": 1
+  "25002391": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 1
   },
-  "12206778": {
-    "ASC-M-Zikniks Enterprises Limited": 1
+  "25002550": {
+    "ASC-M-Jenzabar Limited": 1
   },
-  "12710130": {
-    "ASC-M-Zikniks Enterprises Limited": 1,
-    "Carlcare-Warri": 1
+  "37000308": {
+    "ASC-M-Innive Technologies Alaba": 1
   },
-  "71005000312": {
-    "Carlcare-CV(Computer Village)": 5
+  "17001447": {
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "25002455": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Haslida Concept": 1
+  },
+  "25002714": {
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3,
+    "ASC-M-Jenzabar Limited": 1
   },
   "10076133": {
     "ASC-M-Carosammy Concept Ltd": 1
   },
   "10311192": {
     "Carlcare-Onitsha": 1,
-    "ASC-M-Ustaz Exclusive Stores": 2,
     "Carlcare-CV(Computer Village)": 1
-  },
-  "10316661": {
-    "Carlcare-Onitsha": 2
   },
   "10320394": {
     "Carlcare-Onitsha": 1,
@@ -3088,135 +2935,32 @@
     "Carlcare-Onitsha": 2,
     "Carlcare-Abuja": 3
   },
-  "10321919": {
-    "Carlcare-Onitsha": 2,
-    "Carlcare-Abuja": 4,
-    "Carlcare-CV(Computer Village)": 1
+  "12107885": {
+    "ASC-M-Intaj Dynamic": 1
   },
-  "12110942": {
-    "ASC-M-Ifix Repair Hub": 1,
-    "L4 Device Repair": 7
+  "12113058": {
+    "ASC-M-Breva Enterprises Limited Lagos": 1,
+    "ASC-M-Matga Service": 2,
+    "L4 Device Repair": 2
   },
   "12113208": {
     "ASC-M-Reedlim Global Enterprise Bauchi": 1,
-    "Carlcare-Ibadan": 1
-  },
-  "12113873": {
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "12203769": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Ibadan": 3
-  },
-  "12204477": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Benin": 3
-  },
-  "12204933": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Warri": 3
-  },
-  "12205498": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 2,
-    "Carlcare-Ibadan": 1
-  },
-  "12205677": {
-    "Carlcare-Kano": 3,
     "Carlcare-Ibadan": 2,
-    "Carlcare-Port-harcourt": 2
+    "ASC-M-Sixth Sixth Technologies": 1
   },
-  "12206266": {
-    "Carlcare-Kano": 3
+  "12710248": {
+    "Carlcare-Abuja": 3
   },
-  "12206275": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Ibadan": 3
-  },
-  "12206529": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3
-  },
-  "12206735": {
-    "ASC-M-Innive Technologies Alaba": 2
-  },
-  "12206860": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Warri": 3,
-    "Carlcare-Onitsha": 3
-  },
-  "12207232": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 3,
-    "Carlcare-Benin": 3,
-    "Benin-MWH": 2
-  },
-  "12207375": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "12207551": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 2
-  },
-  "12207806": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Warri": 3,
-    "Carlcare-Onitsha": 3
-  },
-  "12207807": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3
-  },
-  "12208037": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3
-  },
-  "12208038": {
-    "Carlcare-Kano": 3,
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3
+  "17401991": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1,
+    "ASC-M-Ifix Repair Hub": 2,
+    "ASC-M-Midas Touch Akure": 2
   },
   "23002250": {
     "ASRP-Kal care Service": 1
   },
   "23002252": {
     "ASC-M-Maxwell Telecoms Nig Ents.": 1
-  },
-  "30104871": {
-    "ASC-M-Ju'Mike Global Ifo": 6
-  },
-  "37200253": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1
-  },
-  "10306990": {
-    "ASC-M-Visco communication ltd": 1,
-    "Carlcare-CV(Computer Village)": 3
-  },
-  "12107885": {
-    "ASC-M-Intaj Dynamic": 1
-  },
-  "12112150": {
-    "ASC-M-Golden Eagle Technology Limited Festac": 2,
-    "L4 Device Repair": 3
   },
   "23002389": {
     "ASC-M-Haven Buddy Integrated Concept": 2,
@@ -3226,17 +2970,34 @@
     "ASC-M-Haven Buddy Integrated Concept": 2,
     "L4 Device Repair": 2
   },
-  "38101380": {
-    "ASC-M-Golden Eagle Technology Limited Festac": 1
+  "30104871": {
+    "ASC-M-Ju'Mike Global Ifo": 6
+  },
+  "37200253": {
+    "ASC-M-Maxwell Telecoms Nig Ents.": 1
+  },
+  "37301029": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "12113348": {
+    "ASC-M-Adehero Service": 1
   },
   "12203301": {
     "L4 Device Repair": 1
+  },
+  "12203492": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 3,
+    "ASC-M-Femtech Offa": 2
   },
   "12203680": {
     "L4 Device Repair": 1
   },
   "12203733": {
     "L4 Device Repair": 1
+  },
+  "12203769": {
+    "Carlcare-Ibadan": 3
   },
   "12203794": {
     "L4 Device Repair": 1
@@ -3255,6 +3016,15 @@
   },
   "12204437": {
     "L4 Device Repair": 1
+  },
+  "12204474": {
+    "Carlcare-Ibadan": 3
+  },
+  "12204477": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Benin": 3
   },
   "12204570": {
     "L4 Device Repair": 1
@@ -3289,6 +3059,13 @@
   "12205176": {
     "L4 Device Repair": 1
   },
+  "12205408": {
+    "Carlcare-Ibadan": 3
+  },
+  "12205498": {
+    "Carlcare-Ibadan": 1,
+    "Carlcare-Port-harcourt": 2
+  },
   "12205504": {
     "L4 Device Repair": 3
   },
@@ -3297,6 +3074,10 @@
   },
   "12205665": {
     "L4 Device Repair": 2
+  },
+  "12205677": {
+    "Carlcare-Ibadan": 2,
+    "Carlcare-Port-harcourt": 2
   },
   "12205708": {
     "L4 Device Repair": 1
@@ -3310,8 +3091,18 @@
   "12205992": {
     "L4 Device Repair": 1
   },
+  "12206025": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 3
+  },
   "12206046": {
     "L4 Device Repair": 1
+  },
+  "12206217": {
+    "Carlcare-Ibadan": 3
+  },
+  "12206275": {
+    "Carlcare-Ibadan": 3
   },
   "12206331": {
     "L4 Device Repair": 2
@@ -3325,11 +3116,101 @@
   "12206518": {
     "L4 Device Repair": 3
   },
+  "12206521": {
+    "L4 Device Repair": 4,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12206555": {
+    "Carlcare-Ibadan": 2,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 2,
+    "Benin-MWH": 2
+  },
+  "12206654": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 3
+  },
+  "12206655": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Warri": 3
+  },
   "12206684": {
     "L4 Device Repair": 1
   },
   "12206696": {
     "L4 Device Repair": 1
+  },
+  "12206860": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Warri": 3
+  },
+  "12207806": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Warri": 3
+  },
+  "12207807": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Warri": 3
+  },
+  "12207835": {
+    "Carlcare-Ibadan": 3,
+    "ASC-M-Femtech Offa": 2
+  },
+  "12207921": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 1
+  },
+  "12208005": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208037": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Warri": 3
+  },
+  "12208038": {
+    "Carlcare-Ibadan": 3,
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Warri": 3
+  },
+  "12208091": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208095": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208099": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208206": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208207": {
+    "Carlcare-Ibadan": 3
+  },
+  "12208420": {
+    "Carlcare-Ibadan": 3
+  },
+  "17001320": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "17001329": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "17201744": {
+    "ASC-M-Haven Buddy Integrated Concept": 2,
+    "ASRP-Snappy Fix": 1
+  },
+  "17601273": {
+    "ASC-M-Next Care Bariga": 1
   },
   "19101295": {
     "L4 Device Repair": 1
@@ -3380,8 +3261,7 @@
     "L4 Device Repair": 1
   },
   "21102614": {
-    "L4 Device Repair": 1,
-    "ASRP-T.Comm": 1
+    "L4 Device Repair": 1
   },
   "21202714": {
     "L4 Device Repair": 1
@@ -3479,434 +3359,6 @@
   "21400126": {
     "L4 Device Repair": 1
   },
-  "37200059": {
-    "L4 Device Repair": 1
-  },
-  "37300110": {
-    "L4 Device Repair": 1
-  },
-  "37300147": {
-    "L4 Device Repair": 1
-  },
-  "37300162": {
-    "L4 Device Repair": 1
-  },
-  "37300186": {
-    "L4 Device Repair": 1
-  },
-  "37300290": {
-    "L4 Device Repair": 2
-  },
-  "37300309": {
-    "L4 Device Repair": 6
-  },
-  "37300327": {
-    "L4 Device Repair": 1
-  },
-  "37300338": {
-    "L4 Device Repair": 1
-  },
-  "37300344": {
-    "L4 Device Repair": 1
-  },
-  "37300370": {
-    "L4 Device Repair": 1
-  },
-  "37300384": {
-    "L4 Device Repair": 1
-  },
-  "37300394": {
-    "L4 Device Repair": 1
-  },
-  "37300563": {
-    "L4 Device Repair": 1
-  },
-  "37300689": {
-    "L4 Device Repair": 1
-  },
-  "37300739": {
-    "L4 Device Repair": 6
-  },
-  "37300786": {
-    "L4 Device Repair": 1
-  },
-  "37300903": {
-    "L4 Device Repair": 1
-  },
-  "37300923": {
-    "L4 Device Repair": 3
-  },
-  "37300997": {
-    "L4 Device Repair": 1
-  },
-  "37301063": {
-    "L4 Device Repair": 1
-  },
-  "37301122": {
-    "L4 Device Repair": 1
-  },
-  "37301125": {
-    "L4 Device Repair": 1
-  },
-  "37301130": {
-    "L4 Device Repair": 1
-  },
-  "37301194": {
-    "L4 Device Repair": 1
-  },
-  "37500023": {
-    "L4 Device Repair": 1
-  },
-  "37600074": {
-    "L4 Device Repair": 1
-  },
-  "37600111": {
-    "L4 Device Repair": 1
-  },
-  "37600162": {
-    "L4 Device Repair": 2
-  },
-  "37600305": {
-    "L4 Device Repair": 5
-  },
-  "37600366": {
-    "L4 Device Repair": 1
-  },
-  "37600533": {
-    "L4 Device Repair": 3
-  },
-  "37600562": {
-    "L4 Device Repair": 3
-  },
-  "37600785": {
-    "L4 Device Repair": 3
-  },
-  "37600789": {
-    "L4 Device Repair": 1
-  },
-  "38000022": {
-    "L4 Device Repair": 1
-  },
-  "38000024": {
-    "L4 Device Repair": 3
-  },
-  "38000038": {
-    "L4 Device Repair": 5
-  },
-  "38000042": {
-    "L4 Device Repair": 1
-  },
-  "38100048": {
-    "L4 Device Repair": 1
-  },
-  "38100292": {
-    "L4 Device Repair": 1
-  },
-  "38100479": {
-    "L4 Device Repair": 1
-  },
-  "38100485": {
-    "L4 Device Repair": 1
-  },
-  "38100542": {
-    "L4 Device Repair": 2
-  },
-  "38100556": {
-    "L4 Device Repair": 2
-  },
-  "38100708": {
-    "L4 Device Repair": 1
-  },
-  "38100726": {
-    "L4 Device Repair": 1
-  },
-  "38100763": {
-    "L4 Device Repair": 2
-  },
-  "38100847": {
-    "L4 Device Repair": 2
-  },
-  "38100856": {
-    "L4 Device Repair": 1
-  },
-  "38100875": {
-    "L4 Device Repair": 1
-  },
-  "38100919": {
-    "L4 Device Repair": 1
-  },
-  "38100937": {
-    "L4 Device Repair": 2
-  },
-  "38100944": {
-    "L4 Device Repair": 2
-  },
-  "38100995": {
-    "L4 Device Repair": 2
-  },
-  "38101121": {
-    "L4 Device Repair": 2
-  },
-  "38101197": {
-    "L4 Device Repair": 1
-  },
-  "38101257": {
-    "L4 Device Repair": 1
-  },
-  "38101336": {
-    "L4 Device Repair": 5
-  },
-  "38101442": {
-    "L4 Device Repair": 3
-  },
-  "38101559": {
-    "L4 Device Repair": 1
-  },
-  "38101703": {
-    "L4 Device Repair": 5
-  },
-  "38101754": {
-    "L4 Device Repair": 1
-  },
-  "38101843": {
-    "L4 Device Repair": 2
-  },
-  "38101876": {
-    "L4 Device Repair": 1
-  },
-  "38101929": {
-    "L4 Device Repair": 2
-  },
-  "38101930": {
-    "L4 Device Repair": 2
-  },
-  "38102039": {
-    "L4 Device Repair": 1
-  },
-  "38102040": {
-    "L4 Device Repair": 1
-  },
-  "38102090": {
-    "L4 Device Repair": 2
-  },
-  "38102121": {
-    "L4 Device Repair": 3
-  },
-  "38102122": {
-    "L4 Device Repair": 1
-  },
-  "38102215": {
-    "L4 Device Repair": 2,
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "38102219": {
-    "L4 Device Repair": 3
-  },
-  "38102231": {
-    "L4 Device Repair": 3
-  },
-  "38102262": {
-    "L4 Device Repair": 1
-  },
-  "38102335": {
-    "L4 Device Repair": 5
-  },
-  "38102535": {
-    "L4 Device Repair": 3
-  },
-  "38102569": {
-    "L4 Device Repair": 2
-  },
-  "38102675": {
-    "L4 Device Repair": 1
-  },
-  "38102920": {
-    "L4 Device Repair": 2
-  },
-  "38102922": {
-    "L4 Device Repair": 2
-  },
-  "38103257": {
-    "L4 Device Repair": 2
-  },
-  "38103351": {
-    "L4 Device Repair": 2
-  },
-  "38103372": {
-    "L4 Device Repair": 1
-  },
-  "38103450": {
-    "L4 Device Repair": 2
-  },
-  "38103482": {
-    "L4 Device Repair": 2
-  },
-  "38103512": {
-    "L4 Device Repair": 1
-  },
-  "38103613": {
-    "L4 Device Repair": 1
-  },
-  "38103651": {
-    "L4 Device Repair": 1
-  },
-  "38103655": {
-    "L4 Device Repair": 1
-  },
-  "38103657": {
-    "L4 Device Repair": 1
-  },
-  "38103670": {
-    "L4 Device Repair": 2
-  },
-  "38103671": {
-    "L4 Device Repair": 3
-  },
-  "38103675": {
-    "L4 Device Repair": 1
-  },
-  "38103795": {
-    "L4 Device Repair": 1
-  },
-  "38103797": {
-    "L4 Device Repair": 1
-  },
-  "38103966": {
-    "L4 Device Repair": 1
-  },
-  "38104077": {
-    "L4 Device Repair": 1
-  },
-  "38104214": {
-    "L4 Device Repair": 5
-  },
-  "38104215": {
-    "L4 Device Repair": 2
-  },
-  "38104216": {
-    "L4 Device Repair": 2
-  },
-  "38104250": {
-    "L4 Device Repair": 1
-  },
-  "38104329": {
-    "L4 Device Repair": 1
-  },
-  "38104330": {
-    "L4 Device Repair": 2
-  },
-  "38104645": {
-    "L4 Device Repair": 1
-  },
-  "38104790": {
-    "L4 Device Repair": 3
-  },
-  "38105265": {
-    "L4 Device Repair": 2
-  },
-  "38105269": {
-    "L4 Device Repair": 1
-  },
-  "38105356": {
-    "L4 Device Repair": 1
-  },
-  "38105817": {
-    "L4 Device Repair": 2
-  },
-  "38105821": {
-    "L4 Device Repair": 1
-  },
-  "38105887": {
-    "L4 Device Repair": 2
-  },
-  "10306685": {
-    "Carlcare-Abuja": 1
-  },
-  "12116274": {
-    "Carlcare-Warri": 1,
-    "Carlcare-Ibadan": 1
-  },
-  "12202765": {
-    "Carlcare-Port-harcourt": 3
-  },
-  "12203492": {
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 3,
-    "ASC-M-Femtech Offa": 2
-  },
-  "12204474": {
-    "Carlcare-Ibadan": 3
-  },
-  "12205182": {
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Port-harcourt": 3
-  },
-  "12205408": {
-    "Carlcare-Ibadan": 3
-  },
-  "12206025": {
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3
-  },
-  "12206217": {
-    "Carlcare-Ibadan": 3
-  },
-  "12206555": {
-    "Carlcare-Ibadan": 2,
-    "Carlcare-Port-harcourt": 2,
-    "Carlcare-Onitsha": 3,
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "Benin-MWH": 2
-  },
-  "12206654": {
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Ibadan": 3
-  },
-  "12206655": {
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 3,
-    "Carlcare-Warri": 3
-  },
-  "12207233": {
-    "Carlcare-Port-harcourt": 3,
-    "Carlcare-Onitsha": 3
-  },
-  "12207835": {
-    "Carlcare-Ibadan": 3,
-    "ASC-M-Femtech Offa": 2
-  },
-  "12207921": {
-    "Carlcare-Ibadan": 3,
-    "Carlcare-Onitsha": 1
-  },
-  "12208005": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208091": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208095": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208099": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208206": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208207": {
-    "Carlcare-Ibadan": 3
-  },
-  "12208420": {
-    "Carlcare-Ibadan": 3
-  },
-  "12710428": {
-    "Carlcare-Kano": 1
-  },
-  "23002684": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 2,
-    "L4 Device Repair": 1
-  },
   "23504001": {
     "L4 Device Repair": 2
   },
@@ -3996,6 +3448,9 @@
     "L4 Device Repair": 1
   },
   "37200008": {
+    "L4 Device Repair": 1
+  },
+  "37200059": {
     "L4 Device Repair": 1
   },
   "37200070": {
@@ -4091,32 +3546,107 @@
   "37200536": {
     "L4 Device Repair": 2
   },
+  "37300110": {
+    "L4 Device Repair": 1
+  },
+  "37300147": {
+    "L4 Device Repair": 1
+  },
+  "37300162": {
+    "L4 Device Repair": 1
+  },
+  "37300186": {
+    "L4 Device Repair": 1
+  },
+  "37300290": {
+    "L4 Device Repair": 2
+  },
   "37300300": {
     "L4 Device Repair": 2
+  },
+  "37300309": {
+    "L4 Device Repair": 6
   },
   "37300310": {
     "L4 Device Repair": 10
   },
+  "37300327": {
+    "L4 Device Repair": 1
+  },
+  "37300338": {
+    "L4 Device Repair": 1
+  },
   "37300340": {
     "L4 Device Repair": 6
+  },
+  "37300344": {
+    "L4 Device Repair": 1
   },
   "37300349": {
     "L4 Device Repair": 4
   },
+  "37300370": {
+    "L4 Device Repair": 1
+  },
   "37300376": {
+    "L4 Device Repair": 1
+  },
+  "37300384": {
+    "L4 Device Repair": 1
+  },
+  "37300394": {
+    "L4 Device Repair": 1
+  },
+  "37300563": {
+    "L4 Device Repair": 1
+  },
+  "37300689": {
     "L4 Device Repair": 1
   },
   "37300693": {
     "L4 Device Repair": 1
   },
+  "37300739": {
+    "L4 Device Repair": 6
+  },
+  "37300786": {
+    "L4 Device Repair": 1
+  },
+  "37300903": {
+    "L4 Device Repair": 1
+  },
+  "37300923": {
+    "L4 Device Repair": 3
+  },
+  "37300997": {
+    "L4 Device Repair": 1
+  },
   "37301015": {
     "L4 Device Repair": 2
+  },
+  "37301063": {
+    "L4 Device Repair": 1
+  },
+  "37301122": {
+    "L4 Device Repair": 1
+  },
+  "37301125": {
+    "L4 Device Repair": 1
+  },
+  "37301130": {
+    "L4 Device Repair": 1
   },
   "37301171": {
     "L4 Device Repair": 1
   },
+  "37301194": {
+    "L4 Device Repair": 1
+  },
   "37301272": {
     "L4 Device Repair": 2
+  },
+  "37500023": {
+    "L4 Device Repair": 1
   },
   "37500074": {
     "L4 Device Repair": 3
@@ -4139,6 +3669,9 @@
   "37600070": {
     "L4 Device Repair": 1
   },
+  "37600074": {
+    "L4 Device Repair": 1
+  },
   "37600083": {
     "L4 Device Repair": 2
   },
@@ -4146,6 +3679,9 @@
     "L4 Device Repair": 2
   },
   "37600105": {
+    "L4 Device Repair": 1
+  },
+  "37600111": {
     "L4 Device Repair": 1
   },
   "37600114": {
@@ -4193,6 +3729,9 @@
   "37600161": {
     "L4 Device Repair": 2
   },
+  "37600162": {
+    "L4 Device Repair": 2
+  },
   "37600168": {
     "L4 Device Repair": 2
   },
@@ -4238,6 +3777,9 @@
   "37600300": {
     "L4 Device Repair": 2
   },
+  "37600305": {
+    "L4 Device Repair": 5
+  },
   "37600306": {
     "L4 Device Repair": 1
   },
@@ -4255,6 +3797,9 @@
   },
   "37600349": {
     "L4 Device Repair": 4
+  },
+  "37600366": {
+    "L4 Device Repair": 1
   },
   "37600371": {
     "L4 Device Repair": 2
@@ -4316,11 +3861,17 @@
   "37600527": {
     "L4 Device Repair": 1
   },
+  "37600533": {
+    "L4 Device Repair": 3
+  },
   "37600548": {
     "L4 Device Repair": 2
   },
   "37600555": {
     "L4 Device Repair": 2
+  },
+  "37600562": {
+    "L4 Device Repair": 3
   },
   "37600571": {
     "L4 Device Repair": 1
@@ -4358,19 +3909,109 @@
   "37600761": {
     "L4 Device Repair": 1
   },
+  "37600785": {
+    "L4 Device Repair": 3
+  },
+  "37600789": {
+    "L4 Device Repair": 1
+  },
+  "38000022": {
+    "L4 Device Repair": 1
+  },
+  "38000024": {
+    "L4 Device Repair": 3
+  },
+  "38000038": {
+    "L4 Device Repair": 5
+  },
+  "38000042": {
+    "L4 Device Repair": 1
+  },
+  "38100048": {
+    "L4 Device Repair": 1
+  },
   "38100138": {
     "L4 Device Repair": 1
   },
   "38100139": {
     "L4 Device Repair": 1
   },
+  "38100292": {
+    "L4 Device Repair": 1
+  },
+  "38100479": {
+    "L4 Device Repair": 1
+  },
+  "38100485": {
+    "L4 Device Repair": 1
+  },
+  "38100542": {
+    "L4 Device Repair": 2
+  },
+  "38100556": {
+    "L4 Device Repair": 2
+  },
   "38100587": {
+    "L4 Device Repair": 1
+  },
+  "38100708": {
+    "L4 Device Repair": 1
+  },
+  "38100726": {
+    "L4 Device Repair": 1
+  },
+  "38100763": {
+    "L4 Device Repair": 2
+  },
+  "38100847": {
+    "L4 Device Repair": 2
+  },
+  "38100856": {
+    "L4 Device Repair": 1
+  },
+  "38100875": {
     "L4 Device Repair": 1
   },
   "38100912": {
     "L4 Device Repair": 1
   },
+  "38100919": {
+    "L4 Device Repair": 1
+  },
+  "38100937": {
+    "L4 Device Repair": 2
+  },
+  "38100944": {
+    "L4 Device Repair": 2
+  },
+  "38100995": {
+    "L4 Device Repair": 2
+  },
+  "38101121": {
+    "L4 Device Repair": 2
+  },
+  "38101197": {
+    "L4 Device Repair": 1
+  },
+  "38101257": {
+    "L4 Device Repair": 1
+  },
+  "38101336": {
+    "L4 Device Repair": 5
+  },
+  "38101442": {
+    "L4 Device Repair": 3
+  },
   "38101481": {
+    "L4 Device Repair": 1
+  },
+  "38101559": {
+    "L4 Device Repair": 1
+  },
+  "38101703": {
+    "L4 Device Repair": 5
+  },
+  "38101754": {
     "L4 Device Repair": 1
   },
   "38101781": {
@@ -4379,11 +4020,165 @@
   "38101807": {
     "L4 Device Repair": 4
   },
+  "38101843": {
+    "L4 Device Repair": 2
+  },
+  "38101876": {
+    "L4 Device Repair": 1
+  },
+  "38101929": {
+    "L4 Device Repair": 2
+  },
+  "38101930": {
+    "L4 Device Repair": 2
+  },
+  "38102039": {
+    "L4 Device Repair": 1
+  },
+  "38102040": {
+    "L4 Device Repair": 1
+  },
+  "38102090": {
+    "L4 Device Repair": 2
+  },
+  "38102121": {
+    "L4 Device Repair": 3
+  },
+  "38102122": {
+    "L4 Device Repair": 1
+  },
+  "38102215": {
+    "L4 Device Repair": 2,
+    "ASC-M-Midas Touch Akure": 1
+  },
+  "38102219": {
+    "L4 Device Repair": 3
+  },
   "38102228": {
     "L4 Device Repair": 3
   },
+  "38102231": {
+    "L4 Device Repair": 3
+  },
+  "38102262": {
+    "L4 Device Repair": 1
+  },
+  "38102335": {
+    "L4 Device Repair": 5
+  },
+  "38102535": {
+    "L4 Device Repair": 3
+  },
+  "38102569": {
+    "L4 Device Repair": 2
+  },
+  "38102675": {
+    "L4 Device Repair": 1
+  },
+  "38102920": {
+    "L4 Device Repair": 2
+  },
+  "38102922": {
+    "L4 Device Repair": 2
+  },
   "38103236": {
     "L4 Device Repair": 1
+  },
+  "38103257": {
+    "L4 Device Repair": 2
+  },
+  "38103351": {
+    "L4 Device Repair": 2
+  },
+  "38103372": {
+    "L4 Device Repair": 1
+  },
+  "38103450": {
+    "L4 Device Repair": 2
+  },
+  "38103482": {
+    "L4 Device Repair": 2
+  },
+  "38103512": {
+    "L4 Device Repair": 1
+  },
+  "38103613": {
+    "L4 Device Repair": 1
+  },
+  "38103651": {
+    "L4 Device Repair": 1
+  },
+  "38103655": {
+    "L4 Device Repair": 1
+  },
+  "38103657": {
+    "L4 Device Repair": 1
+  },
+  "38103670": {
+    "L4 Device Repair": 2
+  },
+  "38103671": {
+    "L4 Device Repair": 3
+  },
+  "38103675": {
+    "L4 Device Repair": 1
+  },
+  "38103768": {
+    "L4 Device Repair": 2
+  },
+  "38103795": {
+    "L4 Device Repair": 1
+  },
+  "38103797": {
+    "L4 Device Repair": 1
+  },
+  "38103966": {
+    "L4 Device Repair": 1
+  },
+  "38104077": {
+    "L4 Device Repair": 1
+  },
+  "38104214": {
+    "L4 Device Repair": 5
+  },
+  "38104215": {
+    "L4 Device Repair": 2
+  },
+  "38104216": {
+    "L4 Device Repair": 2
+  },
+  "38104250": {
+    "L4 Device Repair": 1
+  },
+  "38104329": {
+    "L4 Device Repair": 1
+  },
+  "38104330": {
+    "L4 Device Repair": 2
+  },
+  "38104645": {
+    "L4 Device Repair": 1
+  },
+  "38104790": {
+    "L4 Device Repair": 3
+  },
+  "38105265": {
+    "L4 Device Repair": 2
+  },
+  "38105269": {
+    "L4 Device Repair": 1
+  },
+  "38105356": {
+    "L4 Device Repair": 1
+  },
+  "38105817": {
+    "L4 Device Repair": 2
+  },
+  "38105821": {
+    "L4 Device Repair": 1
+  },
+  "38105887": {
+    "L4 Device Repair": 2
   },
   "38700003": {
     "L4 Device Repair": 1
@@ -4391,18 +4186,64 @@
   "38700015": {
     "L4 Device Repair": 1
   },
+  "10317337": {
+    "ASC-M-Midas Touch Kaduna": 1,
+    "Carlcare-Lagos Victoria Island(3chub)": 1
+  },
+  "12202765": {
+    "Carlcare-Port-harcourt": 3
+  },
   "12204500": {
     "Carlcare-Onitsha": 3
+  },
+  "12206139": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1,
+    "ASC-M-Intaj Dynamic": 1
   },
   "12206352": {
     "Carlcare-Onitsha": 3
   },
+  "12206529": {
+    "Carlcare-Port-harcourt": 3
+  },
+  "12207232": {
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3,
+    "Carlcare-Warri": 3,
+    "Carlcare-Benin": 3,
+    "Benin-MWH": 2
+  },
+  "12207233": {
+    "Carlcare-Onitsha": 3,
+    "Carlcare-Port-harcourt": 3
+  },
+  "12207375": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "12207551": {
+    "Carlcare-Port-harcourt": 2
+  },
+  "12710428": {
+    "Carlcare-Kano": 1
+  },
   "17001343": {
-    "ASC-M-Matga Service": 1,
-    "ASC-M-Neyo Multi Global Concept": 1
+    "ASC-M-Matga Service": 1
+  },
+  "23002684": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 2,
+    "L4 Device Repair": 1
+  },
+  "25002389": {
+    "Carlcare-Onitsha": 1
   },
   "38102499": {
     "Carlcare-Onitsha": 1
+  },
+  "17401905": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "23002869": {
+    "Carlcare-Benin": 1
   },
   "12111043": {
     "Benin-MWH": 7
@@ -4416,15 +4257,11 @@
   "12112101": {
     "Benin-MWH": 1
   },
-  "12112392": {
-    "Carlcare-CV(Computer Village)": 1
-  },
-  "12112449": {
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "Benin-MWH": 1
-  },
   "12112922": {
     "Benin-MWH": 1
+  },
+  "12114446": {
+    "ASC-M-Beecasual Ventures": 3
   },
   "12205151": {
     "Carlcare-Onitsha": 1,
@@ -4432,6 +4269,14 @@
   },
   "12206141": {
     "Benin-MWH": 1
+  },
+  "12206517": {
+    "Carlcare-Ibadan": 1,
+    "Benin-MWH": 3
+  },
+  "12206520": {
+    "ASC-M-Grand Venadum Resource Limited": 1,
+    "Carlcare-Ibadan": 1
   },
   "12702052": {
     "Benin-MWH": 2
@@ -4448,39 +4293,17 @@
   "12708265": {
     "Benin-MWH": 1
   },
-  "17401905": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "23002514": {
-    "Carlcare-CV(Computer Village)": 1,
-    "Carlcare-Warri": 1,
-    "ASC-M-Triple Sea Integrated Services Ltd": 1
-  },
-  "23002869": {
-    "Carlcare-Benin": 1
-  },
-  "12114709": {
-    "Carlcare-Kano": 1
-  },
-  "12206517": {
-    "Carlcare-Ibadan": 1,
-    "Benin-MWH": 3
-  },
-  "12206520": {
-    "Carlcare-Ibadan": 1,
-    "ASC-M-Grand Venadum Resource Limited": 1
-  },
   "17401877": {
     "ASC-M-Breva Enterprises Limited Lagos": 1
   },
   "17401992": {
     "ASC-M-Adehero Service": 1
   },
+  "17601308": {
+    "Carlcare-Abuja": 1
+  },
   "19501154": {
     "Carlcare-Ibadan": 1
-  },
-  "23002801": {
-    "ASRP  Bounovalia Ventures": 1
   },
   "25002675": {
     "Carlcare-Kano": 1,
@@ -4495,55 +4318,40 @@
   "12111610": {
     "Carlcare-Benin": 1
   },
-  "12204876": {
-    "ASC-M-Haven Buddy Integrated Concept": 2,
-    "ASC-M-Kraaft Technology & services": 1
-  },
-  "12205351": {
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "Carlcare-Port-harcourt": 1
-  },
-  "12205666": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
-  },
-  "12205764": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
+  "12113806": {
+    "ASC-M-Innive Technologies Ikotun": 1
   },
   "12206113": {
     "Carlcare-Benin": 4,
     "Carlcare-Onitsha": 3
   },
-  "12206642": {
-    "Carlcare-Abuja": 1,
-    "Benin-MWH": 3
-  },
   "12705160": {
     "ASC-M-Triple Sea Integrated Services Ltd": 1
   },
-  "17401934": {
-    "Carlcare-Abuja": 1
+  "12705336": {
+    "ASC-M-Triple Sea Integrated Services Ltd": 2,
+    "Carlcare-Port-harcourt": 1,
+    "ASC-M-MMS Dot Global Ventures Limited": 1,
+    "ASC-M-Beecasual Ventures": 2,
+    "ASC-M-Femtech Offa": 2,
+    "ASC-M-Midas Touch Akure": 3,
+    "Benin-MWH": 3
   },
-  "17401967": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1,
-    "Benin-MWH": 5
+  "25002046": {
+    "ASC-M-Crescita Global Resources Ltd": 1
   },
   "25002048": {
     "ASC-M-Triple Sea Integrated Services Ltd": 3,
-    "ASC-M-Breva Enterprises Limited Ilorin": 3,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3,
     "ASC-M-Haslida Concept": 1
   },
   "10309382": {
     "ASC-M-Femtech Information Technology Ltd": 1
   },
-  "10310261": {
-    "L4 Device Repair": 1
-  },
-  "10312584": {
-    "ASC-M-Femtech Offa": 1,
-    "ASC-M-Gifted hands Tech": 10
-  },
-  "10312949": {
-    "ASC-M-Femtech Offa": 1
+  "10310006": {
+    "Carlcare-Abuja": 2,
+    "Carlcare-CV(Computer Village)": 1,
+    "ASC-M-Innive Technologies Ikotun": 2
   },
   "10313071": {
     "ASC-M-Ustaz Exclusive Stores": 1,
@@ -4553,24 +4361,16 @@
     "ASC-M-Haven Buddy Integrated Concept": 1
   },
   "10316061": {
-    "Carlcare-Abuja": 3,
-    "ASC-M-Ustaz Exclusive Stores": 1
-  },
-  "10317245": {
-    "ASC-M-Femtech Offa": 3
+    "Carlcare-Abuja": 3
   },
   "10317380": {
     "Carlcare-Abuja": 2
   },
-  "10319073": {
-    "ASC-M-Golden Eagle Technology Limited Festac": 1
-  },
   "10319086": {
-    "Carlcare-Abuja": 1,
-    "Carlcare-CV(Computer Village)": 1
+    "Carlcare-Abuja": 1
   },
   "10319165": {
-    "Carlcare-Abuja": 3,
+    "Carlcare-Abuja": 2,
     "Carlcare-CV(Computer Village)": 2
   },
   "10322032": {
@@ -4583,14 +4383,18 @@
   "12107253": {
     "Carlcare-Onitsha": 4
   },
+  "12110860": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "12110942": {
+    "ASC-M-Ifix Repair Hub": 1,
+    "L4 Device Repair": 7
+  },
   "12112426": {
     "Carlcare-Onitsha": 4
   },
   "12112467": {
     "Carlcare-Onitsha": 4
-  },
-  "12112472": {
-    "ASC-M-Breva Enterprises Limited Lagos": 3
   },
   "12113211": {
     "ASC-M-Femtech Information Technology Ltd": 2,
@@ -4601,6 +4405,9 @@
   },
   "12113286": {
     "Carlcare-Onitsha": 4
+  },
+  "12113873": {
+    "ASC-M-Kraaft Technology & services": 1
   },
   "12114328": {
     "Carlcare-Onitsha": 4
@@ -4618,6 +4425,10 @@
   "12203031": {
     "Carlcare-Onitsha": 4
   },
+  "12204192": {
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "ASC-M-Femtech Offa": 3
+  },
   "12204263": {
     "Carlcare-Onitsha": 1
   },
@@ -4627,7 +4438,16 @@
   "12204387": {
     "Carlcare-Port-harcourt": 1
   },
+  "12204876": {
+    "ASC-M-Kraaft Technology & services": 1
+  },
   "12204883": {
+    "Carlcare-Onitsha": 4
+  },
+  "12205351": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "12205550": {
     "Carlcare-Onitsha": 4
   },
   "12205847": {
@@ -4635,6 +4455,9 @@
   },
   "12205885": {
     "Carlcare-Onitsha": 4
+  },
+  "12206186": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
   },
   "12206686": {
     "Carlcare-Port-harcourt": 1
@@ -4654,9 +4477,6 @@
   "12704676": {
     "Carlcare-Onitsha": 2
   },
-  "12704989": {
-    "L4 Device Repair": 3
-  },
   "12706245": {
     "Carlcare-Onitsha": 4
   },
@@ -4666,17 +4486,11 @@
   "12706523": {
     "Carlcare-Benin": 1
   },
-  "12707515": {
-    "L4 Device Repair": 5
-  },
   "12707899": {
     "Carlcare-Onitsha": 2
   },
-  "12707932": {
-    "L4 Device Repair": 1
-  },
-  "12708243": {
-    "L4 Device Repair": 1
+  "12708037": {
+    "Carlcare-Onitsha": 3
   },
   "12708406": {
     "Carlcare-Onitsha": 4
@@ -4690,19 +4504,286 @@
   "12708528": {
     "Carlcare-Onitsha": 1
   },
-  "12709661": {
-    "ASC-M-Don-Yellow Tech": 1
+  "14601249": {
+    "Carlcare-Port-harcourt": 1
   },
-  "17201890": {
-    "ASC-M-Crescita Global Resources Ltd": 2,
-    "ASC-M-Greenfield Gadgets Solution Aba": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1
+  "17201708": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "17201829": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
   },
   "17601370": {
     "ASRP-SmartPhone Global": 2
   },
   "17601379": {
     "ASRP-SmartPhone Global": 1
+  },
+  "19201012": {
+    "ASC-M-Haven Buddy Integrated Concept": 3
+  },
+  "19501144": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "23001866": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1,
+    "L4 Device Repair": 1
+  },
+  "23001955": {
+    "ASC-M-Smartphone Global Dutse": 1,
+    "L4 Device Repair": 2
+  },
+  "23002631": {
+    "ASC-M-Delinks Matrix Ikorodu": 1
+  },
+  "23002657": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "23002661": {
+    "ASC-M-MMS Dot Global Ventures Limited": 1
+  },
+  "23002733": {
+    "Carlcare-Benin": 1
+  },
+  "23002742": {
+    "ASC-M-Femtech Offa": 3
+  },
+  "23002808": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 2
+  },
+  "25001739": {
+    "ASC-M-MMS Dot Global Ventures Limited": 3
+  },
+  "25002216": {
+    "ASC-M-Triple Sea Integrated Services Ltd": 1,
+    "L4 Device Repair": 1
+  },
+  "25002615": {
+    "ASC-M-Delinks Matrix Ikorodu": 1
+  },
+  "25002786": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "25002892": {
+    "ASC-M-Haven Buddy Integrated Concept": 2
+  },
+  "38104883": {
+    "ASC-M-Neyo Multi Global Concept": 1
+  },
+  "38105060": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "10043637": {
+    "Carlcare-Onitsha": 1
+  },
+  "10312359": {
+    "ASC-M-Delink Matrix Lakowe": 1
+  },
+  "10312381": {
+    "ASC-M-Yisab Communication Nigeria": 1
+  },
+  "10312718": {
+    "Carlcare-Lagos Victoria Island(3chub)": 1,
+    "Carlcare-CV(Computer Village)": 3
+  },
+  "10313230": {
+    "ASC-M-Kraaft Technology & services": 1
+  },
+  "10313363": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "10317111": {
+    "ASC-M-Kraaft Technology & services": 1,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "10319985": {
+    "Carlcare-Lagos Victoria Island(3chub)": 2,
+    "Carlcare-CV(Computer Village)": 3,
+    "ASC-M-Midas Touch Lagos": 1
+  },
+  "10323076": {
+    "ASC-M-Greenfield Gadgets Solution Orlu": 1
+  },
+  "12105601": {
+    "ASC-M-Sgv Ict Ltd": 1
+  },
+  "12116666": {
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "12202980": {
+    "ASC-M-Sgv Ict Ltd": 1
+  },
+  "12203771": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12204933": {
+    "Carlcare-Warri": 3
+  },
+  "12205837": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "12206390": {
+    "Carlcare-Warri": 1
+  },
+  "12206614": {
+    "L4 PCBA Repair": 1
+  },
+  "12206683": {
+    "L4 PCBA Repair": 1,
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12709856": {
+    "Carlcare-Ibadan": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 2
+  },
+  "17201986": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "23002514": {
+    "Carlcare-Warri": 1,
+    "ASC-M-Midas Touch Kaduna": 1
+  },
+  "23202557": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "37300409": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 3
+  },
+  "37500026": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "38104024": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 2
+  },
+  "38104470": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  },
+  "10084248": {
+    "Carlcare-Kano": 2
+  },
+  "10084332": {
+    "Carlcare-Kano": 2,
+    "Carlcare-Port-harcourt": 1
+  },
+  "10312888": {
+    "ASC-M-Midas Touch Akure": 1,
+    "ASC-M-Adehero Service": 1
+  },
+  "10314035": {
+    "ASC-M-Midas Touch Akure": 2
+  },
+  "10322471": {
+    "Carlcare-Port-harcourt": 1
+  },
+  "10718495": {
+    "Carlcare-Kano": 1
+  },
+  "12112449": {
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "Benin-MWH": 1
+  },
+  "12113520": {
+    "ASC-M-Haslida Concept": 1
+  },
+  "12203086": {
+    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  },
+  "12206738": {
+    "ASC-M-Delinks Matrix Ikorodu": 2
+  },
+  "17401874": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Triple Sea Integrated Services Ltd": 1
+  },
+  "17401881": {
+    "Carlcare-Onitsha": 2
+  },
+  "17601244": {
+    "ASC-M-Ifix Repair Hub": 1
+  },
+  "17601297": {
+    "ASRP-SmartPhone Global": 1
+  },
+  "17601301": {
+    "ASC-M-Don-Yellow Tech": 1
+  },
+  "25002280": {
+    "ASC-M-Reedlim Global Enterprise Gombe": 1,
+    "Carlcare-Port-harcourt": 1
+  },
+  "10306235": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "10308600": {
+    "ASC-M-Greenfield Gadgets Solution Calabar": 1
+  },
+  "10315910": {
+    "ASC-M-Yisab Communication Nigeria": 1,
+    "ASC-M-Innive Technologies Ikotun": 2
+  },
+  "10315922": {
+    "ASC-M-Beecasual Ventures": 1
+  },
+  "10319819": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12104372": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "12113623": {
+    "Carlcare-CV(Computer Village)": 1,
+    "ASC-M-Delinks Matrix Ikorodu": 1
+  },
+  "12114880": {
+    "ASC-M-Neyo Multi Global Concept": 1
+  },
+  "12114984": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Ifix Repair Hub": 3
+  },
+  "12116183": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 2
+  },
+  "12116394": {
+    "ASC-M-Breva Enterprises Limited Ilorin": 1,
+    "ASC-M-Zikniks Enterprises Limited": 2
+  },
+  "17601311": {
+    "Carlcare-Benin": 1
+  },
+  "19401104": {
+    "ASC-M-Reedlim Global Enterprise Bauchi": 1
+  },
+  "30104709": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "30104710": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "37200058": {
+    "ASRP-Snappy Fix": 1
+  },
+  "10310261": {
+    "L4 Device Repair": 1
+  },
+  "12704273": {
+    "ASC-M-Triple Sea Integrated Services Ltd": 1
+  },
+  "12704989": {
+    "L4 Device Repair": 3
+  },
+  "12707515": {
+    "L4 Device Repair": 5
+  },
+  "12707932": {
+    "L4 Device Repair": 1
+  },
+  "12708243": {
+    "L4 Device Repair": 1
+  },
+  "12709932": {
+    "ASC-M-Femtech Information Technology Ltd": 1
   },
   "19401287": {
     "L4 Device Repair": 1
@@ -4712,9 +4793,6 @@
   },
   "21303565": {
     "L4 Device Repair": 2
-  },
-  "23002733": {
-    "Carlcare-Benin": 1
   },
   "23502642": {
     "L4 Device Repair": 1
@@ -4733,6 +4811,9 @@
   },
   "25001539": {
     "L4 Device Repair": 1
+  },
+  "25001577": {
+    "L4 Device Repair": 3
   },
   "25001586": {
     "L4 Device Repair": 2
@@ -4779,8 +4860,9 @@
   "25001908": {
     "L4 Device Repair": 1
   },
-  "25001962": {
-    "L4 Device Repair": 1
+  "25001982": {
+    "L4 Device Repair": 1,
+    "ASC-M-Greenfield Gadgets Solution Enugu": 3
   },
   "25002118": {
     "L4 Device Repair": 2
@@ -4808,9 +4890,6 @@
   },
   "25002214": {
     "L4 Device Repair": 3
-  },
-  "25002216": {
-    "L4 Device Repair": 1
   },
   "25002227": {
     "L4 Device Repair": 2
@@ -4848,18 +4927,8 @@
   "25002574": {
     "L4 Device Repair": 3
   },
-  "25002628": {
-    "ASRP-SmartPhone Global": 1,
-    "NGSI03761-D'Care Concept Limited(Amukoko)": 1
-  },
-  "25002726": {
-    "ASC-M-Zikniks Enterprises Maiduguri": 1
-  },
   "25002816": {
     "L4 Device Repair": 5
-  },
-  "25002892": {
-    "ASC-M-Haven Buddy Integrated Concept": 2
   },
   "38102104": {
     "L4 Device Repair": 1
@@ -4867,322 +4936,110 @@
   "38102114": {
     "L4 Device Repair": 1
   },
-  "38104883": {
-    "ASC-M-Neyo Multi Global Concept": 1
+  "12115382": {
+    "NGSI03851- ASC-M-Topnotch Tech Hub": 1
   },
-  "38105060": {
-    "ASC-M-Haven Buddy Integrated Concept": 1
+  "10083444": {
+    "Carlcare-Kano": 2
   },
-  "12110860": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "12204192": {
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "ASC-M-Femtech Offa": 3
-  },
-  "14601249": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "17201708": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "17201829": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "19501144": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "23001866": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1,
-    "L4 Device Repair": 1
-  },
-  "23002657": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "23002661": {
-    "ASC-M-MMS Dot Global Ventures Limited": 1
-  },
-  "23002808": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 2
-  },
-  "25002786": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "10312381": {
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "10312718": {
-    "Carlcare-Lagos Victoria Island(3chub)": 1,
-    "Carlcare-CV(Computer Village)": 3
-  },
-  "10317337": {
-    "Carlcare-Lagos Victoria Island(3chub)": 1
-  },
-  "10323076": {
-    "ASC-M-Greenfield Gadgets Solution Orlu": 1,
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "12112555": {
-    "Carlcare-Port-harcourt": 1
-  },
-  "12116666": {
-    "ASC-M-Don-Yellow Tech": 1
-  },
-  "12205837": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "12206390": {
-    "Carlcare-Warri": 1
-  },
-  "17201935": {
-    "ASC-M-Breva Enterprises Limited Lagos": 1
-  },
-  "17201986": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "19401350": {
-    "ASC-M-Breva Enterprises Limited Lagos": 1
-  },
-  "23202557": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "37300409": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 3
-  },
-  "37500026": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "38104024": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 2
-  },
-  "38104470": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
-  },
-  "10312888": {
-    "ASC-M-Midas Touch Akure": 1,
-    "ASC-M-Adehero Service": 1
-  },
-  "10314035": {
-    "ASC-M-Midas Touch Akure": 2
-  },
-  "10322471": {
-    "Carlcare-Port-harcourt": 1,
-    "ASRP-NEXT CARE LIMITED": 1
-  },
-  "12106956": {
-    "ASC-M-Maxwell Telecoms Nig Ents.": 1
-  },
-  "12113520": {
-    "ASC-M-Haslida Concept": 1
-  },
-  "12115192": {
-    "ASC-M-Innive Technologies Alaba": 1
-  },
-  "12203086": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
-  },
-  "12206138": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "12206614": {
-    "L4 PCBA Repair": 1
-  },
-  "12206738": {
-    "ASC-M-Delinks Matrix Ikorodu": 2
-  },
-  "12207188": {
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "12708045": {
-    "ASC-M-Midas Touch Akure": 2
-  },
-  "12709332": {
-    "ASC-M-Don-Yellow Tech": 1,
-    "Carlcare-Onitsha": 1
-  },
-  "17201919": {
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "17201981": {
-    "ASRP-Kal care Service": 1
-  },
-  "17401802": {
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "17401837": {
-    "Carlcare-Port-harcourt": 1,
-    "ASC-M-Midas Touch Akure": 2,
-    "Benin-MWH": 1
-  },
-  "17401991": {
-    "ASC-M-Midas Touch Akure": 2,
-    "ASC-M-Ifix Repair Hub": 2
-  },
-  "17601244": {
-    "ASC-M-Ifix Repair Hub": 1
-  },
-  "17601301": {
-    "ASC-M-Don-Yellow Tech": 1
-  },
-  "21002439": {
-    "ASRP-T.Comm": 1
-  },
-  "21204266": {
-    "ASRP-T.Comm": 1
-  },
-  "21303242": {
-    "ASRP-T.Comm": 1
-  },
-  "21400175": {
-    "ASC-M-Midas Touch Akure": 3
-  },
-  "25001256": {
-    "ASRP-T.Comm": 1
-  },
-  "25002280": {
-    "ASC-M-Reedlim Global Enterprise Gombe": 1
-  },
-  "37300880": {
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "38106738": {
-    "ASC-M-Midas Touch Akure": 2
-  },
-  "10311214": {
-    "ASC-M-Ustaz Exclusive Stores": 1
-  },
-  "10315910": {
-    "ASC-M-Yisab Communication Nigeria": 1
-  },
-  "10315922": {
-    "ASC-M-Beecasual Ventures": 1
-  },
-  "10316062": {
-    "ASC-M-Ustaz Exclusive Stores": 1
-  },
-  "12104372": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1,
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12114984": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Ifix Repair Hub": 3
-  },
-  "12116183": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 2
-  },
-  "12116394": {
-    "ASC-M-Breva Enterprises Limited Ilorin": 1,
-    "ASC-M-Zikniks Enterprises Limited": 2
-  },
-  "12116682": {
-    "ASC-M-Triple Sea Integrated Services Ltd": 1,
-    "Benin-MWH": 1
-  },
-  "12207801": {
-    "ASC-M-Haslida Concept": 1
-  },
-  "19401104": {
-    "ASC-M-Reedlim Global Enterprise Bauchi": 1
-  },
-  "38104230": {
-    "ASC-M-Midas Touch Akure": 1
-  },
-  "10310290": {
-    "ASC-M-Midas Touch Lagos": 3
-  },
-  "12113623": {
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "12114880": {
-    "ASC-M-Neyo Multi Global Concept": 1
-  },
-  "12205477": {
-    "ASC-M-Matga Service Oye": 1
-  },
-  "12207266": {
-    "ASC-M-Bluegate Bamboo Ajah-TypeB": 1
-  },
-  "17202033": {
-    "ASC-M-Sgv Ict Ltd": 1
-  },
-  "23002719": {
-    "ASC-M-Greenfield Gadgets Solution Aba": 1
+  "10089108": {
+    "Carlcare-Kano": 1
   },
   "10307523": {
     "Carlcare-CV(Computer Village)": 1
   },
-  "10308847": {
-    "Carlcare-CV(Computer Village)": 1
+  "10310294": {
+    "Carlcare-CV(Computer Village)": 2,
+    "ASC-M-Midas Touch Lagos": 3
   },
-  "10313363": {
-    "ASC-M-Haven Buddy Integrated Concept": 1,
-    "ASC-M-Breva Enterprises Limited Ilorin": 1
-  },
-  "10315413": {
+  "10313182": {
     "Carlcare-CV(Computer Village)": 1
   },
   "10317378": {
     "Carlcare-CV(Computer Village)": 1
   },
-  "10317397": {
-    "ASRP-NEXT CARE LIMITED": 2
-  },
   "10319092": {
     "Carlcare-CV(Computer Village)": 1
-  },
-  "10320168": {
-    "ASC-M-Delinks Matrix Ikorodu": 1
-  },
-  "10321237": {
-    "ASRP-NEXT CARE LIMITED": 1
-  },
-  "12112901": {
-    "ASC-M-Matga Service": 3
   },
   "12112924": {
     "ASC-M-Crescita Global Resources Ltd": 1
   },
-  "12113058": {
-    "ASC-M-Matga Service": 2,
-    "L4 Device Repair": 2
-  },
-  "12116477": {
-    "ASRP  Bounovalia Ventures": 1
-  },
-  "12206791": {
-    "ASC-M-Monday Mega Enterprise": 1
-  },
-  "12708459": {
-    "ASC-M-Midas Touch Sokoto": 1
-  },
   "12709303": {
     "ASC-M-Crescita Global Resources Ltd": 1
   },
+  "17601112": {
+    "ASC-M-Greenfield Gadgets Solution Enugu": 2
+  },
   "17601343": {
     "Carlcare-Onitsha": 1
+  },
+  "17601411": {
+    "ASC-M-Beecasual Ventures": 2
   },
   "23002269": {
     "ASC-M-Haven Buddy Integrated Concept": 1,
     "L4 Device Repair": 1
   },
+  "23002413": {
+    "ASC-M-Haven Buddy Integrated Concept": 1,
+    "L4 Device Repair": 2
+  },
+  "10320046": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
+  },
+  "12103914": {
+    "Benin-MWH": 6
+  },
+  "12109287": {
+    "Benin-MWH": 4
+  },
+  "12112155": {
+    "Benin-MWH": 1
+  },
+  "12112901": {
+    "ASC-M-Matga Service": 3
+  },
+  "12206791": {
+    "ASC-M-Monday Mega Enterprise": 1
+  },
+  "12207873": {
+    "ASC-M-Greenfield Gadgets Solution Uyo": 1
+  },
+  "12702702": {
+    "Benin-MWH": 1
+  },
+  "12703583": {
+    "Benin-MWH": 1
+  },
+  "12704945": {
+    "Benin-MWH": 1
+  },
+  "12708332": {
+    "ASC-M-Midas Touch Lagos": 1
+  },
+  "17401880": {
+    "Carlcare-Onitsha": 2
+  },
+  "17601154": {
+    "Carlcare-Abuja": 2
+  },
   "23002607": {
     "Carlcare-Abuja": 1
+  },
+  "25002719": {
+    "NGSI03761-D'Care Concept Limited(Amukoko)": 1
   },
   "38103349": {
     "ASC-M-Matga Service": 10
   },
-  "10084331": {
-    "Carlcare-CV(Computer Village)": 1
+  "10086020": {
+    "Carlcare-Port-harcourt": 1
   },
-  "10308695": {
-    "Carlcare-Onitsha": 1
+  "10314025": {
+    "ASC-M-Great Mind Telecom Service": 1
   },
   "12103678": {
     "L4 Device Repair": 2
-  },
-  "12103914": {
-    "Benin-MWH": 6
   },
   "12104672": {
     "L4 Device Repair": 2
@@ -5271,12 +5128,6 @@
   "12108859": {
     "L4 Device Repair": 3
   },
-  "12109287": {
-    "Benin-MWH": 4
-  },
-  "12109609": {
-    "L4 Device Repair": 1
-  },
   "12109736": {
     "L4 Device Repair": 4
   },
@@ -5349,8 +5200,8 @@
   "12112117": {
     "L4 Device Repair": 1
   },
-  "12112155": {
-    "Benin-MWH": 1
+  "12112150": {
+    "L4 Device Repair": 3
   },
   "12112200": {
     "L4 Device Repair": 9
@@ -5363,9 +5214,6 @@
   },
   "12112465": {
     "L4 Device Repair": 2
-  },
-  "12112679": {
-    "L4 Device Repair": 5
   },
   "12112774": {
     "L4 Device Repair": 5
@@ -5380,8 +5228,7 @@
     "L4 Device Repair": 1
   },
   "12113872": {
-    "L4 Device Repair": 9,
-    "ASC-M-Delinks Matrix Ikorodu": 1
+    "L4 Device Repair": 9
   },
   "12114104": {
     "L4 Device Repair": 2
@@ -5403,6 +5250,12 @@
   },
   "12115166": {
     "L4 Device Repair": 2
+  },
+  "12116477": {
+    "Carlcare-CV(Computer Village)": 1
+  },
+  "12116682": {
+    "Benin-MWH": 1
   },
   "12202725": {
     "L4 Device Repair": 2
@@ -5452,6 +5305,9 @@
   "12205555": {
     "L4 Device Repair": 1
   },
+  "12205629": {
+    "L4 Device Repair": 4
+  },
   "12205633": {
     "L4 Device Repair": 1
   },
@@ -5468,11 +5324,14 @@
   "12206457": {
     "L4 Device Repair": 1
   },
-  "12206687": {
-    "ASC-M-Zikniks Enterprises Limited": 1
+  "12207188": {
+    "ASC-M-Midas Touch Akure": 1
   },
   "12207382": {
     "ASC-M-Femtech Offa": 2
+  },
+  "12207518": {
+    "ASC-M-Haven Buddy Integrated Concept": 1
   },
   "12207672": {
     "ASC-M-Femtech Offa": 3
@@ -5480,20 +5339,11 @@
   "12207740": {
     "ASC-M-Femtech Offa": 1
   },
-  "12207873": {
-    "ASC-M-Greenfield Gadgets Solution Uyo": 1
-  },
   "12700701": {
     "L4 Device Repair": 1
   },
   "12700909": {
     "ASC-M-Femtech Offa": 2
-  },
-  "12702702": {
-    "Benin-MWH": 1
-  },
-  "12703583": {
-    "Benin-MWH": 1
   },
   "12703652": {
     "L4 Device Repair": 1
@@ -5506,9 +5356,6 @@
   },
   "12704927": {
     "L4 Device Repair": 4
-  },
-  "12704945": {
-    "Benin-MWH": 1
   },
   "12705028": {
     "L4 Device Repair": 2
@@ -5530,9 +5377,6 @@
   },
   "12706036": {
     "L4 Device Repair": 1
-  },
-  "12706055": {
-    "ASC-M-Innive Technologies Alaba": 1
   },
   "12706056": {
     "L4 Device Repair": 2
@@ -5561,6 +5405,9 @@
   "12707481": {
     "L4 Device Repair": 1
   },
+  "12708045": {
+    "ASC-M-Midas Touch Akure": 2
+  },
   "12708726": {
     "ASC-M-Femtech Offa": 2,
     "Benin-MWH": 1
@@ -5571,14 +5418,11 @@
   "12709642": {
     "L4 Device Repair": 1
   },
-  "17001460": {
-    "ASC-M-Carosammy Concept Ltd": 2
+  "17201919": {
+    "ASC-M-Midas Touch Akure": 1
   },
-  "17001483": {
-    "ASC-M-Zikniks Enterprises Limited": 1
-  },
-  "17201856": {
-    "ASC-M-Midas touch Jos": 1
+  "17401802": {
+    "ASC-M-Midas Touch Akure": 1
   },
   "17402000": {
     "ASC-M-Femtech Offa": 1
@@ -5628,14 +5472,11 @@
   "17601129": {
     "L4 Device Repair": 5
   },
-  "17601154": {
-    "Carlcare-Abuja": 2
-  },
   "17601165": {
     "L4 Device Repair": 2
   },
-  "17601357": {
-    "ASC-M-Zikniks Enterprises Limited": 1
+  "17601329": {
+    "Carlcare-Ibadan": 1
   },
   "19101114": {
     "L4 Device Repair": 1
@@ -5705,6 +5546,9 @@
   },
   "19101413": {
     "L4 Device Repair": 2
+  },
+  "21400175": {
+    "ASC-M-Midas Touch Akure": 3
   },
   "23001546": {
     "L4 Device Repair": 1
@@ -5801,9 +5645,6 @@
   },
   "23001954": {
     "L4 Device Repair": 8
-  },
-  "23001955": {
-    "L4 Device Repair": 2
   },
   "23001960": {
     "L4 Device Repair": 1
@@ -6021,6 +5862,12 @@
   "23002487": {
     "L4 Device Repair": 2
   },
+  "23002500": {
+    "L4 Device Repair": 1
+  },
+  "23002501": {
+    "L4 Device Repair": 1
+  },
   "23002506": {
     "L4 Device Repair": 3
   },
@@ -6034,8 +5881,9 @@
     "L4 Device Repair": 5
   },
   "23002613": {
+    "L4 Device Repair": 2,
     "Carlcare-Onitsha": 1,
-    "L4 Device Repair": 2
+    "ASC-M-New Moon Unique Link": 2
   },
   "23002624": {
     "L4 Device Repair": 1
@@ -6055,6 +5903,9 @@
   "37000120": {
     "L4 Device Repair": 7
   },
+  "37300880": {
+    "ASC-M-Midas Touch Akure": 1
+  },
   "38000072": {
     "L4 Device Repair": 1
   },
@@ -6070,45 +5921,27 @@
   "38103678": {
     "L4 Device Repair": 1
   },
-  "10314025": {
-    "ASC-M-Great Mind Telecom Service": 1
+  "38106738": {
+    "ASC-M-Midas Touch Akure": 2
   },
-  "17201963": {
-    "ASC-M-Crescita Global Resources Ltd": 1
-  },
-  "12104200": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12108366": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12108415": {
-    "ASC-M-Neyo Multi Global Concept": 1
-  },
-  "12111685": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12112130": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12112530": {
-    "ASC-M-Femtech Information Technology Ltd": 1
+  "12114986": {
+    "ASC-M-Sulit Hub Ota": 1
   },
   "12204451": {
     "Benin-MWH": 1
   },
   "12205392": {
-    "Carlcare-Port-harcourt": 1,
-    "Benin-MWH": 2
-  },
-  "12205775": {
-    "ASC-M-Femtech Information Technology Ltd": 1
+    "Benin-MWH": 2,
+    "Carlcare-Port-harcourt": 1
   },
   "12205946": {
     "Benin-MWH": 1
   },
   "12206628": {
     "Benin-MWH": 2
+  },
+  "12206642": {
+    "Benin-MWH": 3
   },
   "12207118": {
     "Benin-MWH": 1
@@ -6118,6 +5951,9 @@
   },
   "12207381": {
     "Benin-MWH": 1
+  },
+  "12208406": {
+    "Benin-MWH": 2
   },
   "12704518": {
     "Benin-MWH": 1
@@ -6147,7 +5983,8 @@
     "Benin-MWH": 2
   },
   "12705657": {
-    "Benin-MWH": 1
+    "Benin-MWH": 1,
+    "ASC-M-Matga Service": 1
   },
   "12705665": {
     "Benin-MWH": 1
@@ -6161,13 +5998,10 @@
   "12705704": {
     "Benin-MWH": 1
   },
-  "12706462": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
-  "12707020": {
-    "ASC-M-Femtech Information Technology Ltd": 1
-  },
   "12708237": {
+    "Benin-MWH": 1
+  },
+  "12708240": {
     "Benin-MWH": 1
   },
   "12708456": {
@@ -6191,10 +6025,22 @@
   "17401940": {
     "Benin-MWH": 1
   },
+  "17401967": {
+    "Benin-MWH": 5
+  },
   "17401979": {
     "Benin-MWH": 2
   },
+  "12206516": {
+    "NGSI03781-Gadgets Place Ng Ltd": 1
+  },
+  "12710207": {
+    "ASC-M-Adehero Service": 1
+  },
   "37200260": {
     "ASC-M-Midas Touch Akure": 1
+  },
+  "12207266": {
+    "Niger-MWH": 1
   }
 }
