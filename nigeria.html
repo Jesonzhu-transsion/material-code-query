@@ -9,354 +9,98 @@
     <meta name="google" content="notranslate">
     <title>Nigeria Inventory Query System</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
             background: linear-gradient(135deg, #008751 0%, #ffffff 50%, #008751 100%);
             min-height: 100vh;
             padding: 20px;
         }
-        
-        .main-content {
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        .header {
-            text-align: center;
-            color: white;
-            margin-bottom: 10px;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
-        }
-        
-        .header h1 {
-            font-size: 1.6em;
-            margin-bottom: 6px;
-            display: none;
-        }
-        
-        .header p {
-            opacity: 0.95;
-            font-size: 0.85em;
-            font-weight: 500;
-        }
-        
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; color: white; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); }
+        .header h1 { font-size: 1.6em; margin-bottom: 6px; display: none; }
+        .header p { opacity: 0.95; font-size: 0.85em; font-weight: 500; }
         .flag-badge {
             display: inline-block;
             background: linear-gradient(90deg, #008751 33%, #ffffff 33%, #ffffff 66%, #008751 66%);
-            padding: 4px 16px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            padding: 4px 16px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #333;
+            margin-bottom: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);
         }
-        
-        .search-card {
-            background: white;
-            border-radius: 10px;
-            padding: 16px 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            margin-bottom: 12px;
+        .search-card { background: white; border-radius: 10px; padding: 16px 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 12px; }
+        .search-form { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+        .form-group { display: flex; align-items: center; gap: 8px; flex: 1; min-width: 0; }
+        .form-group label { white-space: nowrap; margin-bottom: 0; color: #333; font-weight: 500; font-size: 12px; }
+        .form-group input[type="text"] {
+            padding: 8px 10px; border: 1px solid #e0e0e0; border-radius: 6px;
+            font-size: 13px; outline: none; background: white; width: 100%; min-width: 120px;
         }
-        
-        .search-form {
-            display: flex;
-            gap: 15px;
-            flex-wrap: nowrap;
-            align-items: center;
-        }
-        
-        .form-group {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            flex: 1;
-            min-width: 0;
-        }
-        
-        .form-group label {
-            white-space: nowrap;
-            margin-bottom: 0;
-            color: #333;
-            font-weight: 500;
-            font-size: 12px;
-        }
-        
-        .warehouse-box {
-            position: relative;
-            min-width: 260px;
-            max-width: 100%;
-            flex: 2;
-        }
-        
-        .warehouse-box input[type="text"] {
-            width: 100%;
-            padding: 8px 10px;
-            border: 1px solid #e0e0e0;
-            border-radius: 6px;
-            font-size: 13px;
-            outline: none;
-            background: white;
-        }
-        
+        .form-group input:focus { outline: none; border-color: #008751; }
+        .warehouse-box { position: relative; min-width: 200px; max-width: 100%; flex: 2; }
         .warehouse-list {
-            display: none;
-            position: absolute;
-            top: 100%;
-            left: 0;
-            right: 0;
-            z-index: 100;
-            grid-template-columns: 1fr 1fr;
-            gap: 4px 12px;
-            max-height: 200px;
-            overflow-y: auto;
-            padding: 6px 8px;
-            background: white;
-            border: 1px solid #e0e0e0;
-            border-top: none;
-            border-radius: 0 0 6px 6px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            display: none; position: absolute; top: 100%; left: 0; right: 0; z-index: 100;
+            grid-template-columns: 1fr 1fr; gap: 4px 12px; max-height: 200px; overflow-y: auto;
+            padding: 6px 8px; background: white; border: 1px solid #e0e0e0; border-top: none;
+            border-radius: 0 0 6px 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
-        
-        .warehouse-box:focus-within .warehouse-list {
-            display: grid;
-        }
-        
-        .warehouse-item {
-            display: flex;
-            align-items: center;
-            gap: 3px;
-            font-size: 11px;
-        }
-        
-        .warehouse-item input[type="checkbox"] {
-            margin: 0;
-            cursor: pointer;
-        }
-        
-        .warehouse-item label {
-            cursor: pointer;
-            user-select: none;
-        }
-        
-        .form-group input:focus,
-        .form-group select:focus {
-            outline: none;
-            border-color: #008751;
-        }
-        
+        .warehouse-box:focus-within .warehouse-list { display: grid; }
+        .warehouse-item { display: flex; align-items: center; gap: 3px; font-size: 11px; }
+        .warehouse-item input[type="checkbox"] { margin: 0; cursor: pointer; }
+        .warehouse-item label { cursor: pointer; user-select: none; }
         .search-btn {
-            padding: 8px 24px;
-            background: linear-gradient(135deg, #008751 0%, #006b3f 100%);
-            color: white;
-            border: none;
-            border-radius: 6px;
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
+            padding: 8px 24px; background: linear-gradient(135deg, #008751 0%, #006b3f 100%);
+            color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: 600;
+            cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; white-space: nowrap;
         }
-        
-        .search-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(0, 135, 81, 0.3);
-        }
-        
-        .search-btn:disabled {
-            opacity: 0.6;
-            cursor: not-allowed;
-            transform: none;
-        }
-        
-        .result-card {
-            background: white;
-            border-radius: 10px;
-            padding: 16px 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            display: none;
-        }
-        
-        .result-card.show {
-            display: block;
-        }
-        
-        .summary {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-            gap: 10px;
-            margin-bottom: 14px;
-        }
-        
-        .summary-item {
-            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-            padding: 10px 12px;
-            border-radius: 8px;
-            text-align: center;
-        }
-        
-        .summary-item .label {
-            color: #666;
-            font-size: 11px;
-            margin-bottom: 4px;
-        }
-        
-        .summary-item .value {
-            font-size: 22px;
-            font-weight: bold;
-            color: #333;
-        }
-        
-        .summary-item.main .value {
-            color: #008751;
-        }
-        
-        .summary-item.sub .value {
-            color: #006b3f;
-        }
-        
-        .summary-item.total .value {
-            color: #2ecc71;
-        }
-        
-        .table-section {
-            margin-top: 20px;
-        }
-        
-        .table-section h3 {
-            margin-bottom: 8px;
-            color: #333;
-            font-size: 14px;
-        }
-        
-        .table-wrapper {
-            overflow-x: auto;
-            border-radius: 8px;
-            border: 1px solid #e0e0e0;
-        }
-        
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background: white;
-        }
-        
-        th {
-            background: linear-gradient(135deg, #008751 0%, #006b3f 100%);
-            color: white;
-            padding: 8px 10px;
-            text-align: left;
-            font-weight: 600;
-            font-size: 12px;
-        }
-        
-        td {
-            padding: 6px 10px;
-            border-bottom: 1px solid #f0f0f0;
-            font-size: 12px;
-        }
-        
-        tr:hover {
-            background: #f8f9fa;
-        }
-        
-        .badge {
-            display: inline-block;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-        }
-        
-        .badge.main {
-            background: #008751;
-            color: white;
-        }
-        
-        .badge.sub {
-            background: #006b3f;
-            color: white;
-        }
-        
-        .stock-good {
-            color: #2ecc71;
-            font-weight: 600;
-        }
-        
-        .stock-low {
-            color: #f39c12;
-            font-weight: 600;
-        }
-        
-        .stock-zero {
-            color: #e74c3c;
-            font-weight: 600;
-        }
-        
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #666;
-        }
-        
-        .loading::after {
-            content: '...';
-            animation: dots 1.5s steps(5, end) infinite;
-        }
-        
-        @keyframes dots {
-            0%, 20% { content: '.'; }
-            40% { content: '..'; }
-            60% { content: '...'; }
-            80%, 100% { content: ''; }
-        }
-        
-        .error {
-            background: #fee;
-            color: #c33;
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 20px;
-            display: none;
-        }
-        
-        .error.show {
-            display: block;
-        }
-        
-        .update-time {
-            text-align: center;
-            color: rgba(255,255,255,0.9);
-            margin-top: 20px;
-            font-size: 14px;
-            font-weight: 500;
-            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
-        }
+        .search-btn:hover { transform: translateY(-2px); box-shadow: 0 10px 20px rgba(0, 135, 81, 0.3); }
+        .result-card { background: white; border-radius: 10px; padding: 16px 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: none; }
+        .result-card.show { display: block; }
+        .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 14px; }
+        .summary-item { background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 10px 12px; border-radius: 8px; text-align: center; }
+        .summary-item .label { color: #666; font-size: 11px; margin-bottom: 4px; }
+        .summary-item .value { font-size: 22px; font-weight: bold; color: #333; }
+        .summary-item.main .value { color: #008751; }
+        .summary-item.sub .value { color: #006b3f; }
+        .summary-item.total .value { color: #2ecc71; }
+        .table-section { margin-top: 20px; }
+        .table-wrapper { overflow-x: auto; border-radius: 8px; border: 1px solid #e0e0e0; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th { background: linear-gradient(135deg, #008751 0%, #006b3f 100%); color: white; padding: 8px 10px; text-align: left; font-weight: 600; font-size: 12px; }
+        td { padding: 6px 10px; border-bottom: 1px solid #f0f0f0; font-size: 12px; }
+        tr:hover { background: #f8f9fa; }
+        .badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+        .badge.main { background: #008751; color: white; }
+        .badge.sub { background: #006b3f; color: white; }
+        .stock-good { color: #2ecc71; font-weight: 600; }
+        .stock-low { color: #f39c12; font-weight: 600; }
+        .stock-zero { color: #e74c3c; font-weight: 600; }
+        .loading { text-align: center; padding: 40px; color: #666; }
+        .error { background: #fee; color: #c33; padding: 15px; border-radius: 8px; margin-top: 20px; display: none; }
+        .error.show { display: block; }
+        .update-time { text-align: center; color: rgba(255,255,255,0.9); margin-top: 20px; font-size: 14px; font-weight: 500; text-shadow: 0 1px 2px rgba(0,0,0,0.3); }
+        .result-count { font-size: 12px; color: #666; margin-bottom: 8px; }
     </style>
 </head>
 <body>
-    <div class="main-content" id="mainContent">
     <div class="container">
         <div class="header">
             <div class="flag-badge">🇳🇬 NIGERIA</div>
-            <h1> Nigeria Inventory Query System</h1>
+            <h1>Nigeria Inventory Query System</h1>
             <p>Query Good stock for materials and their substitutes by warehouse</p>
         </div>
-        
+
         <div class="search-card">
             <div class="search-form">
                 <div class="form-group">
                     <label>Material Code</label>
-                    <input type="text" id="materialCode" placeholder="Enter 8-digit code, e.g. 12116666" style="min-width:260px;padding:8px 10px;border:1px solid #e0e0e0;border-radius:6px;font-size:13px;">
+                    <input type="text" id="materialCode" placeholder="e.g. 12206192" style="min-width:160px;">
+                </div>
+                <div class="form-group">
+                    <label>Model</label>
+                    <input type="text" id="modelFilter" placeholder="e.g. KM5" style="min-width:100px;">
+                </div>
+                <div class="form-group">
+                    <label>Brand</label>
+                    <input type="text" id="brandFilter" placeholder="e.g. TECNO" style="min-width:100px;">
                 </div>
                 <div class="form-group">
                     <label>Warehouse</label>
@@ -365,14 +109,18 @@
                         <div class="warehouse-list" id="warehouseList"></div>
                     </div>
                 </div>
+                <div class="form-group">
+                    <label>Material Type</label>
+                    <input type="text" id="typeFilter" placeholder="e.g. 122" style="min-width:80px;">
+                </div>
                 <button class="search-btn" id="searchBtn">🔍 Query</button>
             </div>
             <div class="error" id="errorMsg"></div>
         </div>
-        
+
         <div class="result-card" id="resultCard">
             <div class="summary" id="summary"></div>
-            
+            <div class="result-count" id="resultCount"></div>
             <div class="table-section">
                 <div class="table-wrapper">
                     <table id="resultTable">
@@ -380,7 +128,10 @@
                             <tr>
                                 <th>Material Code</th>
                                 <th>Description</th>
+                                <th>Model</th>
+                                <th>Brand</th>
                                 <th>Warehouse</th>
+                                <th>Material Type</th>
                                 <th>Good Stock</th>
                                 <th>In Transit</th>
                                 <th>Type</th>
@@ -391,18 +142,15 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="update-time" id="updateTime" style="display:none;"></div>
     </div>
-    </div>
-    
+
     <script>
-        // Warehouse code to name mapping
         let inventoryData = null;
         let substituteData = null;
         let inTransitData = null;
-        
-        // Load data
+
         async function loadData() {
             try {
                 const [invRes, subRes, transitRes] = await Promise.all([
@@ -410,18 +158,13 @@
                     fetch('substitute_map.json?t=' + Date.now()),
                     fetch('in_transit_index.json?t=' + Date.now())
                 ]);
-                
-                if (!invRes.ok || !subRes.ok) {
-                    throw new Error('Failed to load data');
-                }
-                
+                if (!invRes.ok || !subRes.ok) throw new Error('Failed to load data');
+
                 const rawInventory = await invRes.json();
                 substituteData = await subRes.json();
                 const rawTransit = await transitRes.json();
-                
-                // Convert inventory data: new format is array of records per material
-                // Old format expected by search: {code: {warehouse: {Good: qty}, _desc: "..."}}
-                // New format: {code: [{warehouseName, status, quantity, materialDesc, ...}]}
+
+                // Convert inventory data (handle both old and new format)
                 const convertedInventory = {};
                 for (const [code, records] of Object.entries(rawInventory)) {
                     if (!Array.isArray(records)) {
@@ -441,16 +184,11 @@
                     convertedInventory[code] = warehouses;
                 }
                 inventoryData = convertedInventory;
-                
-                // Convert in-transit data: new format is array of records per material
-                // Old format expected: {code: {warehouse: qty}}
-                // New format: {code: [{warehouseName, quantity, ...}]}
+
+                // Convert in-transit data
                 const convertedTransit = {};
                 for (const [code, records] of Object.entries(rawTransit)) {
-                    if (!Array.isArray(records)) {
-                        convertedTransit[code] = records;
-                        continue;
-                    }
+                    if (!Array.isArray(records)) { convertedTransit[code] = records; continue; }
                     const warehouses = {};
                     for (const r of records) {
                         const wh = r.warehouseName;
@@ -459,482 +197,247 @@
                     convertedTransit[code] = warehouses;
                 }
                 inTransitData = convertedTransit;
-                
-                // Nigeria warehouse list
+
+                // Warehouse list
                 const fixedWarehouses = [
-    'ASC-M-Adehero Service',
-    'ASC-M-Beecasual Ventures',
-    'ASC-M-Bestfix',
-    'ASC-M-Bluegate Bamboo Ajah-TypeB',
-    'ASC-M-Bluegate Bamboo Mushin-TypeB',
-    'ASC-M-Breva Enterprises Limited Ilorin',
-    'ASC-M-Breva Enterprises Limited Lagos',
-    'ASC-M-Carosammy Concept Ltd',
-    'ASC-M-Crescita Global Resources Ltd',
-    'ASC-M-Darigo 03 Communication Ltd',
-    'ASC-M-Delink Matrix Lakowe',
-    'ASC-M-Delinks Matrix Ikorodu',
-    'ASC-M-Device Hub Limited',
-    'ASC-M-Don-Yellow Tech',
-    'ASC-M-Femtech Information Technology Ltd',
-    'ASC-M-Femtech Offa',
-    'ASC-M-G-Care Communication',
-    'ASC-M-Gifted hands Tech',
-    'ASC-M-Golden Eagle Technology Limited Ajegunle',
-    'ASC-M-Golden Eagle Technology Limited Festac',
-    'ASC-M-Grand Venadum Resource Limited',
-    'ASC-M-Great Mind Telecom Service',
-    'ASC-M-Greenfield Gadgets Solution Aba',
-    'ASC-M-Greenfield Gadgets Solution Calabar',
-    'ASC-M-Greenfield Gadgets Solution Enugu',
-    'ASC-M-Greenfield Gadgets Solution Nsukka',
-    'ASC-M-Greenfield Gadgets Solution Orlu',
-    'ASC-M-Greenfield Gadgets Solution Uyo',
-    'ASC-M-Haslida Concept',
-    'ASC-M-Haven Buddy Integrated Concept',
-    'ASC-M-Ifix Repair Hub',
-    'ASC-M-Innive Technologies (Itel Homes)',
-    'ASC-M-Innive Technologies Alaba',
-    'ASC-M-Innive Technologies Ikotun',
-    'ASC-M-Intaj Dynamic',
-    'ASC-M-Jenzabar Limited',
-    'ASC-M-Johnwhite Signal Tech',
-    'ASC-M-Ju\'Mike Global Ifo',
-    'ASC-M-Ju\'Mike Global Telecommunication',
-    'ASC-M-K.Divine Technology Limited',
-    'ASC-M-Kraaft Technology & services',
-    'ASC-M-MIDAS TOUCH KANO',
-    'ASC-M-MMS Dot Global Ventures Limited',
-    'ASC-M-Magic Brothers Communications Ltd.',
-    'ASC-M-Matga Service',
-    'ASC-M-Matga Service Oye',
-    'ASC-M-Maxwell Telecoms Nig Ents.',
-    'ASC-M-Midas Touch Akure',
-    'ASC-M-Midas Touch Kaduna',
-    'ASC-M-Midas Touch Lagos',
-    'ASC-M-Midas Touch Sokoto',
-    'ASC-M-Midas touch Jos',
-    'ASC-M-Monday Mega Enterprise',
-    'ASC-M-New Moon Unique Link',
-    'ASC-M-Next Care Bariga',
-    'ASC-M-Next Care Limited',
-    'ASC-M-Next Care Sabo',
-    'ASC-M-Neyo Multi Global Concept',
-    'ASC-M-Olumajek IT Continental Mowe',
-    'ASC-M-Pulseconnect',
-    'ASC-M-Reedlim Global Enterprise Bauchi',
-    'ASC-M-Reedlim Global Enterprise Gombe',
-    'ASC-M-Sgv Ict Ltd',
-    'ASC-M-Sixth Sixth Technologies',
-    'ASC-M-Smartphone Global Dutse',
-    'ASC-M-Sulit Hub',
-    'ASC-M-Sulit Hub Ota',
-    'ASC-M-Switrat Limited',
-    'ASC-M-Techwitch Ltd.',
-    'ASC-M-Tonijam Nig.Ltd',
-    'ASC-M-Triple Sea Integrated Services Ltd',
-    'ASC-M-Ustaz Exclusive Stores',
-    'ASC-M-Visco communication ltd',
-    'ASC-M-Yisab Communication Nigeria',
-    'ASC-M-Zikniks Enterprises Limited',
-    'ASC-M-Zikniks Enterprises Maiduguri',
-    'ASC-M-Zikniks Suleja',
-    'ASRP  Bounovalia Ventures',
-    'ASRP-3chub-Shoddy Tech',
-    'ASRP-Ajele Communication(Yaba Tech)',
-    'ASRP-Blast Care Oyewole',
-    'ASRP-Elohim Comm',
-    'ASRP-Harizonal & Sons Communication',
-    'ASRP-KD distribution & service',
-    'ASRP-Kal care Service',
-    'ASRP-Klanyjay Services Brand',
-    'ASRP-Mecca Media Ltd',
-    'ASRP-Mosie Solid Hub',
-    'ASRP-NEXT CARE LIMITED',
-    'ASRP-Phone Headquarters',
-    'ASRP-REWJIDO UNIVERSAL SERVICES',
-    'ASRP-Shodytech',
-    'ASRP-SmartPhone Global',
-    'ASRP-Snappy Fix',
-    'ASRP-T.Comm',
-    'ASRP-T.Comm Surulere',
-    'ASRP-Vinchino Global Ventures',
-    'Carlcare-Abuja',
-    'Carlcare-Benin',
-    'Carlcare-CV(Computer Village)',
-    'Carlcare-Ibadan',
-    'Carlcare-Kano',
-    'Carlcare-Lagos Victoria Island(3chub)',
-    'Carlcare-Onitsha',
-    'Carlcare-Port-harcourt',
-    'Carlcare-Warri',
-    'ESS-MWH',
-    'L4 Device Repair',
-    'L4 PCBA Repair',
-    'L4 Recycle Repair',
-    'NGSI03752-IF-Tech Nigeria Limited(Shagamu)',
-    'NGSI03761-D\'Care Concept Limited(Amukoko)',
-    'NGSI03772-Klanyjay Services Brand(Giwa)',
-    'NGSI03781-Gadgets Place Ng Ltd',
-    'Nigeria Recycle MWH',
-    'Nigeria-MWH',
-];
-                
+                    'ASC-M-Adehero Service','ASC-M-Beecasual Ventures','ASC-M-Bestfix',
+                    'ASC-M-Bluegate Bamboo Ajah-TypeB','ASC-M-Bluegate Bamboo Mushin-TypeB',
+                    'ASC-M-Breva Enterprises Limited Ilorin','ASC-M-Breva Enterprises Limited Lagos',
+                    'ASC-M-Carosammy Concept Ltd','ASC-M-Crescita Global Resources Ltd',
+                    'ASC-M-Darigo 03 Communication Ltd','ASC-M-Delink Matrix Lakowe',
+                    'ASC-M-Delinks Matrix Ikorodu','ASC-M-Device Hub Limited',
+                    'ASC-M-Don-Yellow Tech','ASC-M-Femtech Information Technology Ltd',
+                    'ASC-M-Femtech Offa','ASC-M-G-Care Communication','ASC-M-Gifted hands Tech',
+                    'ASC-M-Golden Eagle Technology Limited Ajegunle',
+                    'ASC-M-Golden Eagle Technology Limited Festac',
+                    'ASC-M-Grand Venadum Resource Limited','ASC-M-Great Mind Telecom Service',
+                    'ASC-M-Greenfield Gadgets Solution Aba','ASC-M-Greenfield Gadgets Solution Calabar',
+                    'ASC-M-Greenfield Gadgets Solution Enugu','ASC-M-Greenfield Gadgets Solution Nsukka',
+                    'ASC-M-Greenfield Gadgets Solution Orlu','ASC-M-Greenfield Gadgets Solution Uyo',
+                    'ASC-M-Haslida Concept','ASC-M-Haven Buddy Integrated Concept',
+                    'ASC-M-Ifix Repair Hub','ASC-M-Innive Technologies (Itel Homes)',
+                    'ASC-M-Innive Technologies Alaba','ASC-M-Innive Technologies Ikotun',
+                    'ASC-M-Intaj Dynamic','ASC-M-Jenzabar Limited','ASC-M-Johnwhite Signal Tech',
+                    "ASC-M-Ju'Mike Global Ifo","ASC-M-Ju'Mike Global Telecommunication",
+                    'ASC-M-K.Divine Technology Limited','ASC-M-Kraaft Technology & services',
+                    'ASC-M-MIDAS TOUCH KANO','ASC-M-MMS Dot Global Ventures Limited',
+                    'ASC-M-Magic Brothers Communications Ltd.','ASC-M-Matga Service',
+                    'ASC-M-Matga Service Oye','ASC-M-Maxwell Telecoms Nig Ents.',
+                    'ASC-M-Midas Touch Akure','ASC-M-Midas Touch Kaduna',
+                    'ASC-M-Midas Touch Lagos','ASC-M-Midas Touch Sokoto',
+                    'ASC-M-Midas touch Jos','ASC-M-Monday Mega Enterprise',
+                    'ASC-M-New Moon Unique Link','ASC-M-Next Care Bariga',
+                    'ASC-M-Next Care Limited','ASC-M-Next Care Sabo',
+                    'ASC-M-Neyo Multi Global Concept','ASC-M-Olumajek IT Continental Mowe',
+                    'ASC-M-Pulseconnect','ASC-M-Reedlim Global Enterprise Bauchi',
+                    'ASC-M-Reedlim Global Enterprise Gombe','ASC-M-Sgv Ict Ltd',
+                    'ASC-M-Sixth Sixth Technologies','ASC-M-Smartphone Global Dutse',
+                    'ASC-M-Sulit Hub','ASC-M-Sulit Hub Ota','ASC-M-Switrat Limited',
+                    'ASC-M-Techwitch Ltd.','ASC-M-Tonijam Nig.Ltd',
+                    'ASC-M-Triple Sea Integrated Services Ltd','ASC-M-Ustaz Exclusive Stores',
+                    'ASC-M-Visco communication ltd','ASC-M-Yisab Communication Nigeria',
+                    'ASC-M-Zikniks Enterprises Limited','ASC-M-Zikniks Enterprises Maiduguri',
+                    'ASC-M-Zikniks Suleja','ASRP  Bounovalia Ventures','ASRP-3chub-Shoddy Tech',
+                    'ASRP-Ajele Communication(Yaba Tech)','ASRP-Blast Care Oyewole',
+                    'ASRP-Elohim Comm','ASRP-Harizonal & Sons Communication',
+                    'ASRP-KD distribution & service','ASRP-Kal care Service',
+                    'ASRP-Klanyjay Services Brand','ASRP-Mecca Media Ltd',
+                    'ASRP-Mosie Solid Hub','ASRP-NEXT CARE LIMITED',
+                    'ASRP-Phone Headquarters','ASRP-REWJIDO UNIVERSAL SERVICES',
+                    'ASRP-Shodytech','ASRP-SmartPhone Global','ASRP-Snappy Fix',
+                    'ASRP-T.Comm','ASRP-T.Comm Surulere','ASRP-Vinchino Global Ventures',
+                    'Carlcare-Abuja','Carlcare-Benin','Carlcare-CV(Computer Village)',
+                    'Carlcare-Ibadan','Carlcare-Kano','Carlcare-Lagos Victoria Island(3chub)',
+                    'Carlcare-Onitsha','Carlcare-Port-harcourt','Carlcare-Warri',
+                    'ESS-MWH','L4 Device Repair','L4 PCBA Repair','L4 Recycle Repair',
+                    'NGSI03752-IF-Tech Nigeria Limited(Shagamu)',
+                    "NGSI03761-D'Care Concept Limited(Amukoko)",
+                    'NGSI03772-Klanyjay Services Brand(Giwa)',
+                    'NGSI03781-Gadgets Place Ng Ltd','Nigeria Recycle MWH','Nigeria-MWH',
+                ];
+
                 const warehouseList = document.getElementById('warehouseList');
                 const warehouseSearch = document.getElementById('warehouseSearch');
-                
                 fixedWarehouses.forEach(wh => {
                     const item = document.createElement('div');
                     item.className = 'warehouse-item';
                     item.dataset.warehouse = wh.toLowerCase();
                     const safeId = wh.replace(/[^a-zA-Z0-9]/g, '_');
-                    item.innerHTML = `
-                        <input type="checkbox" id="wh_${safeId}" value="${wh}">
-                        <label style="cursor:pointer;flex:1;user-select:none;">${wh}</label>
-                    `;
-                    // Click on the label toggles the checkbox
+                    item.innerHTML = `<input type="checkbox" id="wh_${safeId}" value="${wh}"><label style="cursor:pointer;flex:1;user-select:none;">${wh}</label>`;
                     const label = item.querySelector('label');
-                    label.addEventListener('mousedown', (e) => {
-                        e.preventDefault(); // prevent focus from leaving search box
-                    });
-                    label.addEventListener('click', (e) => {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        const cb = item.querySelector('input[type="checkbox"]');
-                        cb.checked = !cb.checked;
-                        cb.dispatchEvent(new Event('change', { bubbles: true }));
-                    });
+                    label.addEventListener('mousedown', e => e.preventDefault());
+                    label.addEventListener('click', e => { e.preventDefault(); e.stopPropagation(); const cb = item.querySelector('input[type="checkbox"]'); cb.checked = !cb.checked; cb.dispatchEvent(new Event('change', { bubbles: true })); });
                     warehouseList.appendChild(item);
                 });
-                
-                warehouseSearch.addEventListener('input', (e) => {
-                    const searchTerm = e.target.value.toLowerCase();
-                    document.querySelectorAll('.warehouse-item').forEach(item => {
-                        const warehouse = item.dataset.warehouse;
-                        item.style.display = warehouse.includes(searchTerm) ? 'flex' : 'none';
-                    });
+                warehouseSearch.addEventListener('input', e => {
+                    const s = e.target.value.toLowerCase();
+                    document.querySelectorAll('.warehouse-item').forEach(item => { item.style.display = item.dataset.warehouse.includes(s) ? 'flex' : 'none'; });
                 });
-                
-                // Show all warehouse names when search box is focused
-                warehouseSearch.addEventListener('focus', () => {
-                    warehouseSearch.value = '';
-                    document.querySelectorAll('.warehouse-item').forEach(item => {
-                        item.style.display = 'flex';
-                    });
-                });
-                
-                // Update search box to show selected warehouse
-                warehouseList.addEventListener('change', (e) => {
+                warehouseSearch.addEventListener('focus', () => { warehouseSearch.value = ''; document.querySelectorAll('.warehouse-item').forEach(item => { item.style.display = 'flex'; }); });
+                warehouseList.addEventListener('change', e => {
                     if (e.target.type === 'checkbox') {
-                        const checkedBoxes = Array.from(warehouseList.querySelectorAll('input[type="checkbox"]:checked'));
-                        if (checkedBoxes.length > 0) {
-                            // Show first selected warehouse name
-                            warehouseSearch.value = checkedBoxes[0].value;
-                        } else {
-                            // No selection = all warehouses, clear search box
-                            warehouseSearch.value = '';
-                        }
+                        const checked = Array.from(warehouseList.querySelectorAll('input[type="checkbox"]:checked'));
+                        warehouseSearch.value = checked.length > 0 ? checked[0].value : '';
                     }
                 });
-                
-                // Show update time
+
                 const now = new Date();
-                document.getElementById('updateTime').textContent = 
-                    `Last updated: ${now.toLocaleString('en-US')}`;
+                document.getElementById('updateTime').textContent = `Last updated: ${now.toLocaleString('en-US')}`;
                 document.getElementById('updateTime').style.display = 'block';
-                
             } catch (error) {
                 showError('Failed to load data. Please try again later.');
             }
         }
-        
-        // Search
+
         async function search() {
-            const materialCode = document.getElementById('materialCode').value.trim();
+            const materialCode = document.getElementById('materialCode').value.trim().toLowerCase();
+            const modelFilter = document.getElementById('modelFilter').value.trim().toLowerCase();
+            const brandFilter = document.getElementById('brandFilter').value.trim().toLowerCase();
+            const typeFilter = document.getElementById('typeFilter').value.trim().toLowerCase();
             const selectedWarehouses = Array.from(document.querySelectorAll('#warehouseList input[type="checkbox"]:checked')).map(cb => cb.value);
-            
-            if (!materialCode) {
-                showError('Please enter a material code');
+
+            if (!materialCode && !modelFilter && !brandFilter && !typeFilter) {
+                showError('Please enter at least one search criteria');
                 return;
             }
-            
+
             hideError();
-            
             const resultCard = document.getElementById('resultCard');
             const summary = document.getElementById('summary');
             const resultBody = document.getElementById('resultBody');
-            
             resultCard.classList.remove('show');
             summary.innerHTML = '<div class="loading">Querying</div>';
             resultBody.innerHTML = '';
-            
             await new Promise(resolve => setTimeout(resolve, 100));
-            
-            // Query main material
-            let mainStock = 0;
-            const mainResults = [];
-            
-            // Get material description from index
-            // Priority: inventory _desc > substitute data > in-transit context > default
-            let materialDesc = inventoryData[materialCode]?._desc || '';
-            if (!materialDesc && substituteData) {
-                // substitute 已精简为纯 code 数组（无 desc），描述统一从库存索引取
-                // 反向兜底：若本物料被其他物料作为替代，取父物料描述
-                for (const [parentCode, subs] of Object.entries(substituteData)) {
-                    if (subs.includes(materialCode)) {
-                        materialDesc = inventoryData[parentCode]?._desc || parentCode;
-                        break;
-                    }
-                }
-            }
-            if (!materialDesc) materialDesc = materialCode;
-            // Strip material code prefix from description if present (e.g. "10306089-Power Bank..." -> "Power Bank...")
-            if (materialDesc.startsWith(materialCode + '-')) {
-                materialDesc = materialDesc.substring(materialCode.length + 1);
-            }
-            
-            // Helper: check if warehouse has in-transit for this material
+
             function hasInTransit(code, whName) {
                 if (!inTransitData || !inTransitData[code]) return false;
                 return (inTransitData[code][whName] || 0) > 0;
             }
-            
-            if (inventoryData[materialCode]) {
-                if (selectedWarehouses.length > 0) {
-                    selectedWarehouses.forEach(wh => {
-                        const stock = inventoryData[materialCode][wh]?.Good || 0;
-                        const whName = wh;
-                        mainStock += stock;
-                        if (stock > 0 || hasInTransit(materialCode, whName)) {
-                            mainResults.push({
-                                code: materialCode,
-                                desc: materialDesc,
-                                warehouse: wh,
-                                stock: stock,
-                                type: 'main'
-                            });
-                        }
-                    });
-                } else {
-                    Object.entries(inventoryData[materialCode]).forEach(([wh, data]) => {
-                        if (wh === '_desc') return; // skip description field
-                        const stock = data.Good || 0;
-                        const whName = wh;
-                        mainStock += stock;
-                        if (stock > 0 || hasInTransit(materialCode, whName)) {
-                            mainResults.push({
-                                code: materialCode,
-                                desc: materialDesc,
-                                warehouse: wh,
-                                stock: stock,
-                                type: 'main'
-                            });
-                        }
-                    });
-                }
-            }
-            
-            // Query substitutes (bidirectional)
-            let subStock = 0;
-            const subResults = [];
-            const seenSubCodes = new Set();
-            
-            // Forward lookup: substituteData[materialCode]
-            if (substituteData[materialCode]) {
-                for (const subCode of substituteData[materialCode]) {
-                    const subDesc = inventoryData[subCode]?._desc || subCode;
-                    seenSubCodes.add(subCode);
-                    
-                    if (inventoryData[subCode]) {
-                        if (selectedWarehouses.length > 0) {
-                            selectedWarehouses.forEach(wh => {
-                                const stock = inventoryData[subCode][wh]?.Good || 0;
-                                const whName = wh;
-                                subStock += stock;
-                                if (stock > 0 || hasInTransit(subCode, whName)) {
-                                    subResults.push({
-                                        code: subCode,
-                                        desc: subDesc,
-                                        warehouse: wh,
-                                        stock: stock,
-                                        type: 'sub'
-                                    });
-                                }
-                            });
-                        } else {
-                            Object.entries(inventoryData[subCode]).forEach(([wh, data]) => {
-                                const stock = data.Good || 0;
-                                const whName = wh;
-                                subStock += stock;
-                                if (stock > 0 || hasInTransit(subCode, whName)) {
-                                    subResults.push({
-                                        code: subCode,
-                                        desc: subDesc,
-                                        warehouse: wh,
-                                        stock: stock,
-                                        type: 'sub'
-                                    });
-                                }
-                            });
-                        }
-                    }
-                }
-            }
-            
-            // Reverse lookup: find materials that have this as a substitute
-            for (const [parentCode, subs] of Object.entries(substituteData)) {
-                if (parentCode === materialCode || seenSubCodes.has(parentCode)) continue;
-                if (!subs.includes(materialCode)) continue;
-                const revDesc = inventoryData[parentCode]?._desc || parentCode;
-                
-                if (inventoryData[parentCode]) {
-                    if (selectedWarehouses.length > 0) {
-                        selectedWarehouses.forEach(wh => {
-                            const stock = inventoryData[parentCode][wh]?.Good || 0;
-                            const whName = wh;
-                            subStock += stock;
-                            if (stock > 0 || hasInTransit(parentCode, whName)) {
-                                subResults.push({
-                                    code: parentCode,
-                                    desc: revDesc,
-                                    warehouse: wh,
-                                    stock: stock,
-                                    type: 'sub-rev'
-                                });
-                            }
-                        });
-                    } else {
-                        Object.entries(inventoryData[parentCode]).forEach(([wh, data]) => {
-                            const stock = data.Good || 0;
-                            const whName = wh;
-                            subStock += stock;
-                            if (stock > 0 || hasInTransit(parentCode, whName)) {
-                                subResults.push({
-                                    code: parentCode,
-                                    desc: revDesc,
-                                    warehouse: wh,
-                                    stock: stock,
-                                    type: 'sub-rev'
-                                });
-                            }
-                        });
-                    }
-                }
-            }
-            
-            const totalStock = mainStock + subStock;
-            
-            // Show summary (Total In Transit will be calculated from displayed rows)
-            summary.innerHTML = `
-                <div class="summary-item main">
-                    <div class="label">Main Material Stock</div>
-                    <div class="value">${mainStock}</div>
-                </div>
-                <div class="summary-item sub">
-                    <div class="label">Substitute Stock</div>
-                    <div class="value">${subStock}</div>
-                </div>
-                <div class="summary-item total">
-                    <div class="label">Total Available</div>
-                    <div class="value">${totalStock}</div>
-                </div>
-                <div class="summary-item" style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);">
-                    <div class="label">Total In Transit</div>
-                    <div class="value" style="color: #e65100;" id="totalInTransitValue">-</div>
-                </div>
-            `;
-            
-            // Show details - deduplicate by warehouse + material code
-            const allResults = [...mainResults, ...subResults];
-            const seen = new Set();
-            const dedupedResults = allResults.filter(r => {
-                const key = `${r.code}_${r.warehouse}`;
-                if (seen.has(key)) return false;
-                seen.add(key);
+
+            function matchesFilter(code, data) {
+                if (materialCode && !code.includes(materialCode)) return false;
+                const model = (data._model || '').toLowerCase();
+                const brand = (data._brand || '').toLowerCase();
+                const group = (data._material_group || '').toLowerCase();
+                if (modelFilter && !model.includes(modelFilter)) return false;
+                if (brandFilter && !brand.includes(brandFilter)) return false;
+                if (typeFilter && !group.includes(typeFilter)) return false;
                 return true;
-            });
-            
-            // Add in-transit-only rows: warehouses with in-transit but no inventory for this material
-            if (inTransitData && inTransitData[materialCode]) {
-                for (const [whName, qty] of Object.entries(inTransitData[materialCode])) {
-                    const key = `${materialCode}_${whName}`;
-                    if (!seen.has(key) && qty > 0) {
-                        dedupedResults.push({
-                            code: materialCode,
-                            desc: materialDesc,
-                            warehouse: whName,
-                            stock: 0,
-                            type: 'main'
-                        });
-                        seen.add(key);
+            }
+
+            function getWarehouses(data, selectedWh) {
+                const entries = Object.entries(data).filter(([k]) => !k.startsWith('_'));
+                if (selectedWh.length > 0) return entries.filter(([wh]) => selectedWh.includes(wh));
+                return entries;
+            }
+
+            // Find matching materials
+            const matchedCodes = [];
+            for (const [code, data] of Object.entries(inventoryData)) {
+                if (matchesFilter(code, data)) matchedCodes.push(code);
+            }
+
+            // Also check substitutes
+            const allCodes = new Set(matchedCodes);
+            for (const code of matchedCodes) {
+                if (substituteData[code]) substituteData[code].forEach(s => allCodes.add(s));
+                for (const [parentCode, subs] of Object.entries(substituteData)) {
+                    if (subs.includes(code)) allCodes.add(parentCode);
+                }
+            }
+
+            let mainStock = 0, subStock = 0;
+            const allResults = [];
+            const seen = new Set();
+
+            for (const code of allCodes) {
+                const data = inventoryData[code];
+                if (!data) continue;
+                const isMain = matchedCodes.includes(code);
+                const desc = data._desc || code;
+                const model = data._model || '';
+                const brand = data._brand || '';
+                const group = data._material_group || '';
+                const grade = data._material_grade || '';
+
+                const warehouses = getWarehouses(data, selectedWarehouses);
+                for (const [wh, stockData] of warehouses) {
+                    const stock = stockData.Good || 0;
+                    const transit = inTransitData && inTransitData[code] && inTransitData[code][wh] ? inTransitData[code][wh] : 0;
+                    if (stock === 0 && transit === 0) continue;
+
+                    const key = `${code}_${wh}`;
+                    if (seen.has(key)) continue;
+                    seen.add(key);
+
+                    if (isMain) mainStock += stock; else subStock += stock;
+                    allResults.push({ code, desc, model, brand, group, grade, warehouse: wh, stock, transit, type: isMain ? 'main' : 'sub' });
+                }
+            }
+
+            // Add in-transit-only rows
+            for (const code of allCodes) {
+                if (inTransitData && inTransitData[code]) {
+                    for (const [whName, qty] of Object.entries(inTransitData[code])) {
+                        const key = `${code}_${whName}`;
+                        if (!seen.has(key) && qty > 0) {
+                            seen.add(key);
+                            const data = inventoryData[code] || {};
+                            allResults.push({ code, desc: data._desc || code, model: data._model || '', brand: data._brand || '', group: data._material_group || '', grade: data._material_grade || '', warehouse: whName, stock: 0, transit: qty, type: matchedCodes.includes(code) ? 'main' : 'sub' });
+                        }
                     }
                 }
             }
-            
-            // Calculate Total In Transit from displayed rows only
-            let totalInTransit = 0;
-            dedupedResults.forEach(r => {
-                const whName = r.warehouse;
-                const inTransit = inTransitData && inTransitData[r.code] && inTransitData[r.code][whName] ? inTransitData[r.code][whName] : 0;
-                totalInTransit += inTransit;
-            });
-            
-            // Update Total In Transit in summary
-            const totalInTransitEl = document.getElementById('totalInTransitValue');
-            if (totalInTransitEl) totalInTransitEl.textContent = totalInTransit;
-            
-            // Sort results: searched material code first, then substitutes, then sub-rev
-            const searchCode = materialCode;
-            dedupedResults.sort((a, b) => {
-                // Searched code always first
-                if (a.code === searchCode && b.code !== searchCode) return -1;
-                if (b.code === searchCode && a.code !== searchCode) return 1;
-                // Then main types before sub types
-                const typeOrder = { 'main': 0, 'sub': 1, 'sub-rev': 2 };
-                return (typeOrder[a.type] || 3) - (typeOrder[b.type] || 3);
+
+            const totalStock = mainStock + subStock;
+            const totalTransit = allResults.reduce((s, r) => s + r.transit, 0);
+
+            summary.innerHTML = `
+                <div class="summary-item main"><div class="label">Main Material Stock</div><div class="value">${mainStock}</div></div>
+                <div class="summary-item sub"><div class="label">Substitute Stock</div><div class="value">${subStock}</div></div>
+                <div class="summary-item total"><div class="label">Total Available</div><div class="value">${totalStock}</div></div>
+                <div class="summary-item" style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);"><div class="label">Total In Transit</div><div class="value" style="color: #e65100;">${totalTransit}</div></div>
+            `;
+
+            // Sort: main first, then by stock desc
+            allResults.sort((a, b) => {
+                if (a.type !== b.type) return a.type === 'main' ? -1 : 1;
+                return b.stock - a.stock;
             });
 
-            if (dedupedResults.length === 0) {
-                resultBody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:#999;">No stock records found</td></tr>';
+            document.getElementById('resultCount').textContent = `Showing ${allResults.length} rows`;
+
+            if (allResults.length === 0) {
+                resultBody.innerHTML = '<tr><td colspan="9" style="text-align:center;padding:40px;color:#999;">No stock records found</td></tr>';
             } else {
-                resultBody.innerHTML = dedupedResults.map(r => {
-                    const whName = r.warehouse;
-                    const inTransit = inTransitData && inTransitData[r.code] && inTransitData[r.code][whName] ? inTransitData[r.code][whName] : 0;
-                    return `
+                resultBody.innerHTML = allResults.map(r => `
                     <tr>
-                        <td>${r.code}</td>
+                        <td style="font-family:monospace;font-weight:600;color:#008751;">${r.code}</td>
                         <td>${r.desc}</td>
-                        <td>${whName}</td>
+                        <td>${r.model}</td>
+                        <td>${r.brand}</td>
+                        <td>${r.warehouse}</td>
+                        <td>${r.group}</td>
                         <td class="${r.stock > 10 ? 'stock-good' : r.stock > 0 ? 'stock-low' : 'stock-zero'}">${r.stock}</td>
-                        <td class="${inTransit > 0 ? 'stock-good' : 'stock-zero'}">${inTransit}</td>
+                        <td class="${r.transit > 0 ? 'stock-good' : 'stock-zero'}">${r.transit}</td>
                         <td><span class="badge ${r.type}">${r.type === 'main' ? 'Main' : 'Substitute'}</span></td>
                     </tr>
-                    `;
-                }).join('');
+                `).join('');
             }
-            
             resultCard.classList.add('show');
         }
-        
-        function showError(msg) {
-            const error = document.getElementById('errorMsg');
-            error.textContent = msg;
-            error.classList.add('show');
-        }
-        
-        function hideError() {
-            document.getElementById('errorMsg').classList.remove('show');
-        }
-        
-        // Event bindings
+
+        function showError(msg) { const e = document.getElementById('errorMsg'); e.textContent = msg; e.classList.add('show'); }
+        function hideError() { document.getElementById('errorMsg').classList.remove('show'); }
+
         document.getElementById('searchBtn').addEventListener('click', search);
-        document.getElementById('materialCode').addEventListener('keypress', e => {
-            if (e.key === 'Enter') search();
+        document.querySelectorAll('.search-form input[type="text"]').forEach(el => {
+            el.addEventListener('keypress', e => { if (e.key === 'Enter') search(); });
         });
-        
-        // Init
+
         loadData();
     </script>
 </body>
 </html>
-<!-- Nigeria Inventory Query System v1.0 -->
+<!-- Nigeria Inventory Query System v2.0 -->

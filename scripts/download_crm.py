@@ -85,117 +85,142 @@ async def trigger_export(page, report_name, menu_path):
     print(f"  Export task created!")
 
 async def download_from_task_list(page, report_name, timeout_min=15):
-    """Navigate to Task List and wait for task to finish, then download"""
+    """Navigate to Task List and wait for task to finish, then download.
+    
+    Key fix: the Task List page does NOT auto-refresh. We must reload + Search
+    on every poll cycle to get fresh task status. Otherwise we keep seeing stale
+    data from the initial page load.
+    """
     print(f"  Navigating to Task List...")
     await page.goto(CRM_URL, wait_until="networkidle", timeout=60000)
     await wait(page, 3)
-    await click_menu(page, ["Report Center", "Asynchronous Report Mgt", "Task List"])
+    await click_menu(page, ["Report", "Asynchronous Report Mgt", "Task List"])
     await wait(page, 5)
     print(f"  Task List URL: {page.url}")
     
-    # Uncheck "Hide Ended Task" to see all tasks
-    await page.evaluate("""
-        () => {
-            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-            for (const cb of checkboxes) {
-                const label = cb.closest('label') || cb.parentElement;
-                const text = (label?.textContent || '').trim();
-                if (text.includes('Hide Ended') || text.includes('hide ended')) {
-                    if (cb.checked) cb.click();
-                    return 'unchecked';
-                }
-            }
-            return 'not found';
-        }
-    """)
-    await wait(page, 2)
-    
-    # Change scope to see all tasks
-    await page.evaluate("""
-        () => {
-            // Try to find scope dropdown and select "All"
-            const selects = document.querySelectorAll('.el-select, select');
-            for (const sel of selects) {
-                const label = sel.closest('.el-form-item');
-                if (label?.textContent?.includes('Scope')) {
-                    sel.click();
-                    return 'clicked';
-                }
-            }
-            return 'no scope';
-        }
-    """)
-    await wait(page, 2)
-    
-    # Click Search on Task List
-    await click_btn(page, "Search")
-    await wait(page, 5)
-    
-    print(f"  Waiting for task to complete (max {timeout_min} min)...")
+    print(f"  Waiting for task to complete (max {timeout_min} min, polling every 15s)...")
     start = time.time()
     
     while time.time() - start < timeout_min * 60:
-        await wait(page, 15)
+        # RELOAD every cycle — the page does not auto-refresh
+        await page.reload()
+        await wait(page, 5)
+        
+        # Uncheck "Hide Ended Task" (reverts on reload)
+        await page.evaluate("""
+            () => {
+                const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+                for (const cb of checkboxes) {
+                    const label = cb.closest('label') || cb.parentElement;
+                    const text = (label?.textContent || '').trim();
+                    if (text.includes('Hide Ended') || text.includes('hide ended')) {
+                        if (cb.checked) cb.click();
+                    }
+                }
+            }
+        """)
+        await wait(page, 1)
+        
+        # Click Search to refresh the task list
+        await click_btn(page, "Search")
+        await wait(page, 5)
+        
         elapsed = int(time.time() - start)
         
-        # Check task status
-        status = await page.evaluate("""
-            () => {
+        # Check task status — scan all rows, matching task name to our report
+        result = await page.evaluate("""
+            (reportName) => {
                 const rows = document.querySelectorAll('.el-table__row');
+                let latest = 'no_tasks';
+                
+                // Normalize report name for matching (e.g. "Inventory_Overview" -> "inventory")
+                const reportKey = reportName.toLowerCase().replace(/[^a-z0-9]/g, '');
+                
                 for (const row of rows) {
                     const cells = row.querySelectorAll('td, .el-table__cell');
-                    const status = cells[4]?.textContent?.trim() || '';
-                    const taskName = cells[5]?.textContent?.trim() || '';
+                    if (cells.length < 6) continue;
                     
-                    // Check for finished status
-                    if (status.includes('Finished') || status.includes('30-') || status.includes('Completed')) {
-                        // Look for download link in operate column (column 1)
+                    const status = (cells[4]?.textContent || '').trim();
+                    const taskName = (cells[5]?.textContent || '').trim();
+                    const taskKey = taskName.toLowerCase().replace(/[^a-z0-9]/g, '');
+                    
+                    // Must match our report name
+                    if (!taskKey.includes(reportKey)) continue;
+                    
+                    // Finished / completed — click download
+                    if (status.includes('Finished') || status.includes('30-') || 
+                        status.includes('Completed') || status.includes('Ended') ||
+                        status.includes('Success')) {
                         const operateCell = cells[1];
                         if (operateCell) {
-                            const links = operateCell.querySelectorAll('a, button, i, span');
-                            for (const link of links) {
-                                const cls = (link.className?.toString() || '').toLowerCase();
-                                if (cls.includes('download') || cls.includes('el-icon-download')) {
-                                    link.click();
+                            // Look for download icon or link
+                            const allEls = operateCell.querySelectorAll('*');
+                            for (const el of allEls) {
+                                const cls = (el.className?.toString() || '').toLowerCase();
+                                const text = (el.textContent || '').trim().toLowerCase();
+                                if (cls.includes('download') || cls.includes('el-icon-download') ||
+                                    text.includes('download') || text === '下载') {
+                                    el.click();
                                     return 'clicked_download:' + taskName;
                                 }
                             }
-                            // Try clicking the first visible element
-                            for (const link of links) {
-                                if (link.offsetParent !== null) {
-                                    link.click();
+                            // Fallback: click first visible element
+                            for (const el of allEls) {
+                                if (el.offsetParent !== null && el.tagName !== 'DIV') {
+                                    el.click();
                                     return 'clicked_operate:' + taskName;
                                 }
                             }
                         }
-                        return 'finished_no_link:' + status + ':' + taskName;
+                        latest = 'finished_no_link:' + status + ':' + taskName;
+                        continue;
                     }
                     
-                    if (status.includes('Running') || status.includes('20-')) {
-                        return 'running:' + taskName;
+                    // Running / processing
+                    if (status.includes('Running') || status.includes('20-') || 
+                        status.includes('Processing') || status.includes('Executing')) {
+                        latest = 'running:' + taskName;
+                        continue;
+                    }
+                    
+                    // Waiting / queued
+                    if (status.includes('Waiting') || status.includes('Pending') || 
+                        status.includes('10-') || status.includes('Queue')) {
+                        if (latest === 'no_tasks') latest = 'waiting:' + taskName;
+                        continue;
                     }
                 }
-                return 'no_tasks';
+                
+                return latest;
             }
-        """)
+        """, report_name)
         
-        print(f"  [{elapsed}s] {status}")
+        print(f"  [{elapsed}s] {result}")
         
-        if status.startswith('clicked'):
-            await wait(page, 15)
-            # Check downloads
-            files = [f for f in os.listdir(DOWNLOAD_DIR) if os.path.getsize(os.path.join(DOWNLOAD_DIR, f)) > 1000]
+        if result.startswith('clicked'):
+            # Wait for download to trigger and complete
+            await wait(page, 20)
+            files = [f for f in os.listdir(DOWNLOAD_DIR) 
+                     if os.path.getsize(os.path.join(DOWNLOAD_DIR, f)) > 1000]
             if files:
-                path = os.path.join(DOWNLOAD_DIR, max(files, key=lambda f: os.path.getmtime(os.path.join(DOWNLOAD_DIR, f))))
+                path = os.path.join(DOWNLOAD_DIR, 
+                    max(files, key=lambda f: os.path.getmtime(os.path.join(DOWNLOAD_DIR, f))))
                 print(f"  Downloaded: {path} ({os.path.getsize(path)} bytes)")
                 return path
-            break
+            # If no file yet, wait a bit more
+            await wait(page, 10)
+            files = [f for f in os.listdir(DOWNLOAD_DIR) 
+                     if os.path.getsize(os.path.join(DOWNLOAD_DIR, f)) > 1000]
+            if files:
+                path = os.path.join(DOWNLOAD_DIR, 
+                    max(files, key=lambda f: os.path.getmtime(os.path.join(DOWNLOAD_DIR, f))))
+                print(f"  Downloaded: {path} ({os.path.getsize(path)} bytes)")
+                return path
+            print(f"  Download click sent but no file found. Continuing...")
+            continue
         
-        if status == 'no_tasks':
-            await page.reload()
-            await wait(page, 5)
-            await click_btn(page, "Search")
-            await wait(page, 5)
+        # If no tasks at all, the export may not have been created yet
+        # Keep polling; the task usually appears within 30-60 seconds
     
     return None
 
