@@ -27,15 +27,16 @@
             margin-bottom: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);
         }
         .search-card { background: white; border-radius: 10px; padding: 16px 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 12px; }
-        .search-form { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
-        .form-group { display: flex; align-items: center; gap: 8px; flex: 1; min-width: 0; }
-        .form-group label { white-space: nowrap; margin-bottom: 0; color: #333; font-weight: 500; font-size: 12px; }
+        .search-form { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+        .form-group { display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 100px; }
+        .form-group label { white-space: nowrap; color: #555; font-weight: 600; font-size: 11px; }
         .form-group input[type="text"] {
             padding: 8px 10px; border: 1px solid #e0e0e0; border-radius: 6px;
-            font-size: 13px; outline: none; background: white; width: 100%; min-width: 120px;
+            font-size: 13px; outline: none; background: white; width: 100%;
         }
         .form-group input:focus { outline: none; border-color: #008751; }
-        .warehouse-box { position: relative; min-width: 200px; max-width: 100%; flex: 2; }
+        .warehouse-box { position: relative; min-width: 160px; max-width: 100%; flex: 2; }
+        .warehouse-box input[type="text"] { width: 100%; }
         .warehouse-list {
             display: none; position: absolute; top: 100%; left: 0; right: 0; z-index: 100;
             grid-template-columns: 1fr 1fr; gap: 4px 12px; max-height: 200px; overflow-y: auto;
